@@ -1408,7 +1408,8 @@ footer {
 
 .monette-section .monette-portrait::after { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: var(--gold); border-radius: 0 0 var(--radius-lg) var(--radius-lg); }
 .monette-portrait-flag { font-size: 44px; line-height: 1; }
-.monette-portrait-name { font-family: 'Playfair Display', serif; font-size: 24px; font-weight: 700; color: var(--navy); }
+.monette-portrait-name { font-family: 'Playfair Display', serif; font-size: 24px; font-weight: 700; color: var(--white); }
+.monette-section .monette-portrait-name { color: var(--gold); }
 .monette-portrait-title { font-size: 13px; color: var(--muted); font-weight: 500; line-height: 1.6; }
 .monette-section .monette-tag { display: inline-block; background: rgba(201,146,42,0.12); border: 1px solid rgba(201,146,42,0.3); border-radius: 100px; padding: 5px 14px; font-size: 12px; font-weight: 600; color: var(--gold); }
 .monette-section .monette-text h2 { font-size: clamp(24px, 4vw, 34px); color: var(--navy); line-height: 1.25; margin-bottom: 22px; }
@@ -1584,6 +1585,13 @@ footer {
 .section-guide-cta h2 span { color: var(--gold-light); }
 .section-guide-cta > p { font-size: 16px; color: rgba(255,255,255,0.58); margin-bottom: 32px; max-width: 520px; margin-left: auto; margin-right: auto; position: relative; }
 .cta-btns { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; position: relative; }
+
+/* ── Simple inner page content (privacy, terms, etc.) ── */
+.inner-page-content {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 56px 24px 80px;
+}
 
 /* ── Blog page ── */
 .blog-hero { background: linear-gradient(135deg, var(--navy) 0%, var(--navy-mid) 60%, #1a3050 100%); padding: 60px 24px 56px; position: relative; overflow: hidden; }
