@@ -34,6 +34,11 @@
   status = 301
 
 [[redirects]]
+  from = "/blog/50-50-rule-employment-permit-ireland/"
+  to = "/blog/50-50-rule-irish-employment-permits/"
+  status = 301
+
+[[redirects]]
   from = "/services/"
   to = "/#services"
   status = 301

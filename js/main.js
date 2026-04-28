@@ -64,3 +64,32 @@ document.querySelectorAll('a[href^="#"]').forEach(function (a) {
     nav.classList.toggle('scrolled', window.scrollY > 10);
   }, { passive: true });
 })();
+
+// Cookie consent banner
+(function () {
+  var CONSENT_KEY = 'ca_cookie_consent';
+  var consent = localStorage.getItem(CONSENT_KEY);
+  if (consent) return; // already decided
+
+  var banner = document.createElement('div');
+  banner.id = 'cookie-banner';
+  banner.setAttribute('role', 'dialog');
+  banner.setAttribute('aria-label', 'Cookie consent');
+  banner.innerHTML =
+    '<p>We use cookies and Google Analytics to understand how our site is used and improve your experience. ' +
+    'See our <a href="/privacy/">Privacy Policy</a>.</p>' +
+    '<div class="cookie-btns">' +
+    '<button class="cookie-btn-accept" id="cookie-accept">Accept</button>' +
+    '<button class="cookie-btn-decline" id="cookie-decline">Decline</button>' +
+    '</div>';
+  document.body.appendChild(banner);
+
+  function dismiss(accepted) {
+    localStorage.setItem(CONSENT_KEY, accepted ? 'accepted' : 'declined');
+    banner.classList.add('hidden');
+    setTimeout(function () { banner.remove(); }, 350);
+  }
+
+  document.getElementById('cookie-accept').addEventListener('click', function () { dismiss(true); });
+  document.getElementById('cookie-decline').addEventListener('click', function () { dismiss(false); });
+})();
