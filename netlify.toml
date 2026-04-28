@@ -38,28 +38,3 @@
   to = "/#services"
   status = 301
 
-# Temporary redirects until inner pages are built (Session 2)
-[[redirects]]
-  from = "/faq/"
-  to = "/#faq"
-  status = 302
-
-[[redirects]]
-  from = "/about/"
-  to = "/#"
-  status = 302
-
-[[redirects]]
-  from = "/work-permit-guide/"
-  to = "/"
-  status = 302
-
-[[redirects]]
-  from = "/blog/"
-  to = "/"
-  status = 302
-
-[[redirects]]
-  from = "/contact/"
-  to = "/#callback"
-  status = 302
