@@ -1589,6 +1589,7 @@ footer {
 .inline-cta h3 { font-family: 'Playfair Display', serif; font-size: 22px; color: var(--white); margin-bottom: 10px; }
 .inline-cta h3 span { color: var(--gold-light); }
 .inline-cta p { font-size: 15px; color: rgba(255,255,255,0.65); margin-bottom: 20px; }
+.inline-cta-btns { display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap; }
 
 .table-scroll { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .guide-table { width: 100%; border-collapse: collapse; margin: 24px 0; font-size: 15px; min-width: 480px; }
