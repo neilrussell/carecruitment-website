@@ -1699,3 +1699,104 @@ footer {
   .cookie-btns { width: 100%; }
   .cookie-btn-accept, .cookie-btn-decline { flex: 1; text-align: center; }
 }
+
+/* ── Honeypot accessible off-screen hiding ── */
+.hp-honeypot {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+/* ── Trust static grid ── */
+.trust-static {
+  background: var(--navy);
+  border-top: 1px solid rgba(255,255,255,0.06);
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  padding: 28px 24px;
+  text-align: center;
+}
+.trust-static-inner { max-width: var(--max-width); margin: 0 auto; }
+.trust-static-tagline {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.35);
+  margin-bottom: 18px;
+}
+.trust-static-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px 32px;
+}
+.trust-static-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(255,255,255,0.72);
+  white-space: nowrap;
+}
+.trust-static-item .trust-icon { color: var(--gold); font-size: 9px; }
+
+/* ── Nav booking CTA ── */
+.nav-cta-book {
+  display: inline-flex;
+  align-items: center;
+  background: var(--gold);
+  color: white !important;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 10px 20px;
+  border-radius: 6px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: background 0.2s, transform 0.15s;
+}
+.nav-cta-book:hover { background: var(--gold-light); transform: translateY(-1px); }
+
+/* ── Mobile sticky CTA bar ── */
+.mobile-sticky-cta {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 900;
+  background: var(--navy);
+  border-top: 2px solid rgba(201,146,42,0.3);
+  padding: 10px 14px;
+  gap: 10px;
+}
+.mobile-sticky-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 13px 8px;
+  border-radius: 8px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+  white-space: nowrap;
+}
+.mobile-sticky-btn svg { width: 18px; height: 18px; fill: white; flex-shrink: 0; }
+.mobile-sticky-btn-call { background: var(--gold); }
+.mobile-sticky-btn-call:hover { background: var(--gold-light); }
+.mobile-sticky-btn-wa { background: #25D366; }
+.mobile-sticky-btn-wa:hover { background: #1eb85a; }
+
+@media (max-width: 767px) {
+  .mobile-sticky-cta { display: flex; }
+  .whatsapp-float { display: none; }
+  body { padding-bottom: 72px; }
+}
