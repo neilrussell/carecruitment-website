@@ -1536,6 +1536,10 @@ footer {
 .guide-content strong { color: var(--navy); }
 .guide-content a { color: var(--gold); text-decoration: underline; }
 .guide-content a:hover { color: var(--gold-light); }
+.guide-content .btn-call,
+.guide-content .btn-call:hover,
+.guide-content .btn-whatsapp,
+.guide-content .btn-whatsapp:hover { color: white; text-decoration: none; }
 
 .callout { border-radius: var(--radius); padding: 22px 24px; margin: 28px 0; }
 .callout p { margin-bottom: 0; }
