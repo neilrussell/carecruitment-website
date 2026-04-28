@@ -142,6 +142,8 @@ section { padding: 72px 24px; }
 .btn-whatsapp:hover { background: #1eb85a; transform: translateY(-2px); box-shadow: 0 6px 24px rgba(37,211,102,0.4); }
 .btn-whatsapp svg { width: 20px; height: 20px; fill: white; flex-shrink: 0; }
 
+.btn-whatsapp-lg { font-size: 17px; padding: 17px 36px; }
+
 .btn-secondary {
   display: inline-flex;
   align-items: center;
@@ -812,7 +814,7 @@ nav {
   margin: 0 auto 44px;
 }
 
-.sectors-grid {
+.services-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 16px;
@@ -820,7 +822,7 @@ nav {
   margin: 0 auto;
 }
 
-.sector-card {
+.service-card {
   display: block;
   background: var(--white);
   border: 1px solid var(--border);
@@ -831,26 +833,16 @@ nav {
   transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
 }
 
-.sector-card:hover {
+.service-card:hover {
   transform: translateY(-3px);
   box-shadow: 0 8px 24px rgba(0,0,0,0.09);
   border-color: var(--gold);
 }
 
-.sector-icon { font-size: 28px; margin-bottom: 12px; display: block; }
+.service-icon { font-size: 28px; margin-bottom: 12px; display: block; }
 
-.sector-card h3 { font-size: 16px; color: var(--navy); margin-bottom: 6px; font-weight: 600; }
-.sector-card p  { font-size: 14px; color: var(--muted); line-height: 1.6; }
-
-.sectors-more {
-  text-align: center;
-  margin-top: 32px;
-  font-size: 15px;
-  color: var(--muted);
-}
-
-.sectors-more a { color: var(--gold); font-weight: 600; }
-.sectors-more a:hover { color: var(--gold-light); }
+.service-card h4 { font-size: 16px; font-family: 'DM Sans', sans-serif; color: var(--navy); margin-bottom: 6px; font-weight: 600; }
+.service-card p  { font-size: 14px; color: var(--muted); line-height: 1.6; }
 
 /* ── HOW IT WORKS ── */
 .section-how {
@@ -1305,7 +1297,7 @@ footer {
   .hero { padding: 44px 20px 52px; }
 
   .reviews-grid { grid-template-columns: 1fr; }
-  .sectors-grid { grid-template-columns: repeat(2, 1fr); }
+  .services-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
 @media (max-width: 640px) {
@@ -1319,6 +1311,6 @@ footer {
 }
 
 @media (max-width: 480px) {
-  .sectors-grid { grid-template-columns: 1fr 1fr; }
-  .trust-pills  { gap: 8px; }
+  .services-grid { grid-template-columns: 1fr 1fr; }
+  .trust-pills   { gap: 8px; }
 }
