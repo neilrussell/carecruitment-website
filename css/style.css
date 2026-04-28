@@ -1255,7 +1255,10 @@ footer {
 .page-hero h1 span { color: var(--gold-light); }
 .page-hero h1 em { font-style: normal; color: var(--gold-light); }
 .page-hero .hero-sub { font-size: 17px; color: rgba(255,255,255,0.62); line-height: 1.7; max-width: 620px; }
-.page-hero .hero-meta { display: flex; flex-wrap: wrap; gap: 20px; font-size: 13px; color: rgba(255,255,255,0.5); }
+.page-hero .hero-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 0; font-size: 13px; color: rgba(255,255,255,0.5); margin-top: 20px; }
+.page-hero .hero-meta span { padding: 0 16px; border-right: 1px solid rgba(255,255,255,0.18); }
+.page-hero .hero-meta span:first-child { padding-left: 0; }
+.page-hero .hero-meta span:last-child { border-right: none; }
 .page-hero .hero-meta strong { color: rgba(255,255,255,0.75); }
 
 /* ── FORM ── */
@@ -1523,7 +1526,7 @@ footer {
 .toc-list a { font-size: 14px; color: var(--navy); display: block; padding: 6px 10px; border-radius: 6px; transition: background 0.15s, color 0.15s; line-height: 1.4; }
 .toc-list a:hover { background: var(--white); color: var(--gold); }
 
-.sidebar-cta { background: var(--navy); border-radius: var(--radius-lg); padding: 24px; text-align: center; }
+.sidebar-cta { background: var(--navy); border-radius: var(--radius-lg); padding: 24px; text-align: center; margin-bottom: 20px; }
 .sidebar-cta p { font-size: 14px; color: rgba(255,255,255,0.65); line-height: 1.6; margin-bottom: 16px; }
 .sidebar-cta strong { color: var(--gold-pale); }
 
@@ -1531,7 +1534,8 @@ footer {
 .guide-content h2:first-child { margin-top: 0; padding-top: 0; border-top: none; }
 .guide-content h3 { font-family: 'DM Sans', sans-serif; font-size: 18px; font-weight: 700; color: var(--navy); margin: 28px 0 10px; }
 .guide-content p { font-size: 16px; color: #3d4a5c; line-height: 1.8; margin-bottom: 18px; }
-.guide-content ul, .guide-content ol { margin: 0 0 20px; padding-left: 22px; }
+.guide-content ul { margin: 0 0 20px; padding-left: 22px; list-style: disc; }
+.guide-content ol { margin: 0 0 20px; padding-left: 22px; list-style: decimal; }
 .guide-content li { font-size: 16px; color: #3d4a5c; line-height: 1.7; margin-bottom: 8px; }
 .guide-content strong { color: var(--navy); }
 .guide-content a { color: var(--gold); text-decoration: underline; }
