@@ -1539,6 +1539,11 @@ footer {
 .sidebar-cta p { font-size: 14px; color: rgba(255,255,255,0.65); line-height: 1.6; margin-bottom: 16px; }
 .sidebar-cta strong { color: var(--gold-pale); }
 
+.guide-byline { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 14px; color: var(--muted); margin-bottom: 28px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
+.guide-byline strong { color: var(--navy); }
+.guide-byline .byline-sep { color: var(--border); }
+.guide-intro { font-size: 17px; color: #2a3a50; line-height: 1.8; margin-bottom: 32px; padding: 20px 24px; background: var(--cream); border-left: 4px solid var(--gold); border-radius: 0 var(--radius) var(--radius) 0; }
+
 .guide-content h2 { font-size: clamp(22px, 3vw, 30px); color: var(--navy); line-height: 1.25; margin: 44px 0 16px; padding-top: 44px; border-top: 2px solid var(--border); }
 .guide-content h2:first-child { margin-top: 0; padding-top: 0; border-top: none; }
 .guide-content h3 { font-family: 'DM Sans', sans-serif; font-size: 18px; font-weight: 700; color: var(--navy); margin: 28px 0 10px; }
