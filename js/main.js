@@ -83,53 +83,53 @@ document.querySelectorAll('a[href^="#"]').forEach(function (a) {
 
 // Contact form submission
 (function () {
-  var form = document.getElementById(‘contact-form’);
+  var form = document.getElementById('contact-form');
   if (!form) return;
 
-  form.addEventListener(‘submit’, function (e) {
+  form.addEventListener('submit', function (e) {
     e.preventDefault();
 
-    if (form.querySelector(‘[name="bot-field"]’).value) return;
+    if (form.querySelector('[name="bot-field"]').value) return;
 
-    var btn = document.getElementById(‘contact-submit’);
-    var feedback = document.getElementById(‘form-feedback’);
+    var btn = document.getElementById('contact-submit');
+    var feedback = document.getElementById('form-feedback');
 
-    var name = form.querySelector(‘[name="full-name"]’).value.trim();
-    var email = form.querySelector(‘[name="email"]’).value.trim();
-    var message = form.querySelector(‘[name="message"]’).value.trim();
-    var consent = form.querySelector(‘[name="consent"]’).checked;
+    var name = form.querySelector('[name="full-name"]').value.trim();
+    var email = form.querySelector('[name="email"]').value.trim();
+    var message = form.querySelector('[name="message"]').value.trim();
+    var consent = form.querySelector('[name="consent"]').checked;
 
     if (!name || !email || !message || !consent) {
-      feedback.textContent = ‘Please fill in all required fields and accept the consent checkbox.’;
-      feedback.style.color = ‘#c0392b’;
+      feedback.textContent = 'Please fill in all required fields and accept the consent checkbox.';
+      feedback.style.color = '#c0392b';
       return;
     }
 
     btn.disabled = true;
-    btn.textContent = ‘Sending…’;
-    feedback.textContent = ‘’;
+    btn.textContent = 'Sending…';
+    feedback.textContent = '';
 
     // Submit to Netlify Forms (handles email notifications + spam filtering)
-    fetch(‘/’, {
-      method: ‘POST’,
-      headers: { ‘Content-Type’: ‘application/x-www-form-urlencoded’ },
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: new URLSearchParams(new FormData(form)).toString(),
     })
       .then(function (res) {
-        if (!res.ok) throw new Error(‘Network error’);
+        if (!res.ok) throw new Error('Network error');
         form.innerHTML =
-          ‘<div style="text-align:center;padding:32px 0;">’ +
-          ‘<div style="font-size:42px;margin-bottom:12px;color:#32d583;">&#10003;</div>’ +
-          ‘<h3 style="margin:0 0 10px;color:#1a2744;">Message sent!</h3>’ +
-          ‘<p style="color:#555;margin:0;">Thanks ‘ + name.split(‘ ‘)[0] + ‘, we’ll be in touch shortly.</p>’ +
-          ‘</div>’;
+          '<div style="text-align:center;padding:32px 0;">' +
+          '<div style="font-size:42px;margin-bottom:12px;color:#32d583;">&#10003;</div>' +
+          '<h3 style="margin:0 0 10px;color:#1a2744;">Message sent!</h3>' +
+          '<p style="color:#555;margin:0;">Thanks ' + name.split(' ')[0] + ', we will be in touch shortly.</p>' +
+          '</div>';
       })
       .catch(function () {
         feedback.textContent =
-          ‘Something went wrong — please call us on +353 89 416 6124 or WhatsApp.’;
-        feedback.style.color = ‘#c0392b’;
+          'Something went wrong — please call us on +353 89 416 6124 or WhatsApp.';
+        feedback.style.color = '#c0392b';
         btn.disabled = false;
-        btn.textContent = ‘Send Message’;
+        btn.textContent = 'Send Message';
       });
   });
 })();
