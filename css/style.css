@@ -842,7 +842,7 @@ nav {
 
 .service-icon { font-size: 28px; margin-bottom: 12px; display: block; }
 
-.service-card h4 { font-size: 16px; font-family: 'DM Sans', sans-serif; color: var(--navy); margin-bottom: 6px; font-weight: 600; }
+.service-card h3 { font-size: 16px; font-family: 'DM Sans', sans-serif; color: var(--navy); margin-bottom: 6px; font-weight: 600; }
 .service-card p  { font-size: 14px; color: var(--muted); line-height: 1.6; }
 
 /* ── HOW IT WORKS ── */
