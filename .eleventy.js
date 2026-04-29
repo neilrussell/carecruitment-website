@@ -1,6 +1,11 @@
 const { DateTime } = require("luxon");
+const markdownIt = require("markdown-it");
+const markdownItAttrs = require("markdown-it-attrs");
 
 module.exports = function(eleventyConfig) {
+  const md = markdownIt({ html: true }).use(markdownItAttrs);
+  eleventyConfig.setLibrary("md", md);
+
   eleventyConfig.addFilter("date", function(value, format) {
     if (!value) return "";
     const dt = DateTime.fromJSDate(new Date(value), { zone: "utc" });
