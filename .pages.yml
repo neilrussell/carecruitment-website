@@ -1,0 +1,75 @@
+media_folder: images
+
+content:
+  - name: posts
+    label: Blog Posts
+    type: collection
+    path: posts
+    view:
+      fields: [title, date, category]
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: description
+        label: Meta Description
+        type: string
+      - name: date
+        label: Date
+        type: date
+      - name: updated
+        label: Updated Date
+        type: date
+        required: false
+      - name: category
+        label: Category
+        type: string
+      - name: readTime
+        label: Read Time (e.g. "7 min")
+        type: string
+      - name: slug
+        label: URL Slug
+        type: string
+      - name: breadcrumb
+        label: Breadcrumb Text
+        type: string
+        required: false
+      - name: waText
+        label: WhatsApp Pre-fill Message
+        type: string
+      - name: sidebarCta
+        label: Sidebar CTA Text
+        type: string
+      - name: layout
+        label: Layout
+        type: string
+        default: blog-post.njk
+        hidden: true
+      - name: permalink
+        label: Permalink
+        type: string
+      - name: toc
+        label: Table of Contents
+        type: list
+        required: false
+        fields:
+          - name: id
+            label: Anchor ID
+            type: string
+          - name: label
+            label: Label
+            type: string
+      - name: related
+        label: Related Links
+        type: list
+        required: false
+        fields:
+          - name: url
+            label: URL
+            type: string
+          - name: label
+            label: Label
+            type: string
+      - name: body
+        label: Content
+        type: rich-text
