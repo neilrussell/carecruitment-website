@@ -114,7 +114,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <span>Or leave us a message</span>
   </div>
 
-  <form class="netlify-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
+  <form id="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
     <input type="hidden" name="form-name" value="contact">
     <div class="hp-honeypot" aria-hidden="true">
       <label>Don't fill this out: <input name="bot-field" tabindex="-1" autocomplete="off"></label>
@@ -127,8 +127,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <input type="checkbox" name="consent" required>
       <span>I agree to CA Recruitment storing my details to respond to this enquiry. We will not pass your information to third parties. See our <a href="/privacy/" target="_blank" rel="noopener">Privacy Policy</a>.</span>
     </label>
-    <div data-netlify-recaptcha="true"></div>
-    <button type="submit" class="submit-btn">Send Message</button>
+    <div id="form-feedback" role="alert" aria-live="polite"></div>
+    <button type="submit" class="submit-btn" id="contact-submit">Send Message</button>
   </form>
 </div>
 
