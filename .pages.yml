@@ -1,4 +1,6 @@
-media_folder: images
+media:
+  input: images
+  output: /images
 
 content:
   - name: posts
@@ -44,7 +46,6 @@ content:
         label: Layout
         type: string
         default: blog-post.njk
-        hidden: true
       - name: permalink
         label: Permalink
         type: string
