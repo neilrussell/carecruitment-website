@@ -45,3 +45,33 @@
   to = "/#services"
   status = 301
 
+[[redirects]]
+  from = "/order-page"
+  to = "/contact/"
+  status = 301
+
+[[redirects]]
+  from = "/order-page/"
+  to = "/contact/"
+  status = 301
+
+[[redirects]]
+  from = "/thank-you"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/thank-you/"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/wwwcarecruitmentcom"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/wwwcarecruitmentcom/"
+  to = "/"
+  status = 301
+
