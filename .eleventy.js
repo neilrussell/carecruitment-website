@@ -21,6 +21,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("netlify");
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("sitemap.xml");
+  eleventyConfig.addPassthroughCopy("sitemap_index.xml");
   eleventyConfig.addPassthroughCopy("*.html");
   eleventyConfig.addPassthroughCopy("about");
   eleventyConfig.addPassthroughCopy("contact");
