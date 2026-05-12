@@ -26,6 +26,13 @@ related:
     label: The 50/50 Rule explained
   - url: /faq/
     label: Common employer questions
+faq:
+  - q: "What is the difference between the General Employment Permit and the Critical Skills Employment Permit in Ireland?"
+    a: "The main differences are: the General Employment Permit (GEP) requires a 28-day Labour Market Needs Test while the Critical Skills Employment Permit (CSEP) does not; the GEP minimum salary is €36,605 while the CSEP minimum is €40,904 for listed occupations or €68,911 for any role; and after the CSEP expires the worker can apply for Stamp 4, giving broader work rights without renewing the permit."
+  - q: "Does the Critical Skills Employment Permit require a Labour Market Needs Test?"
+    a: "No. The Critical Skills Employment Permit does not require a Labour Market Needs Test. This removes the mandatory 28-day advertising period on Jobs Ireland and typically cuts 4 to 6 weeks from the overall process compared to the General Employment Permit route."
+  - q: "How long does it take to get a work permit in Ireland?"
+    a: "A General Employment Permit typically takes 3 to 5 months end-to-end from first consultation to the worker starting, including the 28-day Labour Market Needs Test and 8 to 12 weeks of DETE processing. A Critical Skills Employment Permit typically takes 2 to 4 months, as no Labour Market Needs Test is required."
 ---
 
 <p>Most employers looking to hire non-EEA workers will come across two permit types: the General Employment Permit (GEP) and the Critical Skills Employment Permit (CSEP). They look similar on paper but work quite differently. Getting the route wrong doesn't just delay your application — it can mean starting from scratch.</p>

@@ -27,6 +27,17 @@ related:
   - { url: "/blog/gep-vs-csep-which-permit/", label: "GEP vs CSEP — which route?" }
   - { url: "/faq/", label: "Common employer questions" }
   - { url: "/contact/", label: "Book a free consultation" }
+faq:
+  - q: "Does the 50:50 rule apply to small businesses?"
+    a: "Yes. There is no exemption based on business size under Irish employment permit law. The only two exceptions are the sole-employee situation (the non-EEA worker will be the only person employed in the business) and EI/IDA-backed start-ups registered within 2 years with a formal letter of support from Enterprise Ireland or IDA Ireland. If your business does not meet one of those two exceptions, the rule applies regardless of headcount."
+  - q: "Does the 50:50 rule apply to the Critical Skills Employment Permit?"
+    a: "Yes. The Critical Skills Employment Permit skips the Labour Market Needs Test but the 50:50 ratio still applies to both permit types. If you do not meet 50% EEA nationals at the time of application, a CSEP application is refused for the same reason a GEP would be."
+  - q: "How is the 50:50 ratio calculated for employment permits in Ireland?"
+    a: "Count your total workforce across all locations and departments. Each employee counts as one, whether full-time or part-time. Divide the number of EEA nationals by total headcount. If the result is 50% or more, the rule is satisfied. DETE assesses this on the date you submit your application, not when the permit issues or when the worker arrives."
+  - q: "What happens if my workforce ratio falls below 50% before I submit a permit application?"
+    a: "If your EEA ratio drops below 50% before you submit, you cannot submit the application. Options are to hire EEA nationals to restore the balance, or wait for natural non-EEA turnover to change the ratio. If the ratio drops during the 28-day Labour Market Needs Test period, the full test must be run again once the ratio recovers."
+  - q: "Can I check my 50:50 ratio before committing to the employment permit process?"
+    a: "Yes. CA Recruitment checks the 50:50 ratio as the first step in every free consultation, before anything else moves. There is no point running the Labour Market Needs Test if the application will be refused at the ratio check. Book a free call to have your ratio looked at."
 ---
 
 <h2 id="refused">The Most Common Reason Employment Permits Get Refused</h2>

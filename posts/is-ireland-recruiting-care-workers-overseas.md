@@ -22,6 +22,13 @@ related:
   - { url: "/blog/50-50-rule-irish-employment-permits/", label: "The 50/50 rule explained" }
   - { url: "/sectors/healthcare/", label: "Healthcare recruitment" }
   - { url: "/contact/", label: "Book a free consultation" }
+faq:
+  - q: "Is Ireland still recruiting care workers from overseas in 2026?"
+    a: "Yes. The DETE General Employment Permit quota for care workers is open in 2026. DETE allocated 1,000 permits specifically for healthcare support workers and home carers, and private nursing homes and homecare providers across Ireland are actively using it."
+  - q: "What is the minimum salary for an overseas care worker in Ireland?"
+    a: "Care workers and home carers qualify for a General Employment Permit at a reduced minimum salary of €32,691 per year (€16.12 per hour). This is lower than the standard GEP minimum of €36,605 and applies specifically to healthcare assistants and home carers under the GEP care worker quota."
+  - q: "Which care roles are eligible for an Irish work permit?"
+    a: "The General Employment Permit care worker quota covers healthcare support workers and care assistants in nursing homes and residential care settings, and home carers and home support workers employed by homecare providers. Registered nurses and midwives are not covered by this quota and apply via the Critical Skills Employment Permit instead."
 ---
 
 Yes. Irish employers are actively recruiting care workers from overseas in 2026, and demand from private nursing homes and homecare providers is growing, not slowing.

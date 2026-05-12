@@ -32,6 +32,13 @@ related:
     label: GEP vs CSEP — which route?
   - url: /blog/50-50-rule-irish-employment-permits/
     label: The 50/50 Rule explained
+faq:
+  - q: "How long does it take to hire a non-EU worker for an Irish business?"
+    a: "From first consultation to the worker starting, expect 3 to 5 months for a General Employment Permit and 2 to 4 months for a Critical Skills Employment Permit. The GEP process includes a mandatory 28-day Labour Market Needs Test before the application can be submitted, followed by 8 to 12 weeks of DETE processing."
+  - q: "Can an Irish employer charge the worker for the cost of an employment permit?"
+    a: "No. Under the Employment Permits Acts, it is a criminal offence to pass the cost of an employment permit on to a non-EEA worker. The employer pays the government permit fee, currently €1,000 for permits of up to 24 months duration."
+  - q: "What are an employer's obligations when hiring a non-EU worker in Ireland?"
+    a: "As the sponsoring employer, you must pay at least the minimum wage or the permit salary threshold (whichever is higher), provide the same employment rights as any other employee, maintain employment records available to DETE or the WRC on request, and notify DETE within 4 weeks if employment ends before the permit expires."
 ---
 
 <p>If you've never hired a non-EEA worker before, the employment permit process can look intimidating. It's not — but there are rules, and getting them wrong wastes time and money. This guide walks you through the key steps in plain terms, so you know what you're getting into before you start.</p>

@@ -21,6 +21,13 @@ related:
   - { url: "/blog/50-50-rule-irish-employment-permits/", label: "The 50/50 rule explained" }
   - { url: "/sectors/hospitality/", label: "Hospitality recruitment" }
   - { url: "/contact/", label: "Book a free consultation" }
+faq:
+  - q: "Which hospitality roles are closed for work permits in Ireland in 2026?"
+    a: "The General Employment Permit quota for hospitality manager roles closed on 28 April 2026. The closed roles are Catering Manager, Bar Manager, Hotel and Accommodation Manager, Restaurant Manager, and Publican. DETE has not announced a timeline for reopening."
+  - q: "What hospitality roles are still permit-eligible in Ireland?"
+    a: "Chef roles remain permit-eligible through the General Employment Permit. Accommodation and housekeeping staff, kitchen support staff including kitchen porters, and front of house roles such as bar staff, waiting staff, and reception staff also remain eligible where the salary threshold of €36,605 per year is met."
+  - q: "What is the minimum salary for a hospitality work permit in Ireland?"
+    a: "The standard General Employment Permit minimum salary is €36,605 per year. Employers should verify the annual salary against this threshold before starting the Labour Market Needs Test, as applications for roles paying below the minimum will be refused regardless of quota status."
 ---
 
 On 28 April 2026, DETE exhausted the General Employment Permit quota for hospitality manager roles. The 292 permits allocated to those positions are gone for 2026, and applications submitted after that date are being refused.

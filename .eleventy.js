@@ -14,6 +14,10 @@ module.exports = function(eleventyConfig) {
     return dt.toFormat(format || "yyyy-MM-dd");
   });
 
+  eleventyConfig.addFilter("json", function(value) {
+    return JSON.stringify(value);
+  });
+
   // Passthrough copy — all static assets and non-blog pages
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
