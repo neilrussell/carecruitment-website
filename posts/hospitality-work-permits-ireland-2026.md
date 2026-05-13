@@ -25,7 +25,7 @@ faq:
   - q: "Which hospitality roles are closed for work permits in Ireland in 2026?"
     a: "The General Employment Permit quota for hospitality manager roles closed on 28 April 2026. The closed roles are Catering Manager, Bar Manager, Hotel and Accommodation Manager, Restaurant Manager, and Publican. DETE has not announced a timeline for reopening."
   - q: "What hospitality roles are still permit-eligible in Ireland?"
-    a: "Chef roles remain permit-eligible through the General Employment Permit. Accommodation and housekeeping staff, kitchen support staff including kitchen porters, and front of house roles such as bar staff, waiting staff, and reception staff also remain eligible where the salary threshold of €36,605 per year is met."
+    a: "Chef roles are the primary permit-eligible route in hospitality: Executive Chef, Head Chef, and Sous Chef (minimum 5 years relevant non-fast-food experience), and Chef de Partie and Commis Chef (minimum 2 years). Bar staff, waiters, kitchen porters, accommodation staff, and hotel receptionists are all on DETE's Ineligible Occupations List and cannot be sponsored for a General Employment Permit."
   - q: "What is the minimum salary for a hospitality work permit in Ireland?"
     a: "The standard General Employment Permit minimum salary is €36,605 per year. Employers should verify the annual salary against this threshold before starting the Labour Market Needs Test, as applications for roles paying below the minimum will be refused regardless of quota status."
 ---
@@ -61,17 +61,19 @@ The quota closure affects manager-level roles only. A significant number of hosp
 
 Chef roles remain permit-eligible. Ireland has a chronic shortage of qualified chefs, and the hospitality manager quota closure does not affect the chef permit route. If your immediate requirement is kitchen capacity, chef placements remain a viable route.
 
-**Accommodation and housekeeping staff**
+DETE allows the following chef grades under the General Employment Permit:
 
-Room attendants, accommodation assistants, and housekeeping staff remain eligible for the GEP.
+- **Executive Chef** — minimum 5 years relevant experience (non-fast food)
+- **Head Chef** — minimum 5 years relevant experience (non-fast food)
+- **Sous Chef** — minimum 5 years relevant experience (non-fast food)
+- **Chef de Partie** — minimum 2 years relevant experience (non-fast food)
+- **Commis Chef** — minimum 2 years relevant experience (non-fast food)
 
-**Kitchen support staff**
+Experience in fast-food operations does not count towards the minimum requirements. All grades must meet the GEP minimum annual salary of €36,605.
 
-Kitchen porters and general kitchen support roles remain eligible where the salary threshold is met.
+**Important: most other hospitality roles are not permit-eligible**
 
-**Front of house staff**
-
-Bar staff, waiting staff, and front desk/reception roles remain eligible where the salary requirements are satisfied.
+Bar staff, waiters, kitchen porters, accommodation staff, hotel receptionists, and housekeeping staff are all on DETE's Ineligible Occupations List. They cannot be sponsored for a General Employment Permit. If your staffing requirement is for front-of-house or housekeeping roles, the permit route is not available for those positions.
 
 <div class="callout callout-cream">
 <p><strong>The standard GEP minimum salary is €36,605 per year.</strong> Many hospitality roles will not meet this threshold at standard industry rates. Check the annual salary against the current minimum before starting the Labour Market Needs Test — an application for a role paying below threshold will be refused regardless of quota status.</p>
