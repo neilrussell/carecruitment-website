@@ -15,7 +15,7 @@ toc:
   - { id: "roles", label: "What roles qualify" }
   - { id: "salary", label: "The salary threshold" }
   - { id: "process", label: "What the permit process involves" }
-  - { id: "quota", label: "The 1,000-permit quota" }
+  - { id: "quota", label: "The 1,134-permit quota" }
   - { id: "right-for-you", label: "Is this route right for you?" }
 related:
   - { url: "/work-permit-guide/", label: "Full Work Permit Guide" }
@@ -24,7 +24,7 @@ related:
   - { url: "/contact/", label: "Book a free consultation" }
 faq:
   - q: "Is Ireland still recruiting care workers from overseas in 2026?"
-    a: "Yes. The DETE General Employment Permit quota for care workers is open in 2026. DETE allocated 1,000 permits specifically for healthcare support workers and home carers, and private nursing homes and homecare providers across Ireland are actively using it."
+    a: "Yes. The DETE General Employment Permit quota for care workers is open in 2026. DETE allocated 1,134 permits specifically for healthcare support workers and home carers (increased from 500 via SI 64/2025), and private nursing homes and homecare providers across Ireland are actively using it."
   - q: "What is the minimum salary for an overseas care worker in Ireland?"
     a: "Care workers and home carers qualify for a General Employment Permit at a reduced minimum salary of €32,691 per year (€16.12 per hour). This is lower than the standard GEP minimum of €36,605 and applies specifically to healthcare assistants and home carers under the GEP care worker quota."
   - q: "Which care roles are eligible for an Irish work permit?"
@@ -33,7 +33,7 @@ faq:
 
 Yes. Irish employers are actively recruiting care workers from overseas in 2026, and demand from private nursing homes and homecare providers is growing, not slowing.
 
-The DETE General Employment Permit quota for care workers is open. DETE allocated 1,000 permits specifically for healthcare support workers and home carers, and that quota is still active. Private operators across Ireland are using it.
+The DETE General Employment Permit quota for care workers is open. DETE allocated 1,134 permits specifically for healthcare support workers and home carers — increased from 500 under SI 64/2025, effective March 2025 — and that quota is still active. Private operators across Ireland are using it.
 
 Here is what you need to know as an employer.
 
@@ -90,9 +90,9 @@ Filipino nationals require a D employment visa to enter Ireland. Once in Ireland
 <p><strong>Total timeline:</strong> From starting the Labour Market Needs Test to a worker arriving on site, allow five to six months. Employers who start the process in May 2026 can have workers on site by autumn. Waiting until July means winter at the earliest.</p>
 </div>
 
-<h2 id="quota">The 1,000-Permit Quota</h2>
+<h2 id="quota">The 1,134-Permit Quota</h2>
 
-The current care worker GEP quota of 1,000 permits is not permanent. DETE quotas close when they are exhausted. The hospitality manager quota — 292 permits — closed entirely on 28 April 2026. The dairy farm assistant quota closed in late 2025 before a new allocation was made.
+The current care worker GEP quota of 1,134 permits is not permanent. DETE quotas close when they are exhausted. The hospitality manager quota — 292 permits — closed entirely on 28 April 2026. The dairy farm assistant quota closed in late 2025 before a new allocation was made.
 
 Operators who wait until a quota closes face a full stop on applications until DETE opens a new allocation. There is no guaranteed timeline for reopening. Operators who start the process now are not competing against each other for permits — they are competing against their own delays.
 
