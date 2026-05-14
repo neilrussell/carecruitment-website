@@ -2,3 +2,4 @@
 node_modules/
 .netlify/
 _site/
+_site_test/
