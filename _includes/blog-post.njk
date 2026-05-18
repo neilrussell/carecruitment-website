@@ -11,13 +11,17 @@
   <meta property="og:description" content="{{ description }}">
   <meta property="og:url" content="https://carecruitment.com/blog/{{ slug }}/">
   <meta property="og:type" content="article">
-  <meta property="og:image" content="https://carecruitment.com/images/monette-photo-600.jpeg">
-  <meta property="og:image:alt" content="{{ title }} | CA Recruitment">
+  <meta property="og:image" content="https://carecruitment.com{% if image %}{{ image }}{% else %}/images/monette-photo-600.jpeg{% endif %}">
+  <meta property="og:image:alt" content="{% if imageAlt %}{{ imageAlt }}{% else %}{{ title }} | CA Recruitment{% endif %}">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
   <meta property="og:site_name" content="CA Recruitment">
   <meta property="og:locale" content="en_IE">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ title }} | CA Recruitment">
   <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:image" content="https://carecruitment.com{% if image %}{{ image }}{% else %}/images/monette-photo-600.jpeg{% endif %}">
+  <meta name="twitter:image:alt" content="{% if imageAlt %}{{ imageAlt }}{% else %}{{ title }} | CA Recruitment{% endif %}">
   <link rel="icon" type="image/jpeg" href="/images/favicon-64.jpeg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -32,7 +36,7 @@
   })(window,document,'script','dataLayer','GTM-TB4SR4F4');</script>
   <!-- End Google Tag Manager -->
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"BlogPosting","headline":"{{ title }}","description":"{{ description }}","datePublished":"{{ date | date('YYYY-MM-DD') }}","dateModified":"{{ updated or date | date('YYYY-MM-DD') }}","author":{"@type":"Person","name":"Monette","jobTitle":"Founder, CA Recruitment"},"publisher":{"@type":"Organization","name":"CA Recruitment","url":"https://carecruitment.com/"},"mainEntityOfPage":"https://carecruitment.com/blog/{{ slug }}/"}
+  {"@context":"https://schema.org","@type":"BlogPosting","headline":"{{ title }}","description":"{{ description }}","datePublished":"{{ date | date('YYYY-MM-DD') }}","dateModified":"{{ updated or date | date('YYYY-MM-DD') }}","author":{"@type":"Person","name":"Monette","jobTitle":"Founder, CA Recruitment"},"publisher":{"@type":"Organization","name":"CA Recruitment","url":"https://carecruitment.com/"},"mainEntityOfPage":"https://carecruitment.com/blog/{{ slug }}/","image":{"@type":"ImageObject","url":"https://carecruitment.com{% if image %}{{ image }}{% else %}/images/monette-photo-600.jpeg{% endif %}","description":{{ (imageAlt or (title + " | CA Recruitment")) | json | safe }},"width":1024,"height":1024}}
   </script>
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://carecruitment.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://carecruitment.com/blog/"},{"@type":"ListItem","position":3,"name":{{ (breadcrumb or title) | json | safe }},"item":"https://carecruitment.com/blog/{{ slug }}/"}]}

@@ -8,6 +8,8 @@ slug: hospitality-work-permits-ireland-2026
 breadcrumb: "Hospitality Work Permits 2026"
 waText: "Hi, I run a hospitality business and I need to hire overseas staff. Can you help?"
 sidebarCta: "Need to hire overseas hospitality staff? We'll tell you exactly which roles are still permit-eligible."
+image: /images/social/hospitality-work-permits-2026-v3.png
+imageAlt: "Flat illustration of two doors representing hospitality work permit status in Ireland 2026 — closed navy door with padlock for manager roles where the quota is exhausted, open amber door for chef and operational roles still permit-eligible"
 layout: blog-post.njk
 permalink: /blog/hospitality-work-permits-ireland-2026/index.html
 toc:
