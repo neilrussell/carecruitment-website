@@ -9,8 +9,8 @@ slug: 50-50-rule-irish-employment-permits
 breadcrumb: The 50:50 Rule
 waText: "Hi, I'd like to check if the 50/50 rule affects my application. Can you help?"
 sidebarCta: "Not sure if the 50:50 rule affects your application? Ask us — free, no obligation."
-image: /images/social/50-50-rule-v3.png
-imageAlt: "Flat illustration showing the 50/50 workforce split for Irish employment permits — navy silhouettes representing EEA nationals on the left, amber silhouettes representing non-EEA workers on the right"
+image: /images/social/50-50-rule-approved.png
+imageAlt: "Infographic showing the 50/50 rule for Irish General Employment Permits — EEA nationals must make up at least 50% of a workforce before a permit application can be submitted"
 layout: blog-post.njk
 permalink: /blog/50-50-rule-irish-employment-permits/index.html
 toc:

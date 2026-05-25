@@ -47,7 +47,7 @@
 
 [[redirects]]
   from = "/services/"
-  to = "/#services"
+  to = "/"
   status = 301
 
 [[redirects]]
@@ -78,5 +78,35 @@
 [[redirects]]
   from = "/wwwcarecruitmentcom/"
   to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/privacy-policy/"
+  to = "/privacy/"
+  status = 301
+
+[[redirects]]
+  from = "/privacy-policy"
+  to = "/privacy/"
+  status = 301
+
+[[redirects]]
+  from = "/terms/"
+  to = "/privacy/"
+  status = 301
+
+[[redirects]]
+  from = "/terms"
+  to = "/privacy/"
+  status = 301
+
+[[redirects]]
+  from = "/terms-and-conditions/"
+  to = "/privacy/"
+  status = 301
+
+[[redirects]]
+  from = "/terms-and-conditions"
+  to = "/privacy/"
   status = 301
 

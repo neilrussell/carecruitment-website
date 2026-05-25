@@ -8,8 +8,8 @@ slug: is-ireland-recruiting-care-workers-overseas
 breadcrumb: "Care Workers Overseas"
 waText: "Hi, I run a care home and I'm interested in hiring overseas care workers. Can you help?"
 sidebarCta: "Hiring care workers from overseas? We manage the full permit process — no fee until placement."
-image: /images/social/care-workers-overseas-v3.png
-imageAlt: "Flat illustration of an overseas care worker holding a permit document with a green checkmark, confirming Ireland is still recruiting care workers from overseas in 2026 under the DETE General Employment Permit quota"
+image: /images/social/care-workers-overseas-approved.png
+imageAlt: "Irish recruitment infographic confirming Ireland is still recruiting overseas care workers in 2026 — 1,000 GEP permits allocated, reduced salary threshold, five to six month placement timeline"
 layout: blog-post.njk
 permalink: /blog/is-ireland-recruiting-care-workers-overseas/index.html
 toc:
