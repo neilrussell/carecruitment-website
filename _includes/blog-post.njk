@@ -6,10 +6,10 @@
   <title>{{ title }} | CA Recruitment</title>
   <meta name="description" content="{{ description }}">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://carecruitment.com/blog/{{ slug }}/">
+  <link rel="canonical" href="https://carecruitment.com{{ page.url }}">
   <meta property="og:title" content="{{ title }} | CA Recruitment">
   <meta property="og:description" content="{{ description }}">
-  <meta property="og:url" content="https://carecruitment.com/blog/{{ slug }}/">
+  <meta property="og:url" content="https://carecruitment.com{{ page.url }}">
   <meta property="og:type" content="article">
   <meta property="og:image" content="https://carecruitment.com{% if image %}{{ image }}{% else %}/images/monette-photo-600.jpeg{% endif %}">
   <meta property="og:image:alt" content="{% if imageAlt %}{{ imageAlt }}{% else %}{{ title }} | CA Recruitment{% endif %}">
@@ -28,6 +28,19 @@
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=DM+Sans:wght@400;500;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/css/style.css?v=16">
+  <!-- Google Consent Mode v2 — must precede GTM -->
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  var _cac = localStorage.getItem('ca_cookie_consent');
+  gtag('consent', 'default', {
+    'analytics_storage': _cac === 'accepted' ? 'granted' : 'denied',
+    'ad_storage':        _cac === 'accepted' ? 'granted' : 'denied',
+    'ad_user_data':      _cac === 'accepted' ? 'granted' : 'denied',
+    'ad_personalization':_cac === 'accepted' ? 'granted' : 'denied',
+    'wait_for_update':   _cac ? 0 : 500
+  });
+  </script>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -36,10 +49,10 @@
   })(window,document,'script','dataLayer','GTM-TB4SR4F4');</script>
   <!-- End Google Tag Manager -->
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"BlogPosting","headline":"{{ title }}","description":"{{ description }}","datePublished":"{{ date | date('YYYY-MM-DD') }}","dateModified":"{{ updated or date | date('YYYY-MM-DD') }}","author":{"@type":"Person","name":"Monette","jobTitle":"Founder, CA Recruitment"},"publisher":{"@type":"Organization","name":"CA Recruitment","url":"https://carecruitment.com/"},"mainEntityOfPage":"https://carecruitment.com/blog/{{ slug }}/","image":{"@type":"ImageObject","url":"https://carecruitment.com{% if image %}{{ image }}{% else %}/images/monette-photo-600.jpeg{% endif %}","description":{{ (imageAlt or (title + " | CA Recruitment")) | json | safe }},"width":1024,"height":1024}}
+  {"@context":"https://schema.org","@type":"BlogPosting","headline":"{{ title }}","description":"{{ description }}","datePublished":"{{ date | date('YYYY-MM-DD') }}","dateModified":"{{ updated or date | date('YYYY-MM-DD') }}","author":{"@type":"Person","name":"Monette","jobTitle":"Founder, CA Recruitment"},"publisher":{"@type":"Organization","name":"CA Recruitment","url":"https://carecruitment.com/"},"mainEntityOfPage":"https://carecruitment.com{{ page.url }}","image":{"@type":"ImageObject","url":"https://carecruitment.com{% if image %}{{ image }}{% else %}/images/monette-photo-600.jpeg{% endif %}","description":{{ (imageAlt or (title + " | CA Recruitment")) | json | safe }},"width":1024,"height":1024}}
   </script>
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://carecruitment.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://carecruitment.com/blog/"},{"@type":"ListItem","position":3,"name":{{ (breadcrumb or title) | json | safe }},"item":"https://carecruitment.com/blog/{{ slug }}/"}]}
+  {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://carecruitment.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://carecruitment.com/blog/"},{"@type":"ListItem","position":3,"name":{{ (breadcrumb or title) | json | safe }},"item":"https://carecruitment.com{{ page.url }}"}]}
   </script>
   {% if faq %}
   <script type="application/ld+json">
@@ -166,6 +179,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <ul class="footer-links">
       <li><a href="/#services">Sectors</a></li>
       <li><a href="/work-permit-guide/">Work Permit Guide</a></li>
+      <li><a href="/managed-overseas-recruitment-ireland/">Our Service</a></li>
       <li><a href="/#how">How It Works</a></li>
       <li><a href="/faq/">FAQ</a></li>
       <li><a href="/about/">About</a></li>
