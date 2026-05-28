@@ -67,6 +67,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("netlify");
+  eleventyConfig.addPassthroughCopy("_headers");
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("llms.txt");
   eleventyConfig.addPassthroughCopy("sitemap.xml");
@@ -79,7 +80,16 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("sectors");
   eleventyConfig.addPassthroughCopy("privacy");
   eleventyConfig.addPassthroughCopy("filipino-recruitment-agency-ireland");
+  eleventyConfig.addPassthroughCopy("hire-filipino-workers-ireland");
+  eleventyConfig.addPassthroughCopy("hire-overseas-care-workers-ireland");
+  eleventyConfig.addPassthroughCopy("hire-overseas-chefs-ireland");
   eleventyConfig.addPassthroughCopy("blog/index.html");
+  eleventyConfig.addPassthroughCopy("blog/how-to-hire-farm-workers-from-overseas-ireland");
+  eleventyConfig.addPassthroughCopy("blog/home-care-providers-hiring-overseas-care-workers-ireland");
+  eleventyConfig.addPassthroughCopy("blog/how-to-hire-construction-workers-from-overseas-ireland");
+  eleventyConfig.addPassthroughCopy("hire-overseas-construction-workers-ireland");
+  eleventyConfig.addPassthroughCopy("hire-overseas-farm-workers-ireland");
+  eleventyConfig.addPassthroughCopy("overseas-recruitment-agency-ireland");
 
   // Sort posts by date descending
   eleventyConfig.addCollection("posts", function(collectionApi) {
