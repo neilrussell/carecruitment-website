@@ -34,7 +34,7 @@ faq:
   - q: "What salary do I need to pay a chef on a work permit in Ireland?"
     a: "The minimum annual salary is €36,605 — the standard GEP threshold. This applies to Chef de Partie, Sous Chef, and Head Chef roles. The salary must be paid as a basic wage; tips and commission do not count. DETE will reject an application that falls below this figure."
   - q: "How long does it take to hire a chef from overseas in Ireland?"
-    a: "4 to 6 months end-to-end. That covers 28 days for the LMNT, approximately 10 to 12 weeks of DETE processing (check current dates at enterprise.gov.ie), 2 to 4 weeks for the D-visa, and arrival and onboarding time. Running sourcing in parallel with the LMNT keeps the timeline shorter."
+    a: "6 to 8 months end-to-end. That covers 28 days for the LMNT, approximately 10 to 12 weeks of DETE processing (check current dates at enterprise.gov.ie), 2 to 4 weeks for the D-visa, and arrival and onboarding time. Running sourcing in parallel with the LMNT keeps the timeline shorter."
   - q: "What is the Labour Market Needs Test for hiring a chef?"
     a: "Before applying for a GEP, you must advertise the role for at least 28 consecutive days on two platforms: JobsIreland (the DSP/EURES network) and one additional online platform. Keep records of all applications received and document why no EEA candidate was suitable. DETE reviews this documentation when you submit the permit application — incomplete records will get the application refused."
   - q: "Can I hire a chef from the Philippines for my Irish restaurant or hotel?"
@@ -192,7 +192,7 @@ faq:
   </tbody>
 </table>
 
-<p><strong>Total: 4 to 6 months from first contact to first shift.</strong> Parallel staging — sourcing during the LMNT, Philippine documents during DETE processing — keeps this towards the four-month end. A DETE processing backlog can extend it; check the live dates before setting expectations with your team.</p>
+<p><strong>Total: 6 to 8 months from first contact to first shift.</strong> Parallel staging — sourcing during the LMNT, Philippine documents during DETE processing — keeps this towards the four-month end. A DETE processing backlog can extend it; check the live dates before setting expectations with your team.</p>
 
 <h2 id="ca-recruitment">How CA Recruitment handles it</h2>
 
@@ -210,7 +210,7 @@ faq:
   <li>Arrival support — PPS number, IRP registration, first-week onboarding</li>
 </ul>
 
-<p>There is no upfront fee. You pay when your chef starts. If they leave or do not work out within 90 days, we replace them at no additional charge.</p>
+<p>There is no upfront fee. You pay when your chef starts. If they leave within 90 days, we replace them at no additional recruitment fee.</p>
 
 <p>CA Recruitment is DMW-accredited for Ireland placements. This means Filipino workers can depart through the Philippines' official overseas employment programme — the documented, legally protected route. If an agency cannot confirm DMW accreditation for Ireland, the placement is legally exposed on the Philippine side.</p>
 
@@ -227,7 +227,7 @@ faq:
 <p>The minimum annual salary is €36,605 — the standard GEP threshold. This applies to Chef de Partie, Sous Chef, and Head Chef roles. The salary must be paid as a basic wage; tips and commission do not count. DETE will reject an application that falls below this figure.</p>
 
 <h3>How long does it take to hire a chef from overseas in Ireland?</h3>
-<p>4 to 6 months end-to-end. That covers 28 days for the LMNT, approximately 10 to 12 weeks of DETE processing (check current dates at <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/" target="_blank" rel="noopener">enterprise.gov.ie</a>), 2 to 4 weeks for the D-visa, and arrival and onboarding time. Running sourcing in parallel with the LMNT keeps the timeline shorter.</p>
+<p>6 to 8 months end-to-end. That covers 28 days for the LMNT, approximately 10 to 12 weeks of DETE processing (check current dates at <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/" target="_blank" rel="noopener">enterprise.gov.ie</a>), 2 to 4 weeks for the D-visa, and arrival and onboarding time. Running sourcing in parallel with the LMNT keeps the timeline shorter.</p>
 
 <h3>What is the Labour Market Needs Test for hiring a chef?</h3>
 <p>Before applying for a GEP, you must advertise the role for at least 28 consecutive days on two platforms: JobsIreland (the DSP/EURES network) and one additional online platform. Keep records of all applications received and document why no EEA candidate was suitable. DETE reviews this documentation when you submit the permit application — incomplete records will get the application refused.</p>
@@ -299,7 +299,7 @@ faq:
           "name": "How long does it take to hire a chef from overseas in Ireland?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "4 to 6 months end-to-end. That covers 28 days for the LMNT, approximately 10 to 12 weeks of DETE processing, 2 to 4 weeks for the D-visa, and arrival and onboarding time. Running sourcing in parallel with the LMNT keeps the timeline shorter."
+            "text": "6 to 8 months end-to-end. That covers 28 days for the LMNT, approximately 10 to 12 weeks of DETE processing, 2 to 4 weeks for the D-visa, and arrival and onboarding time. Running sourcing in parallel with the LMNT keeps the timeline shorter."
           }
         },
         {

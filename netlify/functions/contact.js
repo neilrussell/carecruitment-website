@@ -48,7 +48,10 @@ exports.handler = async (event) => {
   const name = (fields['full-name'] || '').trim();
   const email = (fields['email'] || '').trim();
   const phone = (fields['phone'] || '').trim();
+  const company = (fields['company'] || '').trim();
+  const roles = (fields['roles'] || '').trim();
   const message = (fields['message'] || '').trim();
+  const channel = (fields['attr_channel'] || '').trim();
 
   if (!name || !email) {
     return { statusCode: 400, body: 'Missing required fields' };
@@ -73,9 +76,17 @@ exports.handler = async (event) => {
         email,
         phone,
         locationId: GHL_LOCATION_ID,
-        source: 'Website Contact Form',
-        tags: ['website-contact'],
-        customField: [{ id: 'message', field_value: message }],
+        companyName: company || undefined,
+        source: channel ? `Website — ${channel}` : 'Website Contact Form',
+        tags: ['website-contact', 'employer-enquiry'],
+        customField: [
+          // What is the name of your company?
+          { id: '9EWCFygiPHwWaWQPbETh', field_value: company },
+          // What roles are you hiring for?
+          { id: 'F90ZmQE2GYdFujIPDbN5', field_value: roles },
+          // Enquiry message (website form)
+          { id: 'NZpmjK2kdPnE46JMFR6M', field_value: message },
+        ].filter((f) => f.field_value),
       }
     );
     console.log('HighLevel response:', ghlRes.status, ghlRes.body);

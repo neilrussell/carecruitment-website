@@ -18,7 +18,6 @@ toc:
   - { id: "nmbi", label: "The NMBI question" }
   - { id: "process", label: "What the process involves" }
   - { id: "timeline-cost", label: "Timeline and cost" }
-  - { id: "case-study", label: "Limerick case study" }
   - { id: "why-filipino", label: "Why Filipino care workers?" }
   - { id: "ca-recruitment", label: "How we help" }
   - { id: "faq", label: "FAQs" }
@@ -29,15 +28,15 @@ related:
   - { url: "/blog/cost-of-hiring-overseas-worker-ireland/", label: "Cost of hiring an overseas worker" }
 faq:
   - q: "Can a private nursing home in Ireland hire non-EU care workers?"
-    a: "Yes. Private nursing homes can apply for General Employment Permits (GEP) through DETE for care assistant and healthcare assistant roles. The role is on DETE's eligible occupations list. The minimum salary threshold is €32,691 per year — lower than the standard GEP rate because care assistants fall under DETE's healthcare support shortage category. The HSE recruitment freeze announced in May 2026 applies only to public HSE-employed staff. It does not affect private nursing homes or private home care providers."
+    a: "Yes. Private nursing homes can apply for General Employment Permits (GEP) through DETE for care assistant and healthcare assistant roles. The role is on DETE's eligible occupations list. The minimum pay threshold is €16.12 per hour — €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week — lower than the standard GEP rate because care assistants fall under DETE's healthcare support shortage category. The HSE recruitment freeze announced in May 2026 applies only to public HSE-employed staff. It does not affect private nursing homes or private home care providers."
   - q: "Do Filipino care workers need NMBI registration to work in a nursing home?"
     a: "No — not for a care assistant or healthcare assistant role. NMBI registration is required only for registered nurses and midwives. A Filipino BSN graduate working in a care assistant role does not need NMBI registration. This is one of the most common points of confusion for nursing home operators. If you specifically want to hire a worker as a registered nurse in a nursing role, that is a different process and NMBI registration is required separately."
   - q: "What is the DETE employment permit process for a nursing home care assistant?"
-    a: "The process involves four stages: a 28-day Labour Market Needs Test advertising the role on Jobs Ireland and one additional platform, a DETE GEP application with current processing time of approximately 10 to 12 weeks, an Irish D-visa application at the Irish Embassy in Manila after the permit is approved, and arrival followed by IRP registration with Immigration Service Delivery. Garda vetting is completed through the National Vetting Bureau after arrival — no fee to the employer. Total timeline from first contact is typically 14 to 18 weeks."
+    a: "The process involves four stages: a 28-day Labour Market Needs Test advertising the role on Jobs Ireland and one additional platform, a DETE GEP application with current processing time of approximately 10 to 12 weeks, an Irish D-visa application at the Irish Embassy in Manila after the permit is approved, and arrival followed by IRP registration with Immigration Service Delivery. Garda vetting is completed through the National Vetting Bureau after arrival — no fee to the employer. Total timeline from first contact is typically 6 to 8 months."
   - q: "What does the 50/50 rule mean for a nursing home hiring overseas?"
     a: "At the time you submit your GEP application, at least 50% of your total workforce must be EEA nationals — all staff, not just care workers. For most established nursing homes, this is not a problem. If you have been hiring overseas workers for several years, check your ratio before starting the process. A refused application costs 28 days of advertising time and the €1,000 DETE fee."
   - q: "How much does it cost a nursing home to hire a non-EU care worker?"
-    a: "The main costs are: €1,000 DETE GEP application fee, €200 to €500 for Labour Market Needs Test advertising on a commercial job board, and recruitment agency fees (CA Recruitment charges nothing until the worker starts). The worker's salary must be at least €32,691 per year. Garda vetting carries no employer fee. Total process cost excluding salary typically runs €1,200 to €2,000."
+    a: "The main costs are: €1,000 DETE GEP application fee, €200 to €500 for Labour Market Needs Test advertising on a commercial job board, and recruitment agency fees (CA Recruitment charges nothing until the worker starts). The worker's pay must be at least €16.12 per hour — €32,691 per year on a 39-hour week. Garda vetting carries no employer fee. Total process cost excluding salary typically runs €1,200 to €2,000."
   - q: "Does the May 2026 HSE recruitment freeze affect private nursing homes?"
     a: "No. The HSE moratorium announced in May 2026 applies only to public Health Service Executive posts. Private nursing homes and private home care operators are independent employers — they are not subject to the freeze and can continue recruiting overseas."
 ---
@@ -56,7 +55,7 @@ faq:
 
 <p>Yes. Healthcare assistant and care assistant roles are explicitly listed in DETE's General Employment Permit framework as shortage occupations. This matters because it means the minimum salary threshold is lower than the standard GEP rate.</p>
 
-<p>The minimum annual salary for a care assistant GEP is <strong>€32,691</strong> — DETE's reduced rate for healthcare support roles, compared to the standard GEP minimum of €36,605. You need to be paying at or above €32,691 for the permit to issue. Most nursing homes are already paying above this.</p>
+<p>The minimum pay for a care assistant GEP is <strong>€16.12 per hour</strong> — €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week. This is DETE's reduced rate for healthcare support roles, compared to the standard GEP minimum of €36,605. You need to be paying at or above the hourly rate for the permit to issue, and the figure must be basic pay: guaranteed premium payments can count towards it, but bonuses, shift allowances, and overtime cannot. Most nursing homes are already paying above this.</p>
 
 <p>The 50/50 workforce rule also applies. At the time you submit your GEP application, at least 50% of your total employees must be EEA nationals — across all staff, not just care workers. For most established nursing homes, this is not a problem. If you have been hiring overseas workers for several years, check your current ratio before starting the process. A refused application wastes 28 days of advertising and the €1,000 DETE fee.</p>
 
@@ -162,17 +161,9 @@ faq:
   </tbody>
 </table>
 
-<p><strong>Total: 14 to 18 weeks from first contact to worker starting.</strong> Running sourcing during the LMNT and Philippine documentation during DETE processing keeps it at the shorter end. The DETE processing window is the longest single stage — starting early is the most effective thing you can do.</p>
+<p><strong>Realistically, plan for about 6 to 8 months from first contact to the worker starting.</strong> The stages above overlap where possible — sourcing runs during the Labour Market Needs Test, and Philippine documentation runs during DETE processing — but in practice DETE queue times, embassy visa scheduling, and travel mean the full journey runs 6 to 8 months. The DETE processing window is the longest single stage, so starting early is the most effective thing you can do.</p>
 
-<p>On cost: the DETE fee is €1,000. LMNT advertising on a commercial board typically runs €200 to €500. Garda vetting carries no employer fee. CA Recruitment charges nothing until the worker starts. For most nursing homes, the total process cost excluding salary runs between €1,200 and €2,000 per placement. The worker's salary must be at least €32,691 per year. The D-visa application fee is paid by the worker.</p>
-
-<h2 id="case-study">A nursing home group in Co. Limerick</h2>
-
-<p>A nursing home group in Co. Limerick came to us after four months of advertising for care assistants locally. They had run ads on Indeed, used a domestic agency, and posted on local community pages. Nothing workable had come from it.</p>
-
-<p>We placed six Filipino care assistants across their sites. All six held nursing degrees from Philippine universities — technically overqualified for the care assistant role, which turned out to be an advantage in how quickly they settled into the work. From our first call to all six workers on site: 14 weeks.</p>
-
-<p>The group now works with us on an ongoing basis for future vacancies rather than repeating the local advertising cycle.</p>
+<p>On cost: the DETE fee is €1,000. LMNT advertising on a commercial board typically runs €200 to €500. Garda vetting carries no employer fee. CA Recruitment charges nothing until the worker starts. For most nursing homes, the total process cost excluding salary runs between €1,200 and €2,000 per placement. The worker's pay must be at least €16.12 per hour (€32,691 per year on a 39-hour week). The D-visa application fee is paid by the worker.</p>
 
 <h2 id="why-filipino">Why Filipino care workers specifically?</h2>
 
@@ -184,7 +175,7 @@ faq:
 
 <h2 id="ca-recruitment">How CA Recruitment manages the process</h2>
 
-<p>Our founder Monette is Filipino, based in Tipperary. She has placed care workers with nursing homes and home care operators across Ireland and manages both sides of the process — the Irish permit application and the Philippine departure process. Most agencies operating in this space rely on a partner agency in the Philippines that they have limited oversight of. We do not.</p>
+<p>Our founder Monette is Filipino, based in Tipperary. She manages both sides of the process — the Irish permit application and the Philippine departure process — with direct networks in the Philippines built over years in international recruitment. Most agencies operating in this space rely on a partner agency in the Philippines that they have limited oversight of. We do not.</p>
 
 <p>What we handle for every nursing home placement:</p>
 

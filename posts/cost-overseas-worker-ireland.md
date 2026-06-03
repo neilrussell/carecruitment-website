@@ -10,7 +10,8 @@ waText: "Hi Monette, I'd like to know about the cost of hiring overseas workers.
 sidebarCta: "Want a clear cost picture for your specific role? Ask Monette — free, no obligation."
 layout: blog-post.njk
 permalink: /blog/cost-overseas-worker-ireland/index.html
-image: /images/blog/cost-overseas-worker-ireland/featured.jpg
+image: /images/social/cost-overseas-worker-ireland-post.png
+imageAlt: "Infographic showing the cost breakdown of hiring an overseas worker in Ireland — DETE permit fee, Labour Market Needs Test, agency fee and 90-day replacement guarantee"
 toc:
   - { id: "cost-summary", label: "Cost summary" }
   - { id: "dete-permit-fee", label: "The DETE permit fee" }

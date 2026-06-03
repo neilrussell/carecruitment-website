@@ -27,7 +27,7 @@ related:
   - { url: "/blog/how-to-hire-construction-workers-from-overseas-ireland/", label: "Hiring construction workers from overseas" }
 faq:
   - q: "How long does the overseas hiring process take in Ireland?"
-    a: "From first conversation to a worker's first day, the process typically takes 4 to 6 months. The Labour Market Needs Test takes 28 days. DETE permit processing is currently running at approximately 11 to 12 weeks. The D-visa at the Irish Embassy Manila takes a further 4 to 8 weeks. The steps run partly in sequence and partly in parallel. The single biggest factor in how long it takes is how early you start."
+    a: "From first conversation to a worker's first day, the process typically takes 6 to 8 months. The Labour Market Needs Test takes 28 days. DETE permit processing is currently running at approximately 11 to 12 weeks. The D-visa at the Irish Embassy Manila takes a further 4 to 8 weeks. The steps run partly in sequence and partly in parallel. The single biggest factor in how long it takes is how early you start."
   - q: "Can I hire workers from any country, or only the Philippines?"
     a: "The GEP process applies to any non-EEA national. CA Recruitment specialises in placing Filipino workers because the agency is Filipino-owned, has a DMW-accredited partner agency in the Philippines, and Filipino workers have a strong track record with Irish employers across our sectors. The Irish permit rules are the same regardless of where your worker comes from."
   - q: "Which sectors can use the General Employment Permit?"
@@ -52,7 +52,7 @@ faq:
 
 <ul>
   <li><strong>Standard roles:</strong> minimum annual salary of €36,605</li>
-  <li><strong>Shortage occupations</strong> — including healthcare assistants, home support workers, horticulture workers, and meat processors: minimum annual salary of €32,691</li>
+  <li><strong>Shortage occupations</strong> — including healthcare assistants, home support workers, horticulture workers, and meat processors: €16.12 per hour, which is €32,691 per year on a 39-hour week (a 40-hour week requires €33,529.60)</li>
 </ul>
 
 <p>These thresholds were updated in March 2026. Always verify current figures at <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/" target="_blank" rel="noopener">enterprise.gov.ie</a> before starting any application — DETE reviews thresholds annually.</p>
@@ -159,7 +159,7 @@ faq:
   <li>Onboarding logistics: PPS number, IRP registration, accommodation support</li>
 </ul>
 
-<p><strong>No fee until the worker starts.</strong> If the placement does not proceed, you are not charged. If the worker leaves within 90 days, we replace them at no additional cost.</p>
+<p><strong>No fee until the worker starts.</strong> If the placement does not proceed, you are not charged. If the worker leaves within 90 days, we replace them at no additional recruitment fee.</p>
 
 <div class="inline-cta">
   <h3>Ready to find out if overseas hiring works for your role? <span>WhatsApp Monette.</span></h3>
@@ -178,7 +178,7 @@ faq:
 <div class="faq-list">
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">How long does the overseas hiring process take in Ireland?<span class="faq-arrow" aria-hidden="true">▾</span></button>
-    <div class="faq-answer"><p>From first conversation to a worker's first day, the process typically takes 4 to 6 months. The Labour Market Needs Test takes 28 days. DETE permit processing is currently running at approximately 11 to 12 weeks. The D-visa at the Irish Embassy Manila takes a further 4 to 8 weeks. The steps run partly in sequence and partly in parallel. The single biggest factor in how long it takes is how early you start.</p></div>
+    <div class="faq-answer"><p>From first conversation to a worker's first day, the process typically takes 6 to 8 months. The Labour Market Needs Test takes 28 days. DETE permit processing is currently running at approximately 11 to 12 weeks. The D-visa at the Irish Embassy Manila takes a further 4 to 8 weeks. The steps run partly in sequence and partly in parallel. The single biggest factor in how long it takes is how early you start.</p></div>
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">Can I hire workers from any country, or only the Philippines?<span class="faq-arrow" aria-hidden="true">▾</span></button>

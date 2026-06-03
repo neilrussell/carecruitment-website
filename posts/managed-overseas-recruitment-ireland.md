@@ -1,6 +1,6 @@
 ---
 title: "Managed Overseas Recruitment Ireland"
-description: "Filipino workers placed with Irish employers in care, agriculture, construction and hospitality. Work permits managed in full. No fee until placement."
+description: "Skilled overseas workers placed with Irish employers in care, agriculture, construction and hospitality. Work permits managed in full. No fee until placement."
 date: 2026-05-26
 category: Employer Guide
 readTime: "9 min"
@@ -27,15 +27,15 @@ faq:
   - q: "What is managed overseas recruitment?"
     a: "Managed overseas recruitment means an agency handles the full hiring process on your behalf — from sourcing and vetting candidates overseas through to DETE work permit applications, visa processing, and arrival support. You confirm the role and the candidate. CA Recruitment does everything else."
   - q: "How long does overseas recruitment take for Irish employers?"
-    a: "The full process typically takes 4 to 6 months from your first conversation to a worker's first day. The Labour Market Needs Test runs for 28 days. DETE processes General Employment Permit applications in approximately 8 to 12 weeks. The D-visa at the Irish Embassy in Manila takes a further 4 to 8 weeks. Starting earlier than you think you need to is the single best thing you can do."
+    a: "The full process typically takes 6 to 8 months from your first conversation to a worker's first day. The Labour Market Needs Test runs for 28 days. DETE processes General Employment Permit applications in approximately 8 to 12 weeks. The D-visa at the Irish Embassy in Manila takes a further 4 to 8 weeks. Starting earlier than you think you need to is the single best thing you can do."
   - q: "Do I need to pay anything upfront to use CA Recruitment?"
     a: "No. There is no fee until your worker is placed and has started work. CA Recruitment provides a fixed-fee quote during the initial consultation so you know the full cost before committing to anything."
   - q: "What happens if the worker leaves within the first 90 days?"
-    a: "CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves for any reason within 90 days of starting, we replace them at no additional cost to you."
+    a: "CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee."
   - q: "Which sectors does CA Recruitment recruit for?"
     a: "CA Recruitment places Filipino workers in healthcare and care, agriculture, construction, hospitality, and food production. Owner Monette has placed workers across all five sectors with Irish employers ranging from family farms to care home groups."
   - q: "What is the minimum salary for an overseas worker on an Irish work permit?"
-    a: "For most General Employment Permit (GEP) roles, the minimum is €36,605 per year. For healthcare support workers and home support workers, a lower threshold applies under the current quota: €32,691 per year (€16.12 per hour). Salary thresholds are reviewed annually — check enterprise.gov.ie for the current figures before starting the process."
+    a: "For most General Employment Permit (GEP) roles, the minimum is €36,605 per year. For healthcare support workers and home support workers, a lower threshold applies under the current quota: €16.12 per hour — €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week. Salary thresholds are reviewed annually — check enterprise.gov.ie for the current figures before starting the process."
 ---
 
 <h1>Managed Overseas Recruitment for Irish Employers — Permits Included</h1>
@@ -94,11 +94,11 @@ faq:
 
 <h3>Hospitality</h3>
 
-<p>Chefs (all levels), kitchen porters, front-of-house staff, and hotel housekeeping roles. Hospitality placements often have seasonal timing pressures — the permit process takes 4 to 6 months, which means a summer hire needs to be started in January or February. We advise every hospitality client on timing before they commit to the process.</p>
+<p>Chefs (all levels), kitchen porters, front-of-house staff, and hotel housekeeping roles. Hospitality placements often have seasonal timing pressures — the permit process takes 6 to 8 months, which means a summer hire needs to be started in January or February. We advise every hospitality client on timing before they commit to the process.</p>
 
 <h3>Food production</h3>
 
-<p>Meat processing operatives, food production workers, and factory floor roles. The lower salary threshold (€32,691 per year) applies to meat processors alongside healthcare support workers and horticulture roles, which affects the economics of food production placements.</p>
+<p>Meat processing operatives, food production workers, and factory floor roles. The lower pay threshold (€16.12/hr — €32,691 per year on a 39-hour week) applies to meat processors alongside healthcare support workers and horticulture roles, which affects the economics of food production placements.</p>
 
 <h2 id="clients">Who we work with</h2>
 
@@ -127,7 +127,7 @@ faq:
 
 <h3>No fee until placement, 90-day replacement guarantee</h3>
 
-<p>There is no upfront cost. CA Recruitment provides a fixed-fee quote during the initial consultation and you pay only when your worker arrives and starts. If the placed worker leaves for any reason within 90 days of starting, we replace them at no additional charge. This is not a small print commitment — it is how we structure every placement.</p>
+<p>There is no upfront cost. CA Recruitment provides a fixed-fee quote during the initial consultation and you pay only when your worker arrives and starts. If the placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee. This is not a small print commitment — it is how we structure every placement.</p>
 
 <h3>SME care worker tier — a gap no competitor fills</h3>
 
@@ -142,7 +142,7 @@ faq:
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">How long does overseas recruitment take for Irish employers?<span class="faq-arrow" aria-hidden="true">▾</span></button>
-    <div class="faq-answer"><p>The full process typically takes 4 to 6 months from your first conversation to a worker's first day. The Labour Market Needs Test runs for 28 days. DETE processes General Employment Permit applications in approximately 8 to 12 weeks. The D-visa at the Irish Embassy in Manila takes a further 4 to 8 weeks. Starting earlier than you think you need to is the single best thing you can do — every week you delay before beginning the LMNT is a week added to the far end of the process.</p></div>
+    <div class="faq-answer"><p>The full process typically takes 6 to 8 months from your first conversation to a worker's first day. The Labour Market Needs Test runs for 28 days. DETE processes General Employment Permit applications in approximately 8 to 12 weeks. The D-visa at the Irish Embassy in Manila takes a further 4 to 8 weeks. Starting earlier than you think you need to is the single best thing you can do — every week you delay before beginning the LMNT is a week added to the far end of the process.</p></div>
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">Do I need to pay anything upfront?<span class="faq-arrow" aria-hidden="true">▾</span></button>
@@ -150,11 +150,11 @@ faq:
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">What happens if the worker leaves within the first 90 days?<span class="faq-arrow" aria-hidden="true">▾</span></button>
-    <div class="faq-answer"><p>CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves for any reason within 90 days of starting, we replace them at no additional cost to you. This applies to all placements.</p></div>
+    <div class="faq-answer"><p>CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee. This applies to all placements.</p></div>
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">What is the minimum salary for an overseas worker on an Irish work permit?<span class="faq-arrow" aria-hidden="true">▾</span></button>
-    <div class="faq-answer"><p>For most General Employment Permit roles, the minimum annual salary is €36,605. For healthcare support workers, home support workers, horticulture workers, and meat processors, a lower quota threshold applies: €32,691 per year (€16.12 per hour). Salary thresholds are reviewed annually — always check <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/" target="_blank" rel="noopener">enterprise.gov.ie</a> for the current figure before starting the process.</p></div>
+    <div class="faq-answer"><p>For most General Employment Permit roles, the minimum annual salary is €36,605. For healthcare support workers, home support workers, horticulture workers, and meat processors, a lower quota threshold applies: €16.12 per hour — €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week. Salary thresholds are reviewed annually — always check <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/" target="_blank" rel="noopener">enterprise.gov.ie</a> for the current figure before starting the process.</p></div>
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">Can I hire overseas workers if more than half my staff are already non-EEA nationals?<span class="faq-arrow" aria-hidden="true">▾</span></button>
@@ -219,7 +219,7 @@ faq:
       "name": "How long does overseas recruitment take for Irish employers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The full process typically takes 4 to 6 months from your first conversation to a worker's first day. The Labour Market Needs Test runs for 28 days. DETE processes General Employment Permit applications in approximately 8 to 12 weeks. The D-visa at the Irish Embassy in Manila takes a further 4 to 8 weeks."
+        "text": "The full process typically takes 6 to 8 months from your first conversation to a worker's first day. The Labour Market Needs Test runs for 28 days. DETE processes General Employment Permit applications in approximately 8 to 12 weeks. The D-visa at the Irish Embassy in Manila takes a further 4 to 8 weeks."
       }
     },
     {
@@ -235,7 +235,7 @@ faq:
       "name": "What happens if the worker leaves within the first 90 days?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves for any reason within 90 days of starting, we replace them at no additional cost to you."
+        "text": "CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee."
       }
     },
     {
@@ -243,7 +243,7 @@ faq:
       "name": "What is the minimum salary for an overseas worker on an Irish work permit?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For most General Employment Permit roles, the minimum annual salary is €36,605. For healthcare support workers, home support workers, horticulture workers, and meat processors, a lower quota threshold applies: €32,691 per year (€16.12 per hour). Salary thresholds are reviewed annually — check enterprise.gov.ie for the current figure."
+        "text": "For most General Employment Permit roles, the minimum annual salary is €36,605. For healthcare support workers, home support workers, horticulture workers, and meat processors, a lower quota threshold applies: €16.12 per hour — €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week. Salary thresholds are reviewed annually — check enterprise.gov.ie for the current figure."
       }
     },
     {

@@ -32,7 +32,7 @@ faq:
   - q: "Does the Critical Skills Employment Permit require a Labour Market Needs Test?"
     a: "No. The Critical Skills Employment Permit does not require a Labour Market Needs Test. This removes the mandatory 28-day advertising period on Jobs Ireland and typically cuts 4 to 6 weeks from the overall process compared to the General Employment Permit route."
   - q: "How long does it take to get a work permit in Ireland?"
-    a: "A General Employment Permit typically takes 3 to 5 months end-to-end from first consultation to the worker starting, including the 28-day Labour Market Needs Test and 8 to 12 weeks of DETE processing. A Critical Skills Employment Permit typically takes 2 to 4 months, as no Labour Market Needs Test is required."
+    a: "A General Employment Permit typically takes 6 to 8 months end-to-end from first consultation to the worker starting, including the 28-day Labour Market Needs Test and 8 to 12 weeks of DETE processing. A Critical Skills Employment Permit typically takes 2 to 4 months, as no Labour Market Needs Test is required."
 ---
 
 <p>Most employers looking to hire non-EEA workers will come across two permit types: the General Employment Permit (GEP) and the Critical Skills Employment Permit (CSEP). They look similar on paper but work quite differently. Getting the route wrong doesn't just delay your application — it can mean starting from scratch.</p>
@@ -44,13 +44,13 @@ The GEP is the standard route. If you're hiring for a role that isn't on the Cri
 
 Key requirements for the GEP:
 
-- Minimum annual salary of **€36,605** (lower threshold of €32,691 applies to horticulture workers, healthcare assistants, and meat processing operatives)
+- Minimum annual salary of **€36,605** (a lower threshold of €16.12/hr — €32,691/yr on a 39-hour week — applies to horticulture workers, healthcare assistants, and meat processing operatives)
 - The role must not appear on the Ineligible Categories of Employment list
 - You must pass the Labour Market Needs Test (LMNT) — advertising the role for 28 consecutive days on Jobs Ireland and at least one other platform
 - Your workforce must be at least 50% EEA nationals (with limited exceptions)
 - The permit is employer-specific — the worker cannot change employer without a new permit until they have been in Ireland for 9 months
 
-Processing time for a GEP is typically 8–12 weeks from application, but the LMNT adds 28 days before you can even apply. End-to-end, from initial consultation to worker arriving in Ireland, expect 3–5 months for most roles.
+Processing time for a GEP is typically 8–12 weeks from application, but the LMNT adds 28 days before you can even apply. End-to-end, from initial consultation to worker arriving in Ireland, expect 6–8 months for most roles.
 
 ## The Critical Skills Employment Permit (CSEP) {#csep}
 
@@ -77,12 +77,12 @@ The big differences compared to the GEP:
 </thead>
 <tbody>
 <tr><td>Eligibility</td><td>Most non-EEA roles not on the ineligible list</td><td>Roles on the CSEP Occupations List, or salary ≥ €68,911</td></tr>
-<tr><td>Minimum salary</td><td>€36,605 (€32,691 for some roles)</td><td>€40,904 (listed occupations) or €68,911 (any role)</td></tr>
+<tr><td>Minimum salary</td><td>€36,605 (€16.12/hr — €32,691/yr at 39 hrs — for some roles)</td><td>€40,904 (listed occupations) or €68,911 (any role)</td></tr>
 <tr><td>Labour Market Test</td><td>Required — 28 days minimum</td><td>Not required</td></tr>
 <tr><td>50/50 rule</td><td>Applies</td><td>Applies (same startup exemption available)</td></tr>
 <tr><td>Permit duration</td><td>2 years (renewable)</td><td>2 years (not renewable — worker moves to Stamp 4)</td></tr>
 <tr><td>Employer change</td><td>New permit required; 9-month wait</td><td>New permit required; 9-month wait; broader occupational flexibility</td></tr>
-<tr><td>Typical end-to-end</td><td>3–5 months</td><td>2–4 months</td></tr>
+<tr><td>Typical end-to-end</td><td>6–8 months</td><td>2–4 months</td></tr>
 </tbody>
 </table>
 </div>

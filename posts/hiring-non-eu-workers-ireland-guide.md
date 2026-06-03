@@ -34,7 +34,7 @@ related:
     label: The 50/50 Rule explained
 faq:
   - q: "How long does it take to hire a non-EU worker for an Irish business?"
-    a: "From first consultation to the worker starting, expect 3 to 5 months for a General Employment Permit and 2 to 4 months for a Critical Skills Employment Permit. The GEP process includes a mandatory 28-day Labour Market Needs Test before the application can be submitted, followed by 8 to 12 weeks of DETE processing."
+    a: "From first consultation to the worker starting, expect 6 to 8 months for a General Employment Permit and 2 to 4 months for a Critical Skills Employment Permit. The GEP process includes a mandatory 28-day Labour Market Needs Test before the application can be submitted, followed by 8 to 12 weeks of DETE processing."
   - q: "Can an Irish employer charge the worker for the cost of an employment permit?"
     a: "No. Under the Employment Permits Acts, it is a criminal offence to pass the cost of an employment permit on to a non-EEA worker. The employer pays the government permit fee, currently €1,000 for permits of up to 24 months duration."
   - q: "What are an employer's obligations when hiring a non-EU worker in Ireland?"
@@ -49,7 +49,7 @@ Not every role qualifies for an employment permit. DETE maintains two lists: an 
 
 Most roles in agriculture, construction, hospitality, healthcare, logistics, retail, and manufacturing are eligible. If you're not sure, this is the first thing to check — and we'll check it for you in a free consultation.
 
-The role also needs to meet a minimum salary threshold. For a General Employment Permit (GEP), the minimum is €36,605 annually — or €32,691 for certain roles in horticulture, healthcare assistance, and meat processing.
+The role also needs to meet a minimum salary threshold. For a General Employment Permit (GEP), the minimum is €36,605 annually — or €16.12 per hour (€32,691 per year on a 39-hour week) for certain roles in horticulture, healthcare assistance, and meat processing.
 
 ## The Labour Market Needs Test {#the-labour-market-test}
 
@@ -73,7 +73,7 @@ The permit application is made through DETE's online application portal, Employm
 
 You'll need: a signed job offer letter, evidence of the LMNT (if required), your tax registration details, and information about your current workforce. We assemble all of this on behalf of our clients — the employer typically signs documents but doesn't manage the process directly.
 
-Processing time at DETE is typically 8–12 weeks from the date of application. That's on top of the 28-day LMNT for GEPs. End-to-end, from first consultation to the worker starting, expect 3–5 months for a GEP, or 2–4 months for a CSEP.
+Processing time at DETE is typically 8–12 weeks from the date of application. That's on top of the 28-day LMNT for GEPs. End-to-end, from first consultation to the worker starting, expect 6–8 months for a GEP, or 2–4 months for a CSEP.
 
 ## After the permit is issued {#after-the-permit}
 
@@ -89,7 +89,7 @@ You also need to pay at least the minimum wage, provide a written employment con
 
 ## What CA Recruitment does {#what-we-do}
 
-We manage the full process — from checking eligibility and sourcing candidates in the Philippines, through the Labour Market Test and permit application, to the worker's arrival and the first 90 days on the ground. If the worker leaves or doesn't work out within 90 days of starting, we replace at no charge.
+We manage the full process — from checking eligibility and sourcing candidates in the Philippines, through the Labour Market Test and permit application, to the worker's arrival and the first 90 days on the ground. If the worker leaves within 90 days of starting, we replace at no additional recruitment fee.
 
 Our fee is due only when a worker is placed. There's no upfront cost for the consultation, the sourcing, or the permit application management.
 

@@ -28,7 +28,7 @@ faq:
   - q: "Is Ireland still recruiting care workers from overseas in 2026?"
     a: "Yes. The DETE General Employment Permit quota for care workers is open in 2026. DETE allocated 1,134 permits specifically for healthcare support workers and home carers (increased from 500 via SI 64/2025), and private nursing homes and homecare providers across Ireland are actively using it."
   - q: "What is the minimum salary for an overseas care worker in Ireland?"
-    a: "Care workers and home carers qualify for a General Employment Permit at a reduced minimum salary of €32,691 per year (€16.12 per hour). This is lower than the standard GEP minimum of €36,605 and applies specifically to healthcare assistants and home carers under the GEP care worker quota."
+    a: "Care workers and home carers qualify for a General Employment Permit at a reduced minimum of €16.12 per hour — €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week. This is lower than the standard GEP minimum of €36,605 and applies specifically to healthcare assistants and home carers under the GEP care worker quota. The qualifying salary must be basic pay: bonuses, shift allowances, and overtime do not count."
   - q: "Which care roles are eligible for an Irish work permit?"
     a: "The General Employment Permit care worker quota covers healthcare support workers and care assistants in nursing homes and residential care settings, and home carers and home support workers employed by homecare providers. Registered nurses and midwives are not covered by this quota and apply via the Critical Skills Employment Permit instead."
 ---
@@ -64,7 +64,7 @@ If you run a nursing home or homecare service and need care assistants and home 
 
 <h2 id="salary">The Salary Threshold</h2>
 
-Care worker and home carer roles qualify at a reduced minimum salary threshold of **€32,691 per year** (€16.12 per hour). This is lower than the standard GEP minimum of €36,605, and was set specifically to reflect care sector wage rates.
+Care worker and home carer roles qualify at a reduced minimum threshold of **€16.12 per hour** — €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week. This is lower than the standard GEP minimum of €36,605, and was set specifically to reflect care sector wage rates. The qualifying figure must be basic pay: guaranteed premium payments can count towards it, but bonuses, shift allowances, and overtime cannot.
 
 The threshold increased in March 2026 as part of DETE's annual minimum remuneration roadmap, which runs through 2030. The minimum goes up each year. Employers who delay face higher salary commitments in future permit applications — locking in now is cheaper than applying in 2027.
 
@@ -103,7 +103,7 @@ Operators who wait until a quota closes face a full stop on applications until D
 The GEP care worker route works for nursing homes and homecare providers that:
 
 - Need care assistants or home carers and cannot fill roles from the domestic labour market
-- Can offer a minimum of €32,691 per year (€16.12 per hour)
+- Can offer a minimum of €16.12 per hour (€32,691 per year on a 39-hour week)
 - Have an EEA workforce ratio of at least 50%
 - Can plan at least five months ahead of when they need the worker on site
 

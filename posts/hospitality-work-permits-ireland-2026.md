@@ -1,6 +1,6 @@
 ---
-title: "Hospitality Work Permits Ireland 2026: What Roles Are Still Open"
-description: "The GEP quota for hospitality manager roles closed on 28 April 2026. Here's exactly which roles are now off the table, which remain permit-eligible, and what Irish hospitality employers should do now."
+title: "Hospitality Work Permits Ireland 2026: Chef Roles Still Open"
+description: "Manager roles quota closed 28 April 2026. Chef and kitchen GEP roles remain open. What Irish hospitality employers need to know and do now."
 date: 2026-05-11
 category: Employer Guide
 readTime: "5 min"

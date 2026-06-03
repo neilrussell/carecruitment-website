@@ -1,6 +1,6 @@
 ---
 title: "How to Hire Filipino Workers for Ireland in 2026: The Employer's Guide"
-description: "Step-by-step guide for Irish employers hiring Filipino workers. Covers DMW accreditation, Labour Market Needs Test, GEP permit, D-visa, and care qualifications. 4–6 months start to finish."
+description: "Step-by-step guide for Irish employers hiring Filipino workers. Covers DMW accreditation, Labour Market Needs Test, GEP permit, D-visa, and care qualifications. 6–8 months start to finish."
 date: 2026-05-25
 category: Employer Guide
 readTime: "13 min"
@@ -10,7 +10,8 @@ waText: "Hi, I'd like to know about hiring Filipino workers for Ireland. Can you
 sidebarCta: "Thinking about hiring from the Philippines? We manage every step — no fee until placement."
 layout: blog-post.njk
 permalink: /blog/how-to-hire-filipino-workers-ireland-2026/index.html
-image: /images/blog/how-to-hire-filipino-workers-ireland-2026/featured.jpg
+image: /images/social/how-to-hire-filipino-workers-ireland-2026-post.png
+imageAlt: "Step-by-step infographic for Irish employers on hiring Filipino workers — DMW accreditation, Labour Market Needs Test, DETE GEP permit and D-visa stages"
 toc:
   - { id: "why-filipino", label: "Why Filipino workers" }
   - { id: "step1-dmw", label: "Step 1: Find a DMW-accredited agency" }
@@ -20,7 +21,7 @@ toc:
   - { id: "step5-dvisa", label: "Step 5: D-visa application" }
   - { id: "step6-arrival", label: "Step 6: Arrival and onboarding" }
   - { id: "care-specific", label: "Care sector: QQI and NMBI" }
-  - { id: "timeline", label: "Timeline: 4–6 months" }
+  - { id: "timeline", label: "Timeline: 6–8 months" }
   - { id: "faq", label: "Frequently asked questions" }
 related:
   - { url: "/work-permit-guide/", label: "Full Work Permit Guide" }
@@ -31,20 +32,20 @@ faq:
   - q: "What is DMW accreditation and why does it matter when hiring Filipino workers?"
     a: "The DMW (Department of Migrant Workers) is the Philippine government body that regulates overseas deployment of Filipino workers. A DMW-accredited recruitment agency is legally authorised to recruit and process workers for overseas employment. Without DMW accreditation, the worker cannot obtain an OEC (Overseas Employment Certificate), and without an OEC they cannot legally depart the Philippines for work — regardless of what Irish permits are in place."
   - q: "How long does it take to hire a Filipino worker for Ireland?"
-    a: "The full process — from your first conversation with a recruitment agency through to a worker's first day — typically takes 4 to 6 months. The DETE Labour Market Needs Test takes 28 days. DETE permit processing is currently 8 to 12 weeks. The D-visa at the Irish Embassy Manila typically takes 4 to 8 weeks after permit approval. Start the process earlier than you think you need to."
+    a: "The full process — from your first conversation with a recruitment agency through to a worker's first day — typically takes 6 to 8 months. The DETE Labour Market Needs Test takes 28 days. DETE permit processing is currently 8 to 12 weeks. The D-visa at the Irish Embassy Manila typically takes 4 to 8 weeks after permit approval. Start the process earlier than you think you need to."
   - q: "Do Filipino workers need an OEC before they can leave the Philippines?"
     a: "Yes. The OEC (Overseas Employment Certificate) is issued by the DMW to a worker before they depart the Philippines. It certifies that the worker is going overseas through a lawful channel — via a DMW-accredited agency, to an employer who is legally authorised to receive them. Without an OEC, a Filipino worker cannot depart as an overseas worker."
   - q: "What qualifications do Filipino care workers need to work in Ireland?"
     a: "For care assistant roles (Healthcare Support Worker), overseas workers must demonstrate qualifications equivalent to QQI Level 5 in Healthcare Support. Most Filipino applicants hold a Bachelor of Science in Nursing or a healthcare diploma that satisfies this. For registered nurse positions, NMBI (Nursing and Midwifery Board of Ireland) assessment and registration is required before the worker can practise. NMBI registration should be started in parallel with the GEP process."
   - q: "What is the minimum salary for Filipino workers on an Irish work permit?"
-    a: "For care assistant/healthcare support worker roles under the current quota (SI 64/2025), the minimum is €32,691 per year (€16.12 per hour). For other General Employment Permit roles, the standard minimum is €36,605 per year (increased from €34,000 on 1 March 2026). Critical Skills Employment Permit roles require a minimum of €40,904. Check enterprise.gov.ie for current salary thresholds — they are reviewed annually."
+    a: "For care assistant/healthcare support worker roles under the current quota (SI 64/2025), the minimum is €16.12 per hour — €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week. For other General Employment Permit roles, the standard minimum is €36,605 per year (increased from €34,000 on 1 March 2026). Critical Skills Employment Permit roles require a minimum of €40,904. Check enterprise.gov.ie for current salary thresholds — they are reviewed annually."
   - q: "Can I hire Filipino workers for sectors other than care?"
     a: "Yes. CA Recruitment places Filipino workers across 12 sectors including agriculture, construction, hospitality, food production, logistics, manufacturing, retail, and accounting. The permit route (GEP or CSEP), salary threshold, and eligible occupations list vary by sector. Check DETE's ineligible occupations list at enterprise.gov.ie before committing to the process."
 ---
 
 <p>This guide is for Irish employers who have already decided they want to hire from the Philippines — and need to know exactly how the process works. It covers every step: from finding the right agency in Ireland, through the Labour Market Needs Test and DETE permit application, to what happens when your worker lands in Dublin and needs a PPS number. There is also a care-sector-specific section covering QQI Level 5 equivalency and NMBI registration, which most general guides skip.</p>
 
-<p>The full process typically takes 4 to 6 months. If you understand each step before you start, you won't lose time to avoidable delays.</p>
+<p>The full process typically takes 6 to 8 months. If you understand each step before you start, you won't lose time to avoidable delays.</p>
 
 <h2 id="why-filipino">Why Irish employers hire from the Philippines</h2>
 
@@ -268,7 +269,7 @@ faq:
   <p><strong>Nursing home operators:</strong> The GEP permit alone does not authorise a Filipino nurse to practise as a registered nurse in Ireland. NMBI registration must be in place before the worker's first clinical shift. Confirm this with your agency before the worker departs the Philippines.</p>
 </div>
 
-<h2 id="timeline">End-to-end timeline: what 4 to 6 months looks like</h2>
+<h2 id="timeline">End-to-end timeline: what 6 to 8 months looks like</h2>
 
 <p>The steps above run partly sequentially and partly in parallel. The table below shows a realistic timeline for a standard care assistant placement. Nurse placements involving NMBI registration take longer.</p>
 
@@ -314,7 +315,7 @@ faq:
   </tbody>
 </table>
 
-<p><strong>Total: approximately 4 to 6 months from first conversation to first working day.</strong></p>
+<p><strong>Total: approximately 6 to 8 months from first conversation to first working day.</strong></p>
 
 <p>Three things extend this timeline beyond 6 months:</p>
 <ul>
@@ -346,7 +347,7 @@ faq:
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">How long does it take to hire a Filipino worker for Ireland?<span class="faq-arrow" aria-hidden="true">▾</span></button>
-    <div class="faq-answer"><p>The full process typically takes 4 to 6 months from first consultation to first working day. The Labour Market Needs Test takes 28 days. DETE permit processing is currently 8 to 12 weeks. The D-visa at the Irish Embassy Manila takes a further 4 to 8 weeks. NMBI registration for nurses adds time on top of this. Start earlier than you think you need to — every week you wait before beginning the LMNT is a week added to the far end of the process.</p></div>
+    <div class="faq-answer"><p>The full process typically takes 6 to 8 months from first consultation to first working day. The Labour Market Needs Test takes 28 days. DETE permit processing is currently 8 to 12 weeks. The D-visa at the Irish Embassy Manila takes a further 4 to 8 weeks. NMBI registration for nurses adds time on top of this. Start earlier than you think you need to — every week you wait before beginning the LMNT is a week added to the far end of the process.</p></div>
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">Do Filipino workers need an OEC before they can leave the Philippines?<span class="faq-arrow" aria-hidden="true">▾</span></button>
@@ -358,7 +359,7 @@ faq:
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">What is the minimum salary for Filipino workers on an Irish work permit?<span class="faq-arrow" aria-hidden="true">▾</span></button>
-    <div class="faq-answer"><p>For care assistant/healthcare support worker roles under the current quota (SI 64/2025), the minimum is €32,691 per year (€16.12 per hour). For other GEP roles, the standard minimum is €36,605 per year (increased from €34,000 on 1 March 2026). Critical Skills Employment Permit roles require a minimum of €40,904. Salary thresholds are reviewed annually — check <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/" target="_blank" rel="noopener">enterprise.gov.ie</a> for the current figures before you begin any application.</p></div>
+    <div class="faq-answer"><p>For care assistant/healthcare support worker roles under the current quota (SI 64/2025), the minimum is €16.12 per hour — €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week. For other GEP roles, the standard minimum is €36,605 per year (increased from €34,000 on 1 March 2026). Critical Skills Employment Permit roles require a minimum of €40,904. Salary thresholds are reviewed annually — check <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/" target="_blank" rel="noopener">enterprise.gov.ie</a> for the current figures before you begin any application.</p></div>
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">Can I hire Filipino workers for sectors other than care?<span class="faq-arrow" aria-hidden="true">▾</span></button>

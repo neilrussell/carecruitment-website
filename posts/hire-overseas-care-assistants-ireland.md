@@ -10,7 +10,8 @@ waText: "Hi, I'd like to know about hiring care workers from overseas in Ireland
 sidebarCta: "Need care workers? We manage the full DETE permit process — no fee until placement."
 layout: blog-post.njk
 permalink: /blog/hire-overseas-care-assistants-ireland/index.html
-image: /images/blog/hire-overseas-care-assistants-ireland/featured.jpg
+image: /images/social/hire-overseas-care-assistants-ireland-post.png
+imageAlt: "Infographic for Irish care homes on hiring overseas care assistants — 28-day Labour Market Needs Test, DETE GEP permit fee and no agency fee until placement"
 toc:
   - { id: "which-roles", label: "Which roles qualify" }
   - { id: "lmnt", label: "The Labour Market Needs Test" }
@@ -27,7 +28,7 @@ faq:
   - q: "Can I hire a care assistant from outside the EU for my nursing home?"
     a: "Yes. Care assistants and healthcare support workers are on DETE's eligible occupations list under SI 64/2025, with 1,134 permits allocated specifically for healthcare support workers. Apply through DETE using a General Employment Permit."
   - q: "What is the minimum salary for a care worker on an Irish work permit?"
-    a: "The minimum is €32,691 per year, or €16.12 per hour. This is the shortage occupation rate for care workers under the current GEP quota. The standard GEP minimum is higher; the reduced threshold applies specifically to healthcare support worker and home carer roles."
+    a: "The minimum is €16.12 per hour, which works out at €32,691 per year on a 39-hour week or €33,529.60 on a 40-hour week. This is the shortage occupation rate for care workers under the current GEP quota — the standard GEP minimum is higher. The qualifying salary must be basic pay: guaranteed premium payments can count towards it, but bonuses, shift allowances, and overtime cannot."
   - q: "Can I apply for a permit for a Senior Care Worker at my nursing home?"
     a: "Not in most cases. Senior Care Worker is on DETE's ineligible occupations list for standard nursing homes and home care operators. The correct title for a permit application is Care Assistant or Healthcare Support Worker. The exception is disability services run by Section 38 or Section 39 HSE-funded organisations, which have a separate route."
   - q: "What is the Labour Market Needs Test and how long does it take?"
@@ -39,10 +40,10 @@ faq:
   - q: "Do I need HIQA approval before I can recruit overseas?"
     a: "No. HIQA regulates your registered nursing home service, not your recruitment activity. You can run the LMNT, identify a candidate, and submit a permit application regardless of your current HIQA registration status. Staff must pass qualification verification and Garda vetting before their first day."
   - q: "How much does it cost in total to hire a care worker from overseas in Ireland?"
-    a: "The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €32,691 per year. CA Recruitment charges no fee until placement is confirmed."
+    a: "The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €16.12 per hour (€32,691 per year on a 39-hour week). CA Recruitment charges no fee until placement is confirmed."
 ---
 
-<p>Yes, you can hire care assistants from overseas in Ireland. Irish nursing homes, home care operators, and disability services can apply for a General Employment Permit (GEP) through DETE (Ireland's Department of Enterprise, Trade and Employment) for non-EU care workers. Under SI 64/2025, there are <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/" target="_blank" rel="noopener">1,134 permits allocated for healthcare support workers</a>, with a salary threshold of €32,691 per year (€16.12 per hour). Once you submit the application, DETE currently takes 8 to 12 weeks to process it. The full timeline from first contact to a worker's first day is 5 to 6 months. <a href="/">CA Recruitment</a> manages the full permit process — you do not touch a form.</p>
+<p>Yes, you can hire care assistants from overseas in Ireland. Irish nursing homes, home care operators, and disability services can apply for a General Employment Permit (GEP) through DETE (Ireland's Department of Enterprise, Trade and Employment) for non-EU care workers. Under SI 64/2025, there are <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/" target="_blank" rel="noopener">1,134 permits allocated for healthcare support workers</a>, with a pay threshold of €16.12 per hour — €32,691 per year on a 39-hour week. Once you submit the application, DETE currently takes 8 to 12 weeks to process it. The full timeline from first contact to a worker's first day is 5 to 6 months. <a href="/">CA Recruitment</a> manages the full permit process — you do not touch a form.</p>
 
 <p>We have <a href="/blog/is-ireland-recruiting-care-workers-overseas/">already confirmed the quota is open</a> if you want the background on SI 64/2025. This post is the practical how-to: steps, costs, and what to watch out for.</p>
 
@@ -87,7 +88,7 @@ faq:
 
 <ol>
   <li><strong>Confirm the 50/50 rule applies at your business.</strong> At the point of application, at least 50% of your total workforce must be EEA nationals. Most nursing homes and care operators are well above this threshold. If you have already hired a number of workers on permits, check this ratio before you begin the application — a ratio below 50% will result in refusal.</li>
-  <li><strong>Prepare the employment contract and job offer letter.</strong> The salary must meet the minimum threshold: €32,691 per year (€16.12 per hour).</li>
+  <li><strong>Prepare the employment contract and job offer letter.</strong> The salary must meet the minimum threshold of €16.12 per hour: €32,691 per year on a 39-hour week, or €33,529.60 on a 40-hour week. The figure must be basic pay — bonuses, shift allowances, and overtime do not count towards it.</li>
   <li><strong>Log in to the EPOS portal at <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/" target="_blank" rel="noopener">enterprise.gov.ie</a></strong> and complete the GEP application form on behalf of your candidate.</li>
   <li><strong>Upload all supporting documents.</strong> This includes the candidate's qualifications, passport, educational certificates, and your LMNT documentation. CA Recruitment prepares and supplies the candidate documentation for every applicant we put forward.</li>
   <li><strong>Pay the DETE permit fee of €1,000.</strong> This covers permits issued for up to 24 months.</li>
@@ -118,8 +119,8 @@ faq:
       <td>€200 to €500 depending on platforms used</td>
     </tr>
     <tr>
-      <td>Minimum annual salary for worker</td>
-      <td>€32,691 (€16.12/hr)</td>
+      <td>Minimum pay for worker</td>
+      <td>€16.12/hr — €32,691/yr at 39 hrs/week (€33,529.60 at 40 hrs)</td>
     </tr>
     <tr>
       <td>CA Recruitment agency fee</td>
@@ -177,7 +178,7 @@ faq:
 <p>Yes. Care assistants and healthcare support workers are on DETE's eligible occupations list under SI 64/2025, with 1,134 permits allocated specifically for healthcare support workers. Apply through DETE using a General Employment Permit.</p>
 
 <h3>What is the minimum salary for a care worker on an Irish work permit?</h3>
-<p>The minimum is €32,691 per year, or €16.12 per hour. This is the shortage occupation rate for care workers under the current GEP quota. The standard GEP minimum is higher; the reduced threshold applies specifically to healthcare support worker and home carer roles.</p>
+<p>The minimum is €16.12 per hour, which works out at €32,691 per year on a 39-hour week or €33,529.60 on a 40-hour week. This is the shortage occupation rate for care workers under the current GEP quota — the standard GEP minimum is higher. The qualifying salary must be basic pay: guaranteed premium payments can count towards it, but bonuses, shift allowances, and overtime cannot.</p>
 
 <h3>Can I apply for a permit for a Senior Care Worker at my nursing home?</h3>
 <p>Not in most cases. Senior Care Worker is on DETE's ineligible occupations list for standard nursing homes and home care operators. The correct title for a permit application is Care Assistant or Healthcare Support Worker. The exception is disability services run by Section 38 or Section 39 HSE-funded organisations, which have a separate route.</p>
@@ -195,7 +196,7 @@ faq:
 <p>No. HIQA regulates your registered nursing home service, not your recruitment activity. You can run the LMNT, identify a candidate, and submit a permit application regardless of your current HIQA registration status. Staff must pass qualification verification and Garda vetting before their first day — this does not affect the permit timeline.</p>
 
 <h3>How much does it cost in total to hire a care worker from overseas in Ireland?</h3>
-<p>The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €32,691 per year. CA Recruitment charges no fee until placement is confirmed — the consultation is free.</p>
+<p>The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €16.12 per hour (€32,691 per year on a 39-hour week). CA Recruitment charges no fee until placement is confirmed — the consultation is free.</p>
 
 <div class="callout callout-gold">
 <h2>Talk to CA Recruitment about hiring care workers from overseas</h2>
@@ -259,7 +260,7 @@ faq:
           "name": "What is the minimum salary for a care worker on an Irish work permit?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The minimum is €32,691 per year, or €16.12 per hour. This is the shortage occupation rate for care workers under the current GEP quota. The standard GEP minimum is higher; the reduced threshold applies specifically to healthcare support worker and home carer roles."
+            "text": "The minimum is €16.12 per hour, which works out at €32,691 per year on a 39-hour week or €33,529.60 on a 40-hour week. This is the shortage occupation rate for care workers under the current GEP quota — the standard GEP minimum is higher. The qualifying salary must be basic pay: guaranteed premium payments can count towards it, but bonuses, shift allowances, and overtime cannot."
           }
         },
         {
@@ -307,7 +308,7 @@ faq:
           "name": "How much does it cost in total to hire a care worker from overseas in Ireland?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €32,691 per year. CA Recruitment charges no fee until placement is confirmed."
+            "text": "The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €16.12 per hour (€32,691 per year on a 39-hour week). CA Recruitment charges no fee until placement is confirmed."
           }
         }
       ]

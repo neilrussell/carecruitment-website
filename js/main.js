@@ -1,3 +1,119 @@
+// === Attribution tracking ===
+// Captures where each visitor came from (first touch + last touch) so that
+// form submissions carry their traffic source with them.
+(function () {
+  var KEY_FIRST = 'ca_attr_first';
+  var KEY_LAST = 'ca_attr_last';
+
+  function parseTouch() {
+    var p = new URLSearchParams(window.location.search);
+    var ref = document.referrer || '';
+    var refHost = '';
+    try { refHost = ref ? new URL(ref).hostname : ''; } catch (err) {}
+    var isInternal = refHost === window.location.hostname;
+
+    var touch = {
+      utm_source: p.get('utm_source') || '',
+      utm_medium: p.get('utm_medium') || '',
+      utm_campaign: p.get('utm_campaign') || '',
+      utm_term: p.get('utm_term') || '',
+      utm_content: p.get('utm_content') || '',
+      gclid: p.get('gclid') || '',
+      referrer: isInternal ? '' : ref,
+      landing_page: window.location.pathname,
+      ts: new Date().toISOString()
+    };
+
+    var channel = '';
+    if (touch.gclid || (touch.utm_source === 'google' && touch.utm_medium === 'cpc')) {
+      channel = 'Google Ads';
+    } else if (touch.utm_source === 'gbp' || touch.utm_campaign === 'gbp-listing') {
+      channel = 'Google Business Profile';
+    } else if (touch.utm_source) {
+      channel = 'Campaign: ' + touch.utm_source + (touch.utm_medium ? ' / ' + touch.utm_medium : '');
+    } else if (refHost && !isInternal) {
+      if (/(^|\.)google\./.test(refHost)) channel = 'Organic Search (Google)';
+      else if (/bing\.com|duckduckgo\.com|search\.yahoo\.com|ecosia\.org/.test(refHost)) channel = 'Organic Search (Other)';
+      else if (/chatgpt\.com|openai\.com|perplexity\.ai|gemini\.google|copilot\.microsoft/.test(refHost)) channel = 'AI Search (' + refHost + ')';
+      else if (/facebook\.com|instagram\.com|linkedin\.com|^t\.co$|twitter\.com|x\.com/.test(refHost)) channel = 'Social (' + refHost + ')';
+      else if (/reddit\.com|boards\.ie|quora\.com/.test(refHost)) channel = 'Forum (' + refHost + ')';
+      else channel = 'Referral (' + refHost + ')';
+    } else if (!isInternal) {
+      channel = 'Direct';
+    }
+    touch.channel = channel;
+    return touch;
+  }
+
+  function read(key) {
+    try { return JSON.parse(localStorage.getItem(key)); } catch (err) { return null; }
+  }
+  function write(key, val) {
+    try { localStorage.setItem(key, JSON.stringify(val)); } catch (err) {}
+  }
+
+  var touch = parseTouch();
+  var hasSignal = !!(touch.utm_source || touch.gclid || touch.referrer);
+
+  // First touch: set once, never overwritten
+  if (!read(KEY_FIRST) && touch.channel) {
+    write(KEY_FIRST, touch);
+  }
+  // Last touch: overwritten whenever the visitor arrives with a new external signal
+  if (touch.channel && (hasSignal || !read(KEY_LAST))) {
+    write(KEY_LAST, touch);
+  }
+
+  // Best available attribution for forms / events
+  window.caAttribution = function () {
+    var first = read(KEY_FIRST) || {};
+    var last = read(KEY_LAST) || {};
+    var best = last.channel ? last : (first.channel ? first : touch);
+    return { first: first, last: last, best: best };
+  };
+})();
+
+// === GA4 direct event channel ===
+// GTM (GTM-TB4SR4F4) handles pageviews; this handles custom lead events.
+// send_page_view:false prevents double-counting — both share the same GA4 cookies/session.
+(function () {
+  var GA4_ID = 'G-K6069QH2R1';
+  var s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA4_ID;
+  document.head.appendChild(s);
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+  window.gtag('js', new Date());
+  window.gtag('config', GA4_ID, { send_page_view: false });
+
+  // Helper used by lead events below
+  window.caTrackEvent = function (name, params) {
+    var attr = window.caAttribution ? window.caAttribution().best : {};
+    var payload = {
+      lead_channel: attr.channel || 'Unknown',
+      lead_source: attr.utm_source || attr.referrer || '',
+      lead_campaign: attr.utm_campaign || '',
+      page_path: window.location.pathname
+    };
+    for (var k in (params || {})) payload[k] = params[k];
+    window.gtag('event', name, payload);
+  };
+})();
+
+// === WhatsApp / phone click events ===
+(function () {
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest ? e.target.closest('a') : null;
+    if (!a || !a.href) return;
+    if (/wa\.me|api\.whatsapp\.com/.test(a.href)) {
+      window.caTrackEvent('whatsapp_click', { link_url: a.href });
+    } else if (a.href.indexOf('tel:') === 0) {
+      window.caTrackEvent('phone_click', {});
+    }
+  }, true);
+})();
+
 // Nav mobile toggle
 (function () {
   var btn = document.getElementById('nav-hamburger');
@@ -96,10 +212,11 @@ document.querySelectorAll('a[href^="#"]').forEach(function (a) {
 
     var name = form.querySelector('[name="full-name"]').value.trim();
     var email = form.querySelector('[name="email"]').value.trim();
-    var message = form.querySelector('[name="message"]').value.trim();
+    var company = form.querySelector('[name="company"]').value.trim();
+    var roles = form.querySelector('[name="roles"]').value.trim();
     var consent = form.querySelector('[name="consent"]').checked;
 
-    if (!name || !email || !message || !consent) {
+    if (!name || !email || !company || !roles || !consent) {
       feedback.textContent = 'Please fill in all required fields and accept the consent checkbox.';
       feedback.style.color = '#c0392b';
       return;
@@ -109,6 +226,26 @@ document.querySelectorAll('a[href^="#"]').forEach(function (a) {
     btn.textContent = 'Sending…';
     feedback.textContent = '';
 
+    // Attach attribution so the submission records what channel brought this lead
+    var attr = window.caAttribution ? window.caAttribution() : null;
+    if (attr) {
+      var setField = function (n, v) {
+        var input = form.querySelector('[name="' + n + '"]');
+        if (input) input.value = v || '';
+      };
+      setField('attr_channel', attr.best.channel);
+      setField('attr_source', attr.best.utm_source);
+      setField('attr_medium', attr.best.utm_medium);
+      setField('attr_campaign', attr.best.utm_campaign);
+      setField('attr_term', attr.best.utm_term);
+      setField('attr_content', attr.best.utm_content);
+      setField('attr_gclid', attr.best.gclid || attr.first.gclid);
+      setField('attr_referrer', attr.best.referrer);
+      setField('attr_landing_page', attr.first.landing_page || attr.best.landing_page);
+      setField('attr_first_touch', attr.first.ts);
+      setField('attr_first_channel', attr.first.channel);
+    }
+
     // Submit to Netlify Forms (handles email notifications + spam filtering)
     fetch('/', {
       method: 'POST',
@@ -117,6 +254,8 @@ document.querySelectorAll('a[href^="#"]').forEach(function (a) {
     })
       .then(function (res) {
         if (!res.ok) throw new Error('Network error');
+        // Real lead event — only fires on successful form submission
+        if (window.caTrackEvent) window.caTrackEvent('generate_lead', {});
         form.innerHTML =
           '<div style="text-align:center;padding:32px 0;">' +
           '<div style="font-size:42px;margin-bottom:12px;color:#32d583;">&#10003;</div>' +
@@ -157,6 +296,13 @@ document.querySelectorAll('a[href^="#"]').forEach(function (a) {
     localStorage.setItem(CONSENT_KEY, accepted ? 'accepted' : 'declined');
     banner.classList.add('hidden');
     setTimeout(function () { banner.remove(); }, 350);
+    var state = accepted ? 'granted' : 'denied';
+    gtag('consent', 'update', {
+      'analytics_storage': state,
+      'ad_storage':        state,
+      'ad_user_data':      state,
+      'ad_personalization':state
+    });
   }
 
   document.getElementById('cookie-accept').addEventListener('click', function () { dismiss(true); });

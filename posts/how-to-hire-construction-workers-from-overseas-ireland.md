@@ -1,6 +1,6 @@
 ---
 title: "How to Hire Construction Workers from Overseas in Ireland"
-description: "Irish construction employers: hire skilled Filipino workers from overseas. Covers eligible roles, LMNT, GEP permit, D-visa, and the full process. No fee until placement."
+description: "Irish construction employers: hire skilled workers from overseas. Covers eligible roles, LMNT, GEP permit, D-visa, and the full process. No fee until placement."
 date: 2026-05-28
 category: Construction & Engineering
 readTime: "8 min"
@@ -33,9 +33,9 @@ faq:
   - q: "Can Irish construction companies hire workers from overseas?"
     a: "Yes — for skilled and professional roles. Mechanical engineers, electrical engineers, civil engineers, welders, pipe fitters, and steel fixers are all eligible for a General Employment Permit (GEP) from DETE. Basic construction operatives and elementary construction occupations are on the ineligible list, so you cannot sponsor unskilled site labour. If the role requires a recognised trade qualification or professional engineering background, it will almost certainly qualify. Contact DETE or speak to an experienced permit agency to confirm a specific role before starting the process."
   - q: "What is the minimum salary for a construction employment permit in Ireland?"
-    a: "The minimum annual remuneration for a General Employment Permit is €36,605. This applies to construction and engineering roles. There is no lower construction-specific threshold — the standard GEP minimum applies. The salary must be the contracted basic rate; it cannot be achieved by combining basic pay with overtime or allowances."
+    a: "Higher than the standard €36,605 GEP threshold in practice. Construction workers are covered by the Construction Sector Sectoral Employment Order (SEO), which sets legally binding minimum hourly rates: €23.00 per hour for craftspersons from 1 August 2025 (about €46,600 per year on a 39-hour week), €22.32 for Category A workers and €20.71 for Category B workers. The salary on the permit application must meet the applicable SEO rate, paid as contracted basic pay; it cannot be achieved by combining a lower base with overtime or allowances. Check current rates at workplacerelations.ie."
   - q: "How long does it take to hire a construction worker from overseas in Ireland?"
-    a: "The full process takes approximately 4 to 6 months from initial contact to first day on site. This covers 28 days of LMNT advertising, approximately 10 to 12 weeks of DETE GEP processing (check current dates at enterprise.gov.ie — processing times change regularly), 2 to 4 weeks for the D-visa at the Irish Embassy in Manila, and travel plus onboarding. Running stages in parallel — sourcing candidates during the LMNT, for example — keeps the timeline towards the shorter end."
+    a: "The full process takes approximately 6 to 8 months from initial contact to first day on site. This covers 28 days of LMNT advertising, approximately 10 to 12 weeks of DETE GEP processing (check current dates at enterprise.gov.ie — processing times change regularly), 2 to 4 weeks for the D-visa at the Irish Embassy in Manila, and travel plus onboarding. Running stages in parallel — sourcing candidates during the LMNT, for example — keeps the timeline towards the shorter end."
   - q: "What is the 50/50 rule and does it affect construction companies?"
     a: "The 50/50 rule requires that at least 50% of your total workforce must be EEA nationals at the time of the GEP application. It applies to all Irish employers, including construction contractors. The only exemptions are businesses registered with Revenue in the last 2 years with a formal letter of support from Enterprise Ireland or IDA Ireland, and situations where the non-EEA worker will be the sole employee. Most established contractors will need to verify their EEA headcount before applying."
   - q: "Does the Labour Market Needs Test apply to construction roles?"
@@ -74,7 +74,7 @@ faq:
 
 <h2 id="the-process">The hiring process: what it involves</h2>
 
-<p>There are four main stages. The total timeline is 4 to 6 months from first contact to a worker starting on site.</p>
+<p>There are four main stages. The total timeline is 6 to 8 months from first contact to a worker starting on site.</p>
 
 <h3 id="step-1-eligibility">Step 1 — Eligibility and role classification</h3>
 
@@ -104,7 +104,7 @@ faq:
 
 <p>Key requirements at this stage:</p>
 <ul>
-  <li>The role must meet the minimum annual salary of <strong>€36,605</strong>. This is the standard GEP threshold — there is no lower construction-specific rate.</li>
+  <li>The role must pay at least the <strong>Construction Sector SEO rate</strong> for the worker's category: €23.00 per hour for craftspersons from 1 August 2025, about €46,600 per year on a 39-hour week. This legally binding sectoral minimum sits above the standard €36,605 GEP threshold.</li>
   <li>The 50/50 rule must still be met at application date.</li>
   <li>LMNT records must be submitted — the full 28-day advertising log and outcome.</li>
   <li>The employer's signed job offer, tax clearance, and business registration are required.</li>
@@ -175,7 +175,7 @@ faq:
   </tbody>
 </table>
 
-<p><strong>Total: 4 to 6 months from decision to worker on site.</strong> The timeline compresses when stages run in parallel — sourcing during the LMNT, Philippine documentation during DETE processing. DETE processing backlogs are the main variable you cannot control; check live dates before planning.</p>
+<p><strong>Total: 6 to 8 months from decision to worker on site.</strong> The timeline compresses when stages run in parallel — sourcing during the LMNT, Philippine documentation during DETE processing. DETE processing backlogs are the main variable you cannot control; check live dates before planning.</p>
 
 <h2 id="why-filipino">Why Filipino workers for Irish construction</h2>
 
@@ -205,7 +205,7 @@ faq:
   <li>Arrival support — IRP registration, PPS number, first 90 days</li>
 </ul>
 
-<p>You pay nothing until the worker starts. If they leave or do not work out within 90 days, we replace at no additional charge.</p>
+<p>You pay nothing until the worker starts. If they leave within 90 days, we replace at no additional recruitment fee.</p>
 
 <p>Joe Colville at Ecoville Construction has used CA Recruitment for skilled placements. If you want a direct conversation about the process before committing to anything, <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20a%20construction%20employer%20looking%20to%20hire%20skilled%20workers%20from%20overseas.%20Can%20you%20help%3F" target="_blank" rel="noopener">WhatsApp Monette</a> — she will give you an honest assessment of what is feasible for your role and business.</p>
 
@@ -222,12 +222,12 @@ faq:
 
 <div class="faq-block">
   <h3>What is the minimum salary for a construction employment permit in Ireland?</h3>
-  <p>€36,605 per year — the standard GEP minimum. There is no lower construction-specific threshold. The salary must be the contracted basic rate; you cannot meet it by adding overtime or site allowances on top of a lower base.</p>
+  <p>In practice, higher than the €36,605 GEP minimum. Construction workers are covered by the Construction Sector Sectoral Employment Order, which sets legally binding hourly minimums: €23.00 per hour for craftspersons from 1 August 2025 (about €46,600 a year at 39 hours), €22.32 for Category A and €20.71 for Category B workers. The salary must be the contracted basic rate; you cannot meet it by adding overtime or site allowances on top of a lower base. Check the current rates at <a href="https://www.workplacerelations.ie/en/what_you_should_know/hours-and-wages/sectoral%20employment%20orders/construction-sector/" target="_blank" rel="noopener">workplacerelations.ie</a>.</p>
 </div>
 
 <div class="faq-block">
   <h3>How long does it take to hire a construction worker from overseas in Ireland?</h3>
-  <p>4 to 6 months end-to-end. That covers 28 days of LMNT advertising, approximately 10 to 12 weeks of DETE processing (check <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/" target="_blank" rel="noopener">current dates at enterprise.gov.ie</a>), 2 to 4 weeks for the D-visa, and travel plus onboarding. Running stages in parallel keeps it towards the shorter end.</p>
+  <p>6 to 8 months end-to-end. That covers 28 days of LMNT advertising, approximately 10 to 12 weeks of DETE processing (check <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/" target="_blank" rel="noopener">current dates at enterprise.gov.ie</a>), 2 to 4 weeks for the D-visa, and travel plus onboarding. Running stages in parallel keeps it towards the shorter end.</p>
 </div>
 
 <div class="faq-block">
