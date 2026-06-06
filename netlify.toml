@@ -107,22 +107,12 @@
   status = 301
 
 [[redirects]]
-  from = "/terms/"
-  to = "/privacy/"
-  status = 301
-
-[[redirects]]
-  from = "/terms"
-  to = "/privacy/"
-  status = 301
-
-[[redirects]]
   from = "/terms-and-conditions/"
-  to = "/privacy/"
+  to = "/terms/"
   status = 301
 
 [[redirects]]
   from = "/terms-and-conditions"
-  to = "/privacy/"
+  to = "/terms/"
   status = 301
 

@@ -79,6 +79,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("work-permit-guide");
   eleventyConfig.addPassthroughCopy("sectors");
   eleventyConfig.addPassthroughCopy("privacy");
+  eleventyConfig.addPassthroughCopy("terms");
   eleventyConfig.addPassthroughCopy("guarantee-terms");
   eleventyConfig.addPassthroughCopy("filipino-recruitment-agency-ireland");
   eleventyConfig.addPassthroughCopy("hire-filipino-workers-ireland");
