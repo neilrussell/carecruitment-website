@@ -130,6 +130,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </section>
 
+<!-- FEATURED IMAGE -->
+{% if image %}
+<div style="max-width:880px;margin:28px auto 0;padding:0 24px;">
+  <img src="{{ image }}" alt="{{ imageAlt or title }}" width="1200" height="630" loading="eager" decoding="async" style="width:100%;aspect-ratio:1200/630;object-fit:cover;border-radius:16px;display:block;box-shadow:0 14px 44px rgba(13,27,42,.18);border:1px solid rgba(201,146,42,.18);">
+</div>
+{% endif %}
+
 <!-- CONTENT -->
 <div class="guide-layout">
   <article class="guide-content">
