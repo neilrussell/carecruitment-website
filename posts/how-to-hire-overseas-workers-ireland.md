@@ -42,7 +42,6 @@ faq:
 
 <p>This guide covers every major step for an Irish employer considering overseas recruitment for the first time. If you need deeper detail on any individual area, the relevant links are in each section.</p>
 
-<img src="/images/blog/how-to-hire-overseas-workers-ireland/permit-process-steps.jpg" alt="Diagram showing the five stages of hiring overseas workers in Ireland: Labour Market Needs Test, GEP permit application, D-visa, arrival and IRP registration" width="800" height="450" loading="lazy">
 
 <h2 id="is-it-legal">Is It Legal? What Permit Route Applies?</h2>
 

@@ -50,7 +50,6 @@ faq:
 
 <p>This matters particularly for Filipino recruitment. Hiring from the Philippines is not just an Irish process — it involves compliance on both sides. On the Irish side: the DETE General Employment Permit (GEP), the Labour Market Needs Test (LMNT), WRC employer compliance. On the Philippine side: DMW accreditation, OEC (Overseas Employment Certificate) processing, pre-departure medical, and departure clearance. An agency that only understands one side of this process will cost you time and money. CA Recruitment operates on both.</p>
 
-<img src="/images/blog/managed-overseas-recruitment-ireland/process-overview.jpg" alt="CA Recruitment overseas recruitment process — Labour Market Needs Test, DETE GEP permit, D-visa, and arrival for Irish employers" width="800" height="450" loading="lazy">
 
 <h2 id="process">The CA Recruitment process</h2>
 

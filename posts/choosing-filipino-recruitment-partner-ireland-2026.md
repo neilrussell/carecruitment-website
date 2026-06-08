@@ -55,7 +55,6 @@ faq:
 
 <p>The five criteria below are the ones that actually determine whether a placement goes through cleanly.</p>
 
-<img src="/images/blog/choosing-filipino-recruitment-partner-ireland-2026/agency-evaluation-criteria.jpg" alt="Five criteria for evaluating a Filipino recruitment agency in Ireland — DMW accreditation, DETE permit expertise, sector experience, end-to-end service, Irish track record" width="800" height="450" loading="lazy">
 
 <h2 id="criterion-1-dmw">1. DMW accreditation for Ireland placements — non-negotiable</h2>
 

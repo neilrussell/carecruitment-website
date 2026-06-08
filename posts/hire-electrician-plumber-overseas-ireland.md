@@ -73,7 +73,6 @@ faq:
 
 <p>DETE updated the GEP eligible occupations list in May 2026, adding further construction roles including steel fixers, concrete pump operators, curtain wallers, and fencing operators. If you are uncertain whether your specific role qualifies, check the <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/employment-permit-eligibility/" target="_blank" rel="noopener">current eligible occupations list at enterprise.gov.ie</a> or <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20looking%20to%20hire%20a%20tradesperson%20from%20overseas.%20Can%20you%20help%20with%20the%20permit%20process%3F" target="_blank" rel="noopener">WhatsApp Monette</a> before starting anything.</p>
 
-<img src="/images/blog/hire-electrician-plumber-overseas-ireland/construction-gep-process-steps.jpg" alt="Four-step diagram showing the General Employment Permit process for hiring overseas tradespeople in Ireland — eligibility check, Labour Market Needs Test, DETE application, D-visa" width="800" height="450" loading="lazy">
 
 <h2 id="lmnt">The Labour Market Needs Test</h2>
 
