@@ -45,7 +45,6 @@ The overseas route is open. HGV drivers can be sponsored on a General Employment
 
 This guide covers the eligibility rule, the licence condition in practice, the salary floor, and what the full process looks like for a transport or logistics employer.
 
----
 
 ## How bad is the driver shortage? {#the-shortage}
 
@@ -57,7 +56,6 @@ For an individual operator, the symptoms are familiar. Vacancies advertised for 
 
 When the domestic market cannot supply qualified drivers, the employment permit system is the legal route to recruiting outside the EEA. For HGV drivers it works — with one significant catch.
 
----
 
 ## Can you hire HGV drivers from outside the EEA? {#are-drivers-eligible}
 
@@ -74,7 +72,6 @@ There is currently no quota on these permits. The first permit is issued for up 
 
 Two related roles are worth flagging at the same time. **Van drivers are ineligible with no exception** — a permit cannot be issued for a van driver regardless of licence. **Taxi drivers and chauffeurs are also fully ineligible.** The carve-out applies to qualified heavy goods drivers, not driving jobs generally.
 
----
 
 ## The licence rule that decides everything {#licence-rule}
 
@@ -100,7 +97,6 @@ Two further conditions sit alongside the licence:
 
 If you are unsure whether a specific candidate's licence qualifies, the RSA (rsa.ie) maintains the current list of recognised jurisdictions — and it is worth confirming before any money is spent, because recognition agreements are added and amended over time.
 
----
 
 ## Salary requirements {#salary-requirements}
 
@@ -112,7 +108,6 @@ The €36,605 is gross basic pay. Overtime, night-out money, subsistence and bon
 
 Permits are available for working weeks of 20 to 48 hours, with 39 hours as the standard reference point. Below 39 hours the effective hourly minimum rises, so the annual figure is not the only number that matters on shorter contracts.
 
----
 
 ## The process step by step {#the-process}
 
@@ -132,7 +127,6 @@ The application follows the standard General Employment Permit route, with the l
 
 **Step 7 — Arrival, registration and licence exchange.** On arrival the driver registers with Immigration Service Delivery for their Irish Residence Permit. Then start the Irish licence exchange and confirm CPC compliance early — the renewal in two years depends on the Irish licence being in place.
 
----
 
 ## Timeline and costs {#timeline-costs}
 
@@ -155,7 +149,6 @@ The stages mostly run in sequence — the permit cannot be submitted until the a
 
 CA Recruitment manages the full process — licence verification, LMNT, EPOS application, visa coordination and arrival — and our 90-day guarantee covers the agency fee if the worker leaves or is dismissed for gross misconduct within that period. DETE fees, visa costs and travel are not covered by the guarantee.
 
----
 
 ## What about bus and coach drivers? {#bus-coach}
 
@@ -165,7 +158,6 @@ Bus and coach drivers are also on the ineligible list with a licence-based excep
 
 If you operate coaches and have been told flatly that drivers cannot be sponsored, that is out of date. The eligibility turns on the licence, not the sector.
 
----
 
 ## What this means for your business {#what-this-means}
 
@@ -177,7 +169,6 @@ If you want a straight answer on whether a specific candidate qualifies — or y
 
 For the wider picture on permits, see our [full work permit guide](/work-permit-guide/) and our [logistics and warehousing sector page](/sectors/logistics-warehousing/).
 
----
 
 ## Frequently asked questions {#faq}
 
@@ -196,6 +187,5 @@ Around six months start to finish: 28 days of LMNT advertising, around 13 weeks 
 **Does an overseas driver need an Irish licence and Driver CPC?**
 The first permit (up to two years) can issue on the recognised foreign licence, but renewal requires an Irish CE/C1E licence — so the exchange must happen during the first permit period. Driver CPC rules apply to permit holders the same as to any professional driver in Ireland.
 
----
 
 *Related reading: [Staff shortage in Ireland? Your options for hiring overseas workers](/blog/staff-shortage-ireland-hiring-overseas-workers/) — [The cost of hiring an overseas worker in Ireland](/blog/cost-overseas-worker-ireland/) — [Minimum salary for an overseas worker in Ireland](/blog/minimum-salary-overseas-worker-ireland/) — [Full work permit guide](/work-permit-guide/)*

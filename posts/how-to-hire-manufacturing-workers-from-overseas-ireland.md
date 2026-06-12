@@ -45,7 +45,6 @@ The reality is more nuanced. DETE's employment permit system does place most gen
 
 This guide covers the eligible and ineligible categories, the salary floors, and what the full process looks like from application to a worker's first day.
 
----
 
 ## Can manufacturing companies hire overseas workers? {#can-you-hire}
 
@@ -57,7 +56,6 @@ The good news for manufacturers is that DETE has carved out specific exceptions 
 
 The types of manufacturing roles most likely to be eligible fall into two broad groups: specialist production roles in food processing (particularly meat), and technically skilled positions involving CNC machinery or engineering competencies.
 
----
 
 ## Which manufacturing roles ARE eligible for a permit? {#which-roles-eligible}
 
@@ -94,7 +92,6 @@ Beyond the operative-level exceptions, a range of skilled and technical manufact
 
 These roles are not on the ineligible list to begin with, so the standard GEP conditions apply: salary floor met, 50/50 workforce ratio satisfied, Labour Market Needs Test run, and role not on any other restricted category.
 
----
 
 ## Which manufacturing roles are NOT eligible? {#ineligible-roles}
 
@@ -112,7 +109,6 @@ It is worth being precise here. If you run a food production facility that proce
 
 If you are unsure whether your specific vacancy falls into an eligible or ineligible category, the only reliable answer comes from checking DETE's current published lists at enterprise.gov.ie or speaking with someone who works with these applications regularly.
 
----
 
 ## Salary requirements for manufacturing permits {#salary-requirements}
 
@@ -130,7 +126,6 @@ If the role involves 40 hours per week rather than 39, the minimum annual figure
 
 This reduced rate exists because DETE recognises the structural labour shortage in Irish meat processing and wanted to make the permit route viable for the sector.
 
----
 
 ## How the process works {#the-process}
 
@@ -164,7 +159,6 @@ Once DETE approves the permit, the worker applies for an employment D-visa at th
 
 When the worker arrives in Ireland, they need to register with Immigration Service Delivery (ISD) and receive their Irish Residence Permit (IRP) card. This is a straightforward administrative step once the permit and visa are in order.
 
----
 
 ## Timeline and costs {#timeline-costs}
 
@@ -186,7 +180,6 @@ Some of these stages overlap where possible, but plan conservatively. The most c
 
 If you use a recruitment agency that manages the end-to-end process, there is typically a single agency fee payable on a successful placement. CA Recruitment's 90-day replacement guarantee covers the worker leaving or a gross-misconduct dismissal within that period — the agency fee only, not DETE fees, visa costs, or travel expenses.
 
----
 
 ## The 50/50 rule for manufacturers {#50-50-rule}
 
@@ -203,7 +196,6 @@ There is no exception for businesses with fewer than 30 employees. That particul
 
 If your ratio is close to the 50% threshold, it is worth calculating exactly where you stand before beginning the LMNT — you do not want to complete 28 days of advertising and then discover the permit cannot issue because the ratio has shifted.
 
----
 
 ## What this means for your business {#what-this-means}
 
@@ -217,7 +209,6 @@ If you want to understand whether a specific vacancy in your facility is eligibl
 
 **Contact Monette:** [WhatsApp](https://wa.me/353860404936?text=Hi%20Monette%2C%20I%20run%20a%20manufacturing%20or%20food-processing%20business%20and%20I%20want%20to%20know%20which%20roles%20I%20can%20hire%20from%20overseas.%20Can%20you%20help%3F) or [get in touch here](/overseas-recruitment-agency-ireland/).
 
----
 
 ## Frequently asked questions {#faq}
 
@@ -236,6 +227,5 @@ Plan for around six months from start to a worker's first day. The Labour Market
 **Does the 50/50 rule apply to manufacturing companies?**
 Yes. At least 50% of your workforce must be EEA nationals at the time of the permit application. The main exceptions are sole-employee situations and early-stage start-ups with formal EI/IDA support letters. There is no exemption for companies below a certain headcount.
 
----
 
 *Related reading: [Understanding the cost of hiring an overseas worker in Ireland](/blog/cost-of-hiring-overseas-worker-ireland/) — [Staff shortage in Ireland? Your options for hiring overseas workers](/blog/staff-shortage-ireland-hiring-overseas-workers/) — [GEP vs CSEP — which permit is right for your business?](/blog/gep-vs-csep-which-permit/) — [Full work permit guide](/work-permit-guide/)*
