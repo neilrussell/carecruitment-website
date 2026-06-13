@@ -210,7 +210,7 @@ faq:
   <li>Arrival support — PPS number, IRP registration, first-week onboarding</li>
 </ul>
 
-<p>The recruitment fee is agreed upfront and is separate from the government permit costs. If a chef placed by us leaves within 90 days, we source a replacement and waive our recruitment fee.</p>
+<p>The recruitment fee is agreed upfront and is separate from the government permit costs.</p>
 
 <p>CA Recruitment is DMW-accredited for Ireland placements. This means Filipino workers can depart through the Philippines' official overseas employment programme — the documented, legally protected route. If an agency cannot confirm DMW accreditation for Ireland, the placement is legally exposed on the Philippine side.</p>
 

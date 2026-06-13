@@ -76,7 +76,7 @@ All permit holders must also receive at least the National Minimum Wage (€14.1
 4. **Permit Application Submitted** — CA Recruitment prepares all documentation and submits through DETE's Employment Permits Online System (EPOS) on the employer's behalf.
 5. **DETE Processing** — CA Recruitment monitors progress and handles any DETE requests for additional information. Current processing times: 8 to 12 weeks.
 6. **Visa and Pre-Departure** — Once the permit is approved, CA Recruitment guides the worker through their Irish visa application and all pre-departure documentation.
-7. **Arrival and First 90 Days** — CA Recruitment supports onboarding and remains in contact with both employer and worker. Replacement at no additional recruitment fee if the worker leaves within 90 days.
+7. **Arrival and First 90 Days** — CA Recruitment supports onboarding and remains in contact with both employer and worker.
 
 ## Employer Obligations After Placement
 

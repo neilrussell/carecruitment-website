@@ -41,7 +41,7 @@ faq:
   - q: "Does the Labour Market Needs Test apply to construction roles?"
     a: "Yes. For all standard GEP applications, including construction and engineering roles, you must complete the Labour Market Needs Test before submitting the permit application. This means advertising the vacancy for a minimum of 28 consecutive days on Jobs Ireland (the DSP/EURES platform) and at least one additional online platform. You keep a record of all applications received and document why no EEA candidate was suitable. DETE checks this at application stage."
   - q: "Can CA Recruitment place Filipino construction workers in Ireland?"
-    a: "Yes. CA Recruitment places skilled Filipino workers with Irish and UK employers, including construction and engineering companies. We manage the full DETE General Employment Permit process — LMNT, application preparation, supporting documentation, and D-visa coordination. We also handle the Philippines side directly through our DMW-accredited network, so both ends of the process are covered. 90-day replacement guarantee."
+    a: "Yes. CA Recruitment places skilled Filipino workers with Irish and UK employers, including construction and engineering companies. We manage the full DETE General Employment Permit process — LMNT, application preparation, supporting documentation, and D-visa coordination. We also handle the Philippines side directly through our DMW-accredited network, so both ends of the process are covered."
 ---
 
 <p>Irish construction companies are signing contracts they cannot fully staff. Engineers are short. Pipefitters and welders are short. MEP companies are turning down work because they cannot find qualified tradespeople locally — and the domestic pipeline is not recovering fast enough to change that.</p>
@@ -205,7 +205,7 @@ faq:
   <li>Arrival support — IRP registration, PPS number, first 90 days</li>
 </ul>
 
-<p>If a worker placed by us leaves within 90 days, we source a replacement and waive our recruitment fee.</p>
+<p></p>
 
 <p>Joe Colville at Ecoville Construction has used CA Recruitment for skilled placements. If you want a direct conversation about the process before committing to anything, <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20a%20construction%20employer%20looking%20to%20hire%20skilled%20workers%20from%20overseas.%20Can%20you%20help%3F" target="_blank" rel="noopener">WhatsApp Monette</a> — she will give you an honest assessment of what is feasible for your role and business.</p>
 
@@ -242,5 +242,5 @@ faq:
 
 <div class="faq-block">
   <h3>Can CA Recruitment place Filipino construction workers in Ireland?</h3>
-  <p>Yes. We place skilled Filipino workers with Irish and UK employers, including construction and engineering companies. We manage the full DETE GEP process and both sides of the placement — Ireland and the Philippines. 90-day replacement guarantee.</p>
+  <p>Yes. We place skilled Filipino workers with Irish and UK employers, including construction and engineering companies. We manage the full DETE GEP process and both sides of the placement — Ireland and the Philippines.</p>
 </div>

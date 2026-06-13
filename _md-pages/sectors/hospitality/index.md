@@ -46,7 +46,7 @@ Filipino chefs placed through CA Recruitment are sourced against the specific ki
 From initial consultation to the chef starting: 6 to 8 months. This includes the 28-day LMNT, DETE processing, visa approval, and travel from the Philippines.
 
 **What if the chef doesn't work out?**
-CA Recruitment provides a replacement at no additional recruitment fee if the chef leaves within the first 90 days.
+Workers placed via an employment permit have relocated specifically for the role, so retention is typically strong.
 
 **How much does it cost to hire through CA Recruitment?**
 CA Recruitment's recruitment fee is agreed upfront and separate from government costs. The main external cost is the €1,000 employer-paid DETE permit fee.

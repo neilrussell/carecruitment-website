@@ -45,7 +45,7 @@ Yes. At least 50% of your workforce must be EEA nationals at the time of the per
 CA Recruitment's recruitment fee is agreed upfront and separate from government costs. The main external cost is the employer-paid DETE permit fee — currently €1,000 for a General Employment Permit.
 
 **What if the construction worker doesn't work out?**
-CA Recruitment provides a replacement at no additional recruitment fee if the worker leaves within the first 90 days.
+Workers placed via an employment permit have relocated specifically for the role, so retention is typically strong.
 
 **Is the overseas recruitment process complicated?**
 From the employer's side: free consultation, reviewing a candidate shortlist, and conducting interviews. CA Recruitment manages the Labour Market Needs Test, permit documentation, DETE application, visa coordination, and arrival support.

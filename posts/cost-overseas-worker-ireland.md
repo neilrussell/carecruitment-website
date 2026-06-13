@@ -11,7 +11,7 @@ sidebarCta: "Want a clear cost picture for your specific role? Ask Monette — f
 layout: blog-post.njk
 permalink: /blog/cost-overseas-worker-ireland/index.html
 image: /images/social/cost-overseas-worker-ireland-post.png
-imageAlt: "Infographic showing the cost breakdown of hiring an overseas worker in Ireland — DETE permit fee, Labour Market Needs Test, agency fee and 90-day replacement guarantee"
+imageAlt: "Infographic showing the cost breakdown of hiring an overseas worker in Ireland — DETE permit fee, Labour Market Needs Test, and the agency fee"
 toc:
   - { id: "cost-summary", label: "Cost summary" }
   - { id: "dete-permit-fee", label: "The DETE permit fee" }
@@ -34,7 +34,7 @@ faq:
   - q: "How does CA Recruitment's no-fee-until-placement model work?"
     a: "CA Recruitment's agency fee applies only when a worker is placed and confirmed in employment. The DETE permit fee is paid directly to the Irish government — that is an employer obligation regardless of which agency you use. CA Recruitment's own fee is separate from that and is charged only on successful placement."
   - q: "What happens if the worker leaves after a few weeks?"
-    a: "CA Recruitment's 90-day replacement guarantee covers this situation. If a placed worker leaves within 90 days — for any reason — CA Recruitment sources and places a replacement at no additional charge to the employer."
+    a: "Workers placed via an employment permit have relocated specifically for this role and this employer, so retention is consistently strong. If a placement runs into difficulty in the early weeks, contact CA Recruitment and we'll work through the options with you."
   - q: "Are there other costs I should budget for?"
     a: "The costs listed here cover the main employer-side expenses. The one that catches employers off guard most often is the additional LMNT advertising requirement — specifically which online platform to use and what it will cost. Sector-specific requirements (Garda vetting, Safe Pass, trade certifications) can also add pre-employment steps. CA Recruitment walks clients through the full cost picture at the first consultation, before anything is committed."
 ---
@@ -136,7 +136,7 @@ faq:
 
 <p>Monette, CA Recruitment's founder, is Filipino and has been based in Ireland for years. She manages both sides of every placement — the Irish employer's requirements and the Filipino candidate process — from a position of first-hand experience that generalist agencies don't have.</p>
 
-<p>Every CA Recruitment placement comes with a <strong>90-day replacement guarantee</strong>. If your worker leaves within 90 days of starting — for any reason — CA Recruitment replaces them at no additional charge.</p>
+<p>Workers placed via an employment permit have relocated specifically for this role and this employer, so retention is consistently strong. If a placement runs into difficulty in the early weeks, contact CA Recruitment and we'll work through the options with you.</p>
 
 <h2 id="sector-costs">Costs to Watch For by Sector</h2>
 
@@ -170,7 +170,7 @@ faq:
 
 <h3>What happens if the worker leaves after a few weeks?</h3>
 
-<p>CA Recruitment's 90-day replacement guarantee covers this situation. If a placed worker leaves within 90 days — for any reason — CA Recruitment sources and places a replacement at no additional charge to the employer.</p>
+<p>Workers placed via an employment permit have relocated specifically for this role and this employer, so retention is consistently strong. If a placement runs into difficulty in the early weeks, contact CA Recruitment and we'll work through the options with you.</p>
 
 <h3>Are there other costs I should budget for?</h3>
 

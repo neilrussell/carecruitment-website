@@ -122,7 +122,7 @@ faq:
   <li>D-visa coordination and arrival support</li>
 </ul>
 
-<p><strong>90-day replacement guarantee.</strong></p>
+<p></p>
 
 <p>If you run a care business and the local hiring market has stopped working for you, <a href="https://wa.me/353894166124?text=Hi%2C%20I%20can%27t%20fill%20healthcare%20assistant%20roles%20locally.%20Can%20you%20help%20me%20hire%20from%20overseas%3F" target="_blank" rel="noopener">WhatsApp Monette</a>. She will give you a straight answer on whether your roles qualify and what the timeline looks like for your situation.</p>
 

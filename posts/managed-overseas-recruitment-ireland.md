@@ -31,7 +31,7 @@ faq:
   - q: "Do I need to pay anything upfront to use CA Recruitment?"
     a: "The DETE permit application fee of €1,000 is payable upfront and paid directly to DETE. CA Recruitment's own recruitment fee is agreed as a fixed quote at the initial consultation, so you know the full cost before committing to anything."
   - q: "What happens if the worker leaves within the first 90 days?"
-    a: "CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee."
+    a: "Workers placed via an employment permit have relocated specifically for this role and this employer, so retention is consistently strong. If a placement runs into difficulty in the early weeks, contact us and we'll work through the options with you."
   - q: "Which sectors does CA Recruitment recruit for?"
     a: "CA Recruitment places Filipino workers in healthcare and care, agriculture, construction, hospitality, and food production. Owner Monette has placed workers across all five sectors with Irish employers ranging from family farms to care home groups."
   - q: "What is the minimum salary for an overseas worker on an Irish work permit?"
@@ -124,9 +124,9 @@ faq:
 
 <p>CA Recruitment handles every DETE communication, every document, every application form. Employers who have attempted the GEP process independently — or used agencies that handed back the paperwork — come to us specifically because they do not want to manage it themselves. The process is manageable when you know it. It is a significant time burden when you don't. You will not complete a single DETE form.</p>
 
-<h3>Transparent fees, 90-day replacement guarantee</h3>
+<h3>Transparent fees</h3>
 
-<p>CA Recruitment provides a fixed-fee quote for its recruitment fee during the initial consultation. The DETE permit fee and other government costs are payable upfront and billed to you at cost. If the placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee. This is not a small print commitment — it is how we structure every placement.</p>
+<p>CA Recruitment provides a fixed-fee quote for its recruitment fee during the initial consultation. The DETE permit fee and other government costs are payable upfront and billed to you at cost.</p>
 
 <h3>SME care worker tier — a gap no competitor fills</h3>
 
@@ -149,7 +149,7 @@ faq:
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">What happens if the worker leaves within the first 90 days?<span class="faq-arrow" aria-hidden="true">▾</span></button>
-    <div class="faq-answer"><p>CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee. This applies to all placements.</p></div>
+    <div class="faq-answer"><p>Workers placed via an employment permit have relocated specifically for this role and this employer, so retention is consistently strong. If a placement runs into difficulty in the early weeks, contact us and we'll work through the options with you.</p></div>
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">What is the minimum salary for an overseas worker on an Irish work permit?<span class="faq-arrow" aria-hidden="true">▾</span></button>
@@ -234,7 +234,7 @@ faq:
       "name": "What happens if the worker leaves within the first 90 days?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee."
+        "text": "Workers placed via an employment permit have relocated specifically for this role and this employer, so retention is consistently strong. If a placement runs into difficulty in the early weeks, contact us and we'll work through the options with you."
       }
     },
     {

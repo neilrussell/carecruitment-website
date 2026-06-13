@@ -158,7 +158,7 @@ faq:
   <li>Onboarding logistics: PPS number, IRP registration, accommodation support</li>
 </ul>
 
-<p><strong>The recruitment fee is agreed upfront and separate from government costs.</strong> If a worker placed by us leaves within 90 days, we source a replacement and waive our recruitment fee.</p>
+<p><strong>The recruitment fee is agreed upfront and separate from government costs.</strong></p>
 
 <div class="inline-cta">
   <h3>Ready to find out if overseas hiring works for your role? <span>WhatsApp Monette.</span></h3>

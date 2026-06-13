@@ -178,7 +178,7 @@ Some of these stages overlap where possible, but plan conservatively. The most c
 - Flights and relocation: varies
 - Agency fee (if using a managed recruitment service): fixed fee per successful placement
 
-If you use a recruitment agency that manages the end-to-end process, there is typically a single agency fee payable on a successful placement. CA Recruitment's 90-day replacement guarantee covers the worker leaving or a gross-misconduct dismissal within that period — the agency fee only, not DETE fees, visa costs, or travel expenses.
+If you use a recruitment agency that manages the end-to-end process, there is typically a single agency fee payable on a successful placement.
 
 
 ## The 50/50 rule for manufacturers {#50-50-rule}

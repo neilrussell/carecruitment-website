@@ -28,7 +28,6 @@ The Philippines has a large pool of accounting and finance professionals educate
 ## Key Facts
 
 - Qualifications and professional registrations verified before shortlisting
-- 90-day replacement guarantee on all placements
 - CA Recruitment manages the full DETE permit process
 
 ---

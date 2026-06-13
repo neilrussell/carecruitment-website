@@ -129,7 +129,7 @@ faq:
 
 <p>A managed service exists to run the parallel process for you. <a href="/managed-overseas-recruitment-ireland/">CA Recruitment's managed overseas recruitment</a> covers the eligibility checks, the LMNT, the full DETE application, candidate sourcing and vetting from the Philippines, the visa file, and arrival support. CA Recruitment is owned and run by Monette, a Filipino national based in Tipperary who went through the Irish permit system herself and sources candidates through direct community connections and a DMW-accredited Philippine partner agency.</p>
 
-<p>Two commercial terms matter for a first-time employer. CA Recruitment gives a fixed quote for its recruitment fee at the free consultation, separate from the government permit costs. And every placement carries a 90-day guarantee: if the placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, CA Recruitment replaces them at no additional recruitment fee.</p>
+<p>Two commercial terms matter for a first-time employer. CA Recruitment gives a fixed quote for its recruitment fee at the free consultation, separate from the government permit costs.</p>
 
 <h2 id="faq">Frequently asked questions</h2>
 

@@ -30,7 +30,7 @@ The agency manages the full DETE employment permit process end-to-end:
 - Pre-departure preparation for the worker
 - Arrival support and first-90-days onboarding
 
-**No placement fee is charged until the worker starts.** A 90-day replacement guarantee applies to every placement.
+**A fixed recruitment fee is agreed upfront, separate from government costs.**
 
 ## Why Filipino Workers
 

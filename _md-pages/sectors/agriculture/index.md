@@ -49,7 +49,7 @@ Yes. English is an official language of the Philippines and is the primary mediu
 CA Recruitment's recruitment fee is agreed upfront and separate from government costs. The main external cost is the €1,000 employer-paid DETE General Employment Permit fee.
 
 **What happens if the worker doesn't stay?**
-CA Recruitment provides a replacement at no additional recruitment fee if the worker leaves within the first 90 days. Workers placed via employment permit have relocated specifically for the role — retention rates are typically strong.
+Workers placed via an employment permit have relocated specifically for the role, so retention rates are typically strong.
 
 ---
 

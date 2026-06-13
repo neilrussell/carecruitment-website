@@ -1,6 +1,6 @@
 # Filipino Recruitment Agency Ireland — CA Recruitment
 
-CA Recruitment is a Filipino-owned recruitment agency based in Co. Tipperary, Ireland. The agency places vetted Filipino workers with Irish employers across agriculture, construction, care, hospitality, healthcare, manufacturing, logistics, retail, and accounting. Full DETE employment permit management is included. 90-day replacement guarantee.
+CA Recruitment is a Filipino-owned recruitment agency based in Co. Tipperary, Ireland. The agency places vetted Filipino workers with Irish employers across agriculture, construction, care, hospitality, healthcare, manufacturing, logistics, retail, and accounting. Full DETE employment permit management is included.
 
 ## The Service
 

@@ -42,7 +42,7 @@ faq:
   - q: "Does the 50/50 rule apply to construction employers hiring overseas tradespeople?"
     a: "Yes. At least 50% of your total workforce must be EEA nationals when you submit the GEP application. The only exemptions are businesses registered with Revenue in the last two years that hold a formal letter of support from Enterprise Ireland or IDA Ireland, and situations where the overseas worker will be the sole employee. Most established construction firms do not qualify for an exemption. Check your headcount before starting the process."
   - q: "Can CA Recruitment source and place Filipino electricians or plumbers in Ireland?"
-    a: "Yes. CA Recruitment places skilled Filipino workers with Irish construction and engineering employers. We manage the end-to-end process: role eligibility check, candidate sourcing in the Philippines, Labour Market Needs Test, DETE GEP application, and D-visa coordination. 90-day replacement guarantee if the worker leaves."
+    a: "Yes. CA Recruitment places skilled Filipino workers with Irish construction and engineering employers. We manage the end-to-end process: role eligibility check, candidate sourcing in the Philippines, Labour Market Needs Test, DETE GEP application, and D-visa coordination."
 ---
 
 <h2 id="short-answer">The short answer</h2>
@@ -157,7 +157,7 @@ faq:
   <li>Arrival support and first 90 days</li>
 </ul>
 
-<p><strong>The recruitment fee is agreed upfront and separate from government costs.</strong> If a worker placed by us leaves within 90 days, we source a replacement and waive our recruitment fee.</p>
+<p><strong>The recruitment fee is agreed upfront and separate from government costs.</strong></p>
 
 <p>If you have a trades vacancy you cannot fill locally and want a straight conversation about whether an overseas hire is feasible, <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20looking%20to%20hire%20a%20tradesperson%20from%20overseas.%20Can%20you%20help%20with%20the%20permit%20process%3F" target="_blank" rel="noopener">WhatsApp Monette</a>. She will give you an honest answer about what is achievable for your role and your business.</p>
 
@@ -212,7 +212,7 @@ faq:
 
 <div class="faq-block">
   <h3>Can CA Recruitment place Filipino electricians or plumbers with my business?</h3>
-  <p>Yes. CA Recruitment places skilled Filipino tradespeople with Irish construction and engineering employers. We manage the full process from role eligibility check to first day on site. 90-day replacement guarantee. <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20looking%20to%20hire%20a%20tradesperson%20from%20overseas.%20Can%20you%20help%20with%20the%20permit%20process%3F" target="_blank" rel="noopener">WhatsApp Monette</a> to start the conversation.</p>
+  <p>Yes. CA Recruitment places skilled Filipino tradespeople with Irish construction and engineering employers. We manage the full process from role eligibility check to first day on site. <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20looking%20to%20hire%20a%20tradesperson%20from%20overseas.%20Can%20you%20help%20with%20the%20permit%20process%3F" target="_blank" rel="noopener">WhatsApp Monette</a> to start the conversation.</p>
 </div>
 
 <div class="callout callout-gold" style="margin-top:40px;">

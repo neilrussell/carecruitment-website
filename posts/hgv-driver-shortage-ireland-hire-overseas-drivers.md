@@ -147,7 +147,7 @@ The stages mostly run in sequence — the permit cannot be submitted until the a
 - Irish licence exchange and any CPC requirements: modest, but allow for time off the road
 - Agency fee, if using a managed service: a fixed fee per successful placement
 
-CA Recruitment manages the full process — licence verification, LMNT, EPOS application, visa coordination and arrival — and our 90-day guarantee covers the agency fee if the worker leaves or is dismissed for gross misconduct within that period. DETE fees, visa costs and travel are not covered by the guarantee.
+CA Recruitment manages the full process — licence verification, LMNT, EPOS application, visa coordination and arrival.
 
 
 ## What about bus and coach drivers? {#bus-coach}

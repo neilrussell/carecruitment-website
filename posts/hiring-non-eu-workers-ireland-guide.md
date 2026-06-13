@@ -89,7 +89,7 @@ You also need to pay at least the minimum wage, provide a written employment con
 
 ## What CA Recruitment does {#what-we-do}
 
-We manage the full process — from checking eligibility and sourcing candidates in the Philippines, through the Labour Market Test and permit application, to the worker's arrival and the first 90 days on the ground. If the worker leaves within 90 days of starting, we replace at no additional recruitment fee.
+We manage the full process — from checking eligibility and sourcing candidates in the Philippines, through the Labour Market Test and permit application, to the worker's arrival and the first 90 days on the ground.
 
 Our recruitment fee is agreed upfront and is separate from the government permit costs, which the employer pays directly to DETE.
 

@@ -189,6 +189,6 @@ faq:
   <li>First 90 days support for employer and worker</li>
 </ul>
 
-<p>If a worker placed by us leaves within 90 days, we source a replacement and waive our recruitment fee.</p>
+<p></p>
 
 <p>If you run a nursing home and have care vacancies you cannot fill locally, WhatsApp Monette directly. She will tell you within a day whether a permit hire is viable for your situation and what the realistic timeline looks like for your specific vacancies.</p>

@@ -1,6 +1,6 @@
 # Hire Filipino Workers in Ireland — CA Recruitment
 
-CA Recruitment is a Filipino-owned recruitment agency based in Co. Tipperary, Ireland. The agency places vetted Filipino workers with Irish employers across care, agriculture, construction, and hospitality. Full DETE General Employment Permit management is included. 90-day replacement guarantee.
+CA Recruitment is a Filipino-owned recruitment agency based in Co. Tipperary, Ireland. The agency places vetted Filipino workers with Irish employers across care, agriculture, construction, and hospitality. Full DETE General Employment Permit management is included.
 
 ## The Service
 
@@ -11,7 +11,7 @@ CA Recruitment provides end-to-end Filipino worker placement for Irish employers
 - **Candidate sourcing and vetting** — sourced through Monette's direct community networks in the Philippines; qualifications verified, references checked before shortlisting
 - **DETE GEP application** — preparation, submission via EPOS, liaison with DETE throughout
 - **Visa coordination** — D-visa process managed from the Philippine end once GEP is approved
-- **Arrival and 90-day support** — IRP registration, PPS number, bank account setup; replacement at no additional recruitment fee if the worker leaves within 90 days
+- **Arrival and 90-day support** — IRP registration, PPS number, bank account setup
 
 ## Work Permit Facts
 
@@ -39,7 +39,6 @@ Full permit process details: [Work Permit Guide for Irish Employers](https://car
 - **DMW-accredited** — accredited by the Philippines Department of Migrant Workers for Ireland placements
 - **End-to-end permit management** — employer signs documents; CA Recruitment manages the rest
 - **Transparent, fixed fees** — government permit, visa and travel costs billed to you at cost
-- **90-day replacement guarantee** — replacement at no additional recruitment fee if the worker leaves within 90 days
 - **Care worker tier expertise** — one of the few agencies in Ireland actively working the GEP care tier at the €16.12/hr threshold (€32,691/yr at 39 hours)
 
 ## Contact

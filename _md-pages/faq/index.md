@@ -115,10 +115,10 @@ Refusals usually occur because the role does not meet the salary threshold, the 
 ## Guarantees
 
 **What happens if the worker is not a good fit?**
-Contact CA Recruitment. The 90-day replacement guarantee applies where the worker leaves or has to be dismissed for gross misconduct — in those cases the worker is replaced and the recruitment fee is waived.
+Contact CA Recruitment. Most issues in the first weeks are settling-in issues; if things aren't working out, we'll work with you on the options.
 
 **Do you offer a replacement guarantee?**
-Yes. If the worker leaves within the first 90 days — or has to be dismissed for gross misconduct — CA Recruitment provides a replacement at no additional recruitment fee. Government permit fees for the replacement application are not included. Full terms: https://carecruitment.com/guarantee-terms/
+We focus on getting the match right and on retention — workers placed via an employment permit have relocated specifically for the role, so they tend to stay. If a placement runs into difficulty in the early weeks, contact us and we'll work through the options with you.
 
 ---
 

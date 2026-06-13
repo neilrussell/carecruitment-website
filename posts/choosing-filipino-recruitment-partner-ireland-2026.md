@@ -122,7 +122,7 @@ faq:
   <li><strong>Have you placed workers in my sector specifically?</strong> Which roles, with which employers?</li>
   <li><strong>Do you manage the LMNT advertising and documentation, or does the employer do that?</strong></li>
   <li><strong>Do you submit the EPOS application on the employer's behalf?</strong></li>
-  <li><strong>What happens if the worker leaves within the first 90 days?</strong> Is there a replacement guarantee?</li>
+  <li><strong>What happens if the worker leaves within the first 90 days?</strong> What support and retention track record do they have?</li>
   <li><strong>What are your fees, and when are they due?</strong> Is there an upfront fee before placement?</li>
   <li><strong>Do you verify qualifications for every candidate before presenting them?</strong> Specifically for care sector placements: do you confirm QQI Level 5 equivalency?</li>
   <li><strong>Are you aware of the current quota status for my sector?</strong> Is the relevant DETE allocation still open?</li>

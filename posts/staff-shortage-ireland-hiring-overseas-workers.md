@@ -153,7 +153,7 @@ faq:
   <li>Onboarding: PPS number, IRP registration, and accommodation support</li>
 </ul>
 
-<p>Our recruitment fee is agreed upfront and separate from government costs. And if the worker leaves within 90 days, or is dismissed for gross misconduct in that window, we replace them at no additional recruitment fee — that guarantee covers our placement fee, not the DETE, visa, or travel costs.</p>
+<p>Our recruitment fee is agreed upfront and separate from government costs.</p>
 
 <div class="inline-cta">
   <h3>Stuck on a role you can't fill locally? <span>WhatsApp Monette.</span></h3>

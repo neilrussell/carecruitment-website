@@ -22,7 +22,6 @@ CA Recruitment places vetted Filipino workers in retail roles with Irish employe
 
 - English is an official language of the Philippines — Filipino retail workers are customer-facing ready
 - Retail sector experience is verified before shortlisting
-- 90-day replacement guarantee on all placements
 
 ---
 

@@ -28,7 +28,6 @@ Logistics and warehousing in Ireland faces persistent labour shortages driven by
 
 - English is an official language of the Philippines — no language barrier
 - All candidates have qualifications and references verified before shortlisting
-- 90-day replacement guarantee on all placements
 - CA Recruitment manages the full DETE permit process — the employer's involvement is the consultation, shortlist review, and interviews
 
 ---

@@ -207,7 +207,7 @@ faq:
   <li>Arrival support — IRP registration, PPS number, first 90 days</li>
 </ul>
 
-<p>If a worker placed by us leaves within the first 90 days, we source a replacement and waive our recruitment fee.</p>
+<p></p>
 
 <p>If you want a straight answer on whether your role and your farm qualify, <a href="https://wa.me/353894166124?text=Hi%2C%20I%20run%20a%20pig%20farm%20and%20I%27m%20looking%20to%20hire%20workers%20from%20overseas.%20Can%20you%20help%3F" target="_blank" rel="noopener">WhatsApp Monette</a> — a five-minute conversation will tell you whether it's worth starting.</p>
 
