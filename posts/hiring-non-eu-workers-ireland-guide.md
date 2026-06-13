@@ -91,7 +91,7 @@ You also need to pay at least the minimum wage, provide a written employment con
 
 We manage the full process — from checking eligibility and sourcing candidates in the Philippines, through the Labour Market Test and permit application, to the worker's arrival and the first 90 days on the ground. If the worker leaves within 90 days of starting, we replace at no additional recruitment fee.
 
-Our fee is due only when a worker is placed. There's no upfront cost for the consultation, the sourcing, or the permit application management.
+Our recruitment fee is agreed upfront and is separate from the government permit costs, which the employer pays directly to DETE.
 
 If you're starting from scratch and want to understand whether this is feasible for your business, the free consultation is the right first step.
 

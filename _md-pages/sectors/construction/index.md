@@ -1,6 +1,6 @@
 # Filipino Construction Workers for Ireland — CA Recruitment
 
-CA Recruitment places vetted Filipino construction workers with Irish contractors and construction businesses. Permit type: General Employment Permit (most roles). Timeline: 6 to 8 months. No fee until placement.
+CA Recruitment places vetted Filipino construction workers with Irish contractors and construction businesses. Permit type: General Employment Permit (most roles). Timeline: 6 to 8 months.
 
 ## Roles Filled
 
@@ -42,7 +42,7 @@ Yes. Safe Pass is a legal requirement for all workers on Irish construction site
 Yes. At least 50% of your workforce must be EEA nationals at the time of the permit application. This applies to both GEP and CSEP.
 
 **How much does it cost to hire through CA Recruitment?**
-No recruitment fee until the worker arrives and starts on site. The main external cost is the employer-paid DETE permit fee — currently €1,000 for a General Employment Permit.
+CA Recruitment's recruitment fee is agreed upfront and separate from government costs. The main external cost is the employer-paid DETE permit fee — currently €1,000 for a General Employment Permit.
 
 **What if the construction worker doesn't work out?**
 CA Recruitment provides a replacement at no additional recruitment fee if the worker leaves within the first 90 days.

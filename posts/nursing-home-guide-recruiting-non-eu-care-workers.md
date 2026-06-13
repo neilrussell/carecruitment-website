@@ -36,7 +36,7 @@ faq:
   - q: "What does the 50/50 rule mean for a nursing home hiring overseas?"
     a: "At the time you submit your GEP application, at least 50% of your total workforce must be EEA nationals — all staff, not just care workers. For most established nursing homes, this is not a problem. If you have been hiring overseas workers for several years, check your ratio before starting the process. A refused application costs 28 days of advertising time and the €1,000 DETE fee."
   - q: "How much does it cost a nursing home to hire a non-EU care worker?"
-    a: "The main costs are: €1,000 DETE GEP application fee, €200 to €500 for Labour Market Needs Test advertising on a commercial job board, and recruitment agency fees (CA Recruitment charges nothing until the worker starts). The worker's pay must be at least €16.12 per hour — €32,691 per year on a 39-hour week. Garda vetting carries no employer fee. Total process cost excluding salary typically runs €1,200 to €2,000."
+    a: "The main costs are: €1,000 DETE GEP application fee, €200 to €500 for Labour Market Needs Test advertising on a commercial job board, and recruitment agency fees (CA Recruitment's fee is agreed upfront, separate from these costs). The worker's pay must be at least €16.12 per hour — €32,691 per year on a 39-hour week. Garda vetting carries no employer fee. Total process cost excluding salary typically runs €1,200 to €2,000."
   - q: "Does the May 2026 HSE recruitment freeze affect private nursing homes?"
     a: "No. The HSE moratorium announced in May 2026 applies only to public Health Service Executive posts. Private nursing homes and private home care operators are independent employers — they are not subject to the freeze and can continue recruiting overseas."
 ---
@@ -163,7 +163,7 @@ faq:
 
 <p><strong>Realistically, plan for about 6 to 8 months from first contact to the worker starting.</strong> The stages above overlap where possible — sourcing runs during the Labour Market Needs Test, and Philippine documentation runs during DETE processing — but in practice DETE queue times, embassy visa scheduling, and travel mean the full journey runs 6 to 8 months. The DETE processing window is the longest single stage, so starting early is the most effective thing you can do.</p>
 
-<p>On cost: the DETE fee is €1,000. LMNT advertising on a commercial board typically runs €200 to €500. Garda vetting carries no employer fee. CA Recruitment charges nothing until the worker starts. For most nursing homes, the total process cost excluding salary runs between €1,200 and €2,000 per placement. The worker's pay must be at least €16.12 per hour (€32,691 per year on a 39-hour week). The D-visa application fee is paid by the worker.</p>
+<p>On cost: the DETE fee is €1,000. LMNT advertising on a commercial board typically runs €200 to €500. Garda vetting carries no employer fee. CA Recruitment's fee is agreed upfront, separate from these costs. For most nursing homes, the total process cost excluding salary runs between €1,200 and €2,000 per placement. The worker's pay must be at least €16.12 per hour (€32,691 per year on a 39-hour week). The D-visa application fee is paid by the worker.</p>
 
 <h2 id="why-filipino">Why Filipino care workers specifically?</h2>
 
@@ -189,6 +189,6 @@ faq:
   <li>First 90 days support for employer and worker</li>
 </ul>
 
-<p>You pay nothing until the worker starts. If the worker leaves within 90 days, we replace at no additional charge.</p>
+<p>If a worker placed by us leaves within 90 days, we source a replacement and waive our recruitment fee.</p>
 
 <p>If you run a nursing home and have care vacancies you cannot fill locally, WhatsApp Monette directly. She will tell you within a day whether a permit hire is viable for your situation and what the realistic timeline looks like for your specific vacancies.</p>

@@ -7,7 +7,7 @@ readTime: "8 min"
 slug: how-to-hire-pig-farm-workers-from-overseas-ireland
 breadcrumb: Hire Pig Farm Workers Overseas Ireland
 waText: "Hi, I run a pig farm and I'm looking to hire workers from overseas. Can you help?"
-sidebarCta: "Hiring for a pig unit? We manage the full permit process — no fee until your worker starts."
+sidebarCta: "Hiring for a pig unit? We manage the full permit process for you."
 layout: blog-post.njk
 permalink: /blog/how-to-hire-pig-farm-workers-from-overseas-ireland/index.html
 image: /images/social/how-to-hire-farm-workers-from-overseas-ireland-post.png
@@ -207,7 +207,7 @@ faq:
   <li>Arrival support — IRP registration, PPS number, first 90 days</li>
 </ul>
 
-<p>No fee until your worker starts. If the worker leaves within the first 90 days, we replace them at no additional recruitment fee.</p>
+<p>If a worker placed by us leaves within the first 90 days, we source a replacement and waive our recruitment fee.</p>
 
 <p>If you want a straight answer on whether your role and your farm qualify, <a href="https://wa.me/353894166124?text=Hi%2C%20I%20run%20a%20pig%20farm%20and%20I%27m%20looking%20to%20hire%20workers%20from%20overseas.%20Can%20you%20help%3F" target="_blank" rel="noopener">WhatsApp Monette</a> — a five-minute conversation will tell you whether it's worth starting.</p>
 

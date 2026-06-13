@@ -1,6 +1,6 @@
 # Filipino Healthcare Workers for Ireland — CA Recruitment
 
-CA Recruitment places vetted Filipino healthcare assistants and home support workers with Irish healthcare providers. Registered nurses are placed via the Critical Skills Employment Permit route with NMBI registration support. No fee until placement.
+CA Recruitment places vetted Filipino healthcare assistants and home support workers with Irish healthcare providers. Registered nurses are placed via the Critical Skills Employment Permit route with NMBI registration support.
 
 ## Roles Filled
 
@@ -48,7 +48,7 @@ For GEP roles (healthcare assistants, home support workers): 6 to 8 months. For 
 Healthcare assistants and home support workers: €16.12/hr minimum — €32,691/yr on a 39-hour week, €33,529.60 on a 40-hour week (GEP shortage occupation rate). The qualifying salary must be basic pay: guaranteed premium payments can count, but bonuses, shift allowances, and overtime cannot. Registered nurses: €40,904 minimum (CSEP). All permit holders must also receive at least the National Minimum Wage for all hours worked.
 
 **How much does it cost to hire through CA Recruitment?**
-No recruitment fee until the worker arrives and starts. The main external cost is the DETE permit fee — €1,000 for a GEP.
+CA Recruitment's recruitment fee is agreed upfront and separate from government costs. The main external cost is the DETE permit fee — €1,000 for a GEP.
 
 ---
 

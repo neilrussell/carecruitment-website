@@ -7,7 +7,7 @@ readTime: "8 min"
 slug: how-to-hire-a-chef-from-overseas-ireland
 breadcrumb: "Hire a Chef from Overseas"
 waText: "Hi, I'm a hospitality employer looking to hire a chef from overseas in Ireland. Can you help?"
-sidebarCta: "Need a chef? We manage the full DETE permit process — no fee until your chef starts."
+sidebarCta: "Need a chef? We manage the full DETE permit process for you."
 layout: blog-post.njk
 permalink: /blog/how-to-hire-a-chef-from-overseas-ireland/index.html
 image: /images/blog/how-to-hire-a-chef-from-overseas-ireland/featured.jpg
@@ -136,7 +136,7 @@ faq:
   <li><strong>DETE GEP application fee: €1,000</strong> — paid at submission, refunded at 90% if refused</li>
   <li><strong>Minimum salary: €36,605 per year</strong> — this is a legal floor, not a suggested figure</li>
   <li><strong>Employer PRSI and standard employment costs</strong> — same as any Irish hire</li>
-  <li><strong>Agency fee</strong> — CA Recruitment charges a placement fee, confirmed during the free initial consultation. No upfront fee. You pay when the worker starts.</li>
+  <li><strong>Agency fee</strong> — CA Recruitment charges a placement fee, confirmed during the free initial consultation. Government permit, visa and travel costs are billed to you separately, at cost.</li>
 </ul>
 
 <p>Some employers ask whether they can pass the €1,000 DETE fee on to the worker. The answer is no — this is an employer cost under Irish employment law. Deducting it from wages is a WRC (Workplace Relations Commission) compliance issue.</p>
@@ -210,7 +210,7 @@ faq:
   <li>Arrival support — PPS number, IRP registration, first-week onboarding</li>
 </ul>
 
-<p>There is no upfront fee. You pay when your chef starts. If they leave within 90 days, we replace them at no additional recruitment fee.</p>
+<p>The recruitment fee is agreed upfront and is separate from the government permit costs. If a chef placed by us leaves within 90 days, we source a replacement and waive our recruitment fee.</p>
 
 <p>CA Recruitment is DMW-accredited for Ireland placements. This means Filipino workers can depart through the Philippines' official overseas employment programme — the documented, legally protected route. If an agency cannot confirm DMW accreditation for Ireland, the placement is legally exposed on the Philippine side.</p>
 

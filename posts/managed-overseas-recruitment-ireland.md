@@ -1,13 +1,13 @@
 ---
 title: "Managed Overseas Recruitment Ireland"
-description: "Skilled overseas workers placed with Irish employers in care, agriculture, construction and hospitality. Work permits managed in full. No fee until placement."
+description: "Skilled overseas workers placed with Irish employers in care, agriculture, construction and hospitality. Work permits managed in full."
 date: 2026-05-26
 category: Employer Guide
 readTime: "9 min"
 slug: managed-overseas-recruitment-ireland
 breadcrumb: Managed Overseas Recruitment
 waText: "Hi Monette, I'd like to discuss overseas recruitment for my business. Can you help?"
-sidebarCta: "We manage the full DETE permit process — no fee until your worker starts."
+sidebarCta: "We manage the full DETE permit process for you."
 layout: blog-post.njk
 permalink: /managed-overseas-recruitment-ireland/index.html
 imageAlt: "CA Recruitment — managed overseas recruitment agency for Irish employers, placing Filipino workers with DETE work permits managed in full"
@@ -29,7 +29,7 @@ faq:
   - q: "How long does overseas recruitment take for Irish employers?"
     a: "The full process typically takes 6 to 8 months from your first conversation to a worker's first day. The Labour Market Needs Test runs for 28 days. DETE processes General Employment Permit applications in approximately 8 to 12 weeks. The D-visa at the Irish Embassy in Manila takes a further 4 to 8 weeks. Starting earlier than you think you need to is the single best thing you can do."
   - q: "Do I need to pay anything upfront to use CA Recruitment?"
-    a: "No. There is no fee until your worker is placed and has started work. CA Recruitment provides a fixed-fee quote during the initial consultation so you know the full cost before committing to anything."
+    a: "The DETE permit application fee of €1,000 is payable upfront and paid directly to DETE. CA Recruitment's own recruitment fee is agreed as a fixed quote at the initial consultation, so you know the full cost before committing to anything."
   - q: "What happens if the worker leaves within the first 90 days?"
     a: "CA Recruitment offers a 90-day replacement guarantee. If your placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee."
   - q: "Which sectors does CA Recruitment recruit for?"
@@ -124,9 +124,9 @@ faq:
 
 <p>CA Recruitment handles every DETE communication, every document, every application form. Employers who have attempted the GEP process independently — or used agencies that handed back the paperwork — come to us specifically because they do not want to manage it themselves. The process is manageable when you know it. It is a significant time burden when you don't. You will not complete a single DETE form.</p>
 
-<h3>No fee until placement, 90-day replacement guarantee</h3>
+<h3>Transparent fees, 90-day replacement guarantee</h3>
 
-<p>There is no upfront cost. CA Recruitment provides a fixed-fee quote during the initial consultation and you pay only when your worker arrives and starts. If the placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee. This is not a small print commitment — it is how we structure every placement.</p>
+<p>CA Recruitment provides a fixed-fee quote for its recruitment fee during the initial consultation. The DETE permit fee and other government costs are payable upfront and billed to you at cost. If the placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, we replace them at no additional recruitment fee. This is not a small print commitment — it is how we structure every placement.</p>
 
 <h3>SME care worker tier — a gap no competitor fills</h3>
 
@@ -145,7 +145,7 @@ faq:
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">Do I need to pay anything upfront?<span class="faq-arrow" aria-hidden="true">▾</span></button>
-    <div class="faq-answer"><p>No. There is no fee until your worker is placed and has started work. CA Recruitment provides a fixed-fee quote during the initial consultation so you know the full cost before committing to anything. The only payment due before placement is the DETE permit application fee of €1,000, which is paid to DETE directly at the point of application — not to CA Recruitment.</p></div>
+    <div class="faq-answer"><p>The DETE permit application fee of €1,000 is payable before placement and paid to DETE directly at the point of application — not to CA Recruitment. CA Recruitment provides a fixed-fee quote for its own recruitment fee during the initial consultation, so you know the full cost before committing to anything.</p></div>
   </div>
   <div class="faq-item">
     <button class="faq-question" onclick="toggleFaq(this)">What happens if the worker leaves within the first 90 days?<span class="faq-arrow" aria-hidden="true">▾</span></button>
@@ -196,7 +196,7 @@ faq:
     "@type": "Country",
     "name": "Ireland"
   },
-  "description": "End-to-end overseas recruitment for Irish employers. CA Recruitment places Filipino workers across healthcare, agriculture, construction, and hospitality, with full DETE General Employment Permit management. No fee until placement."
+  "description": "End-to-end overseas recruitment for Irish employers. CA Recruitment places Filipino workers across healthcare, agriculture, construction, and hospitality, with full DETE General Employment Permit management."
 }
 </script>
 
@@ -226,7 +226,7 @@ faq:
       "name": "Do I need to pay anything upfront to use CA Recruitment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. There is no fee until your worker is placed and has started work. CA Recruitment provides a fixed-fee quote during the initial consultation so you know the full cost before committing to anything."
+        "text": "The DETE permit application fee of €1,000 is payable upfront and paid directly to DETE. CA Recruitment's own recruitment fee is agreed as a fixed quote at the initial consultation, so you know the full cost before committing to anything."
       }
     },
     {

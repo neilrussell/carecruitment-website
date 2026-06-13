@@ -29,13 +29,13 @@ Yes. CA Recruitment presents a shortlist of pre-vetted candidates. You interview
 ## Costs and Fees
 
 **How much does it cost to hire an overseas worker?**
-CA Recruitment's recruitment fee is discussed at the initial consultation and depends on the role type and volume. No fee is charged until a worker is successfully placed. Separately, the employer pays the government permit fee directly to DETE — currently €1,000 for a General Employment Permit of up to 24 months duration.
+CA Recruitment's recruitment fee is discussed at the initial consultation and depends on the role type and volume. Separately, the employer pays the government permit fee directly to DETE — currently €1,000 for a General Employment Permit of up to 24 months duration.
 
 **Do I pay anything upfront?**
-Nothing. No consultation fee, no retainer, no deposit. CA Recruitment's fee is only charged when a worker is successfully placed.
+There's no consultation fee, retainer, or deposit for CA Recruitment's own service. The government permit fee (€1,000, paid directly to DETE) is payable upfront; CA Recruitment's recruitment fee is agreed as a fixed quote at the consultation.
 
 **What ongoing costs should I expect?**
-The main ongoing cost is the worker's salary — minimum €36,605 per year for a standard GEP, or €16.12 per hour (€32,691 per year on a 39-hour week) for healthcare support workers and home carers. Standard employer PRSI applies. The government permit fee is a one-off cost. No agency fees until placement.
+The main ongoing cost is the worker's salary — minimum €36,605 per year for a standard GEP, or €16.12 per hour (€32,691 per year on a 39-hour week) for healthcare support workers and home carers. Standard employer PRSI applies. The government permit fee is a one-off cost, paid by you the employer.
 
 **Who pays for the employment permit?**
 The employer pays the permit fee. It is illegal under Irish law to recover this cost from the worker — passing permit costs on to a non-EU worker is a criminal offence under the Employment Permits Acts.

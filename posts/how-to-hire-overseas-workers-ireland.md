@@ -7,7 +7,7 @@ readTime: "9 min"
 slug: how-to-hire-overseas-workers-ireland
 breadcrumb: Hire Overseas Workers Ireland
 waText: "Hi, I'm an Irish employer looking to hire overseas workers. Can you help?"
-sidebarCta: "Thinking about hiring overseas? We manage every step — no fee until placement."
+sidebarCta: "Thinking about hiring overseas? We manage every step."
 layout: blog-post.njk
 permalink: /blog/how-to-hire-overseas-workers-ireland/index.html
 image: /images/blog/how-to-hire-overseas-workers-ireland/featured.jpg
@@ -158,11 +158,11 @@ faq:
   <li>Onboarding logistics: PPS number, IRP registration, accommodation support</li>
 </ul>
 
-<p><strong>No fee until the worker starts.</strong> If the placement does not proceed, you are not charged. If the worker leaves within 90 days, we replace them at no additional recruitment fee.</p>
+<p><strong>The recruitment fee is agreed upfront and separate from government costs.</strong> If a worker placed by us leaves within 90 days, we source a replacement and waive our recruitment fee.</p>
 
 <div class="inline-cta">
   <h3>Ready to find out if overseas hiring works for your role? <span>WhatsApp Monette.</span></h3>
-  <p>The first conversation is free, takes about 20 minutes, and covers your 50/50 ratio, the permit route for your specific role, and a realistic timeline. No obligation, no fee until placement.</p>
+  <p>The first conversation is free, takes about 20 minutes, and covers your 50/50 ratio, the permit route for your specific role, and a realistic timeline. No obligation.</p>
   <div class="inline-cta-btns">
     <a href="https://wa.me/353894166124?text=Hi%2C+I%27m+an+Irish+employer+looking+to+hire+overseas+workers.+Can+you+help%3F" target="_blank" rel="noopener" class="btn-whatsapp">
       <svg viewBox="0 0 24 24" aria-hidden="true" style="width:18px;height:18px;fill:white;"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.012.527 3.903 1.438 5.543L0 24l6.644-1.398A11.933 11.933 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.66-.49-5.196-1.347l-.372-.214-3.846.81.818-3.755-.234-.387A9.974 9.974 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>

@@ -1,6 +1,6 @@
 ---
 title: "How Much Does It Cost to Hire an Overseas Worker in Ireland?"
-description: "What does it cost to hire an overseas worker in Ireland? The DETE permit fee is €1,000 — but agency costs are zero until placement. Here's the full breakdown."
+description: "What does it cost to hire an overseas worker in Ireland? The DETE permit fee is €1,000 — and is paid by the employer. Here's the full breakdown."
 date: 2026-05-25
 category: Employment Permits
 readTime: "5 min"
@@ -41,7 +41,7 @@ faq:
 
 <p>The main employer-side cost of hiring an overseas worker in Ireland is the DETE employment permit fee: <strong>€1,000 for a General Employment Permit</strong>. That's the mandatory government charge. After that, costs depend on your sector, the role, and whether you use a recruitment agency.</p>
 
-<p>Most employers are surprised by what they don't pay. The worker's visa and entry clearance is not an employer cost — the worker pays that themselves. CA Recruitment, which is Filipino-owned and Ireland-based, charges no agency fee until a worker is placed and working.</p>
+<p>Most employers are surprised by what they don't pay. The worker's visa and entry clearance is not an employer cost — the worker pays that themselves. CA Recruitment, which is Filipino-owned and Ireland-based, has a recruitment fee that is agreed with you upfront and separate from government costs.</p>
 
 <p>Here is the full breakdown.</p>
 
@@ -83,8 +83,8 @@ faq:
 </tr>
 <tr>
 <td>CA Recruitment agency fee</td>
-<td>€0 until placement</td>
-<td>No upfront charge</td>
+<td>Agreed at consultation</td>
+<td>Separate from the government costs above</td>
 </tr>
 <tr>
 <td><strong>Typical total before first day</strong></td>
@@ -132,7 +132,7 @@ faq:
 
 <h2 id="agency-fee">The Agency Fee</h2>
 
-<p>Overseas recruitment agencies structure their fees differently. Some charge upfront retainers. Some charge on the commencement of the LMNT process. CA Recruitment's model is outcome-based: <strong>no fee until a worker is placed and confirmed in employment</strong>. There is no deposit, no retainer, and no charge at any point before the worker's first day.</p>
+<p>Overseas recruitment agencies structure their fees differently. Some charge upfront retainers. Some charge on the commencement of the LMNT process. CA Recruitment's model is transparent: <strong>a fixed recruitment fee, agreed upfront and separate from government costs</strong>. Government permit, visa and travel costs are billed to you at cost.</p>
 
 <p>Monette, CA Recruitment's founder, is Filipino and has been based in Ireland for years. She manages both sides of every placement — the Irish employer's requirements and the Filipino candidate process — from a position of first-hand experience that generalist agencies don't have.</p>
 
@@ -178,6 +178,6 @@ faq:
 
 <div class="callout callout-navy">
 <h3>Get a Clear Cost Picture Before You Start</h3>
-<p>CA Recruitment offers a free initial consultation. Monette will walk you through the permit route for your specific role and sector, confirm what advertising the Labour Market Needs Test requires, and give you a straight answer on total employer-side costs. No obligation, no upfront fees.</p>
+<p>CA Recruitment offers a free initial consultation. Monette will walk you through the permit route for your specific role and sector, confirm what advertising the Labour Market Needs Test requires, and give you a straight answer on total employer-side costs. No obligation.</p>
 <p><a href="https://wa.me/353894166124?text=Hi%20Monette%2C%20I%27d%20like%20to%20know%20more%20about%20the%20cost%20of%20hiring%20overseas%20workers.">Message Monette on WhatsApp: +353 89 416 6124</a></p>
 </div>

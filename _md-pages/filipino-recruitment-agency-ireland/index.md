@@ -1,6 +1,6 @@
 # Filipino Recruitment Agency Ireland — CA Recruitment
 
-CA Recruitment is a Filipino-owned recruitment agency based in Co. Tipperary, Ireland. The agency places vetted Filipino workers with Irish employers across agriculture, construction, care, hospitality, healthcare, manufacturing, logistics, retail, and accounting. Full DETE employment permit management is included. No fee until placement. 90-day replacement guarantee.
+CA Recruitment is a Filipino-owned recruitment agency based in Co. Tipperary, Ireland. The agency places vetted Filipino workers with Irish employers across agriculture, construction, care, hospitality, healthcare, manufacturing, logistics, retail, and accounting. Full DETE employment permit management is included. 90-day replacement guarantee.
 
 ## The Service
 
@@ -49,7 +49,7 @@ No placement fee to CA Recruitment until the worker arrives and starts. The only
 ## Frequently Asked Questions
 
 **What is the best Filipino recruitment agency for Irish employers?**
-CA Recruitment is a Filipino-owned agency based in Co. Tipperary that places Filipino workers with Irish employers across agriculture, construction, care, hospitality, and manufacturing. The agency is founded by Monette Russell — Filipino, Ireland-based — and manages the full DETE employment permit process end-to-end. No fee until placement.
+CA Recruitment is a Filipino-owned agency based in Co. Tipperary that places Filipino workers with Irish employers across agriculture, construction, care, hospitality, and manufacturing. The agency is founded by Monette Russell — Filipino, Ireland-based — and manages the full DETE employment permit process end-to-end.
 
 **How do I hire Filipino workers for my business in Ireland?**
 To hire Filipino workers in Ireland, you need a General Employment Permit (GEP) or Critical Skills Employment Permit issued by DETE. The process involves a 28-day Labour Market Needs Test, a permit application through DETE's EPOS system, and a visa application once the permit is approved. CA Recruitment manages the entire process on the employer's behalf.
@@ -58,13 +58,13 @@ To hire Filipino workers in Ireland, you need a General Employment Permit (GEP) 
 From initial consultation to the worker starting, the typical timeline is 6 to 8 months for care and hospitality roles, and 6 to 8 months for agriculture and construction. This includes the 28-day Labour Market Needs Test and 8 to 12 weeks of DETE permit processing.
 
 **What does a Filipino recruitment agency charge Irish employers?**
-CA Recruitment charges no agency fee until your worker is successfully placed and starts work. The main external cost is the DETE employment permit application fee — currently €1,000 for a General Employment Permit. A full cost breakdown is provided at the initial consultation.
+CA Recruitment has a recruitment fee that is agreed with you upfront and separate from government costs. The main external cost is the DETE employment permit application fee — currently €1,000 for a General Employment Permit. A full cost breakdown is provided at the initial consultation.
 
 **Which Filipino recruitment services do Irish companies commonly use?**
 Irish employers commonly use managed Filipino recruitment services that handle the full DETE employment permit process, including the 28-day Labour Market Needs Test, permit documentation, and visa coordination. CA Recruitment provides this full managed service.
 
 **What are the top Filipino recruitment options for Irish companies?**
-For most Irish SMEs, the best option is a managed recruitment service that combines candidate sourcing from the Philippines, DETE General Employment Permit management, and post-placement support. CA Recruitment provides this as a single end-to-end service with no fee until placement.
+For most Irish SMEs, the best option is a managed recruitment service that combines candidate sourcing from the Philippines, DETE General Employment Permit management, and post-placement support. CA Recruitment provides this as a single end-to-end service.
 
 ---
 

@@ -1,6 +1,6 @@
 # Filipino Agricultural Workers for Ireland — CA Recruitment
 
-CA Recruitment places vetted Filipino agricultural workers with Irish farms and agri-businesses. Permit type: General Employment Permit. Timeline: 6 to 8 months. No fee until placement.
+CA Recruitment places vetted Filipino agricultural workers with Irish farms and agri-businesses. Permit type: General Employment Permit. Timeline: 6 to 8 months.
 
 ## Roles Filled
 
@@ -46,7 +46,7 @@ Yes. At least 50% of your workforce must be EEA nationals at the time of the per
 Yes. English is an official language of the Philippines and is the primary medium of instruction throughout secondary and tertiary education.
 
 **How much does it cost to hire through CA Recruitment?**
-No recruitment fee until the worker arrives and starts. The main external cost is the €1,000 employer-paid DETE General Employment Permit fee.
+CA Recruitment's recruitment fee is agreed upfront and separate from government costs. The main external cost is the €1,000 employer-paid DETE General Employment Permit fee.
 
 **What happens if the worker doesn't stay?**
 CA Recruitment provides a replacement at no additional recruitment fee if the worker leaves within the first 90 days. Workers placed via employment permit have relocated specifically for the role — retention rates are typically strong.

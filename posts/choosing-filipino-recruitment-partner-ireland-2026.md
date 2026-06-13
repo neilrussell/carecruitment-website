@@ -7,7 +7,7 @@ readTime: "9 min"
 slug: choosing-filipino-recruitment-partner-ireland-2026
 breadcrumb: Choosing a Filipino Recruitment Partner
 waText: "Hi Monette, I'd like to talk about choosing the right Filipino recruitment agency for my business in Ireland. Can you help?"
-sidebarCta: "Not sure if we're the right fit? WhatsApp Monette — free consultation, no fee until placement."
+sidebarCta: "Not sure if we're the right fit? WhatsApp Monette — free consultation."
 layout: blog-post.njk
 permalink: /blog/choosing-filipino-recruitment-partner-ireland-2026/index.html
 image: /images/blog/choosing-filipino-recruitment-partner-ireland-2026/featured.jpg
@@ -140,7 +140,7 @@ faq:
 
 <p><strong>No mention of the 50:50 rule.</strong> This is one of the most common reasons GEP applications are refused for employers who have already placed workers previously. If the agency does not raise it in your initial conversation, they may not be checking it at all.</p>
 
-<p><strong>Significant upfront fees before a candidate is shortlisted.</strong> Reputable agencies do not require substantial payments before any placement work has been done. CA Recruitment charges no fee until placement is confirmed.</p>
+<p><strong>Significant upfront fees before a candidate is shortlisted.</strong> Reputable agencies do not require substantial payments before any placement work has been done. CA Recruitment sets out all fees clearly in writing before you commit, with no hidden charges.</p>
 
 <p><strong>Unable to name Irish employers they have placed with.</strong> Confidentiality is reasonable. But "we've placed many workers across Ireland" without being able to offer a single reference, sector, or county is not reassuring.</p>
 
@@ -181,7 +181,7 @@ faq:
 
 <div class="inline-cta">
   <h3>Want to know if CA Recruitment is the right fit for your business?</h3>
-  <p>WhatsApp Monette directly. The initial consultation is free — no obligation, no fee until placement. She will confirm the permit route for your role, check your 50:50 ratio, and tell you exactly what the process looks like for your specific situation.</p>
+  <p>WhatsApp Monette directly. The initial consultation is free — no obligation. She will confirm the permit route for your role, check your 50:50 ratio, and tell you exactly what the process looks like for your specific situation.</p>
   <div class="inline-cta-btns">
     <a href="https://wa.me/353894166124?text=Hi%20Monette%2C%20I%27d%20like%20to%20talk%20about%20choosing%20the%20right%20Filipino%20recruitment%20agency%20for%20my%20business%20in%20Ireland.%20Can%20you%20help%3F" target="_blank" rel="noopener" class="btn-whatsapp">
       <svg viewBox="0 0 24 24" aria-hidden="true" style="width:18px;height:18px;fill:white;"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.012.527 3.903 1.438 5.543L0 24l6.644-1.398A11.933 11.933 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.66-.49-5.196-1.347l-.372-.214-3.846.81.818-3.755-.234-.387A9.974 9.974 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>

@@ -46,7 +46,7 @@ Filipino workers have a well-established reputation in Ireland and the UK across
 
 CA Recruitment operates as a managed placement service, not a CV database. Every candidate goes through sourcing, qualification verification, reference checking, and video interview coordination before reaching an employer's shortlist. Employers receive pre-screened people, not raw applications.
 
-The fee model is straightforward: nothing until placement. The only upfront cost to the employer is the DETE government permit fee (€1,000 for most General Employment Permits), which is paid directly to DETE and has nothing to do with CA Recruitment's fee.
+The fee model is straightforward: a fixed recruitment fee agreed upfront, separate from government costs. The DETE government permit fee (€1,000 for most General Employment Permits) is paid directly to DETE and is the employer's cost.
 
 ---
 

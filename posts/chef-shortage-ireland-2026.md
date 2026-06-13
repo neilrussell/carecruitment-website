@@ -125,7 +125,7 @@ faq:
 <li><strong>Compliance</strong> — confirming the salary threshold, the experience evidence the permit needs, and WRC-standard employment terms.</li>
 </ul>
 
-<p>Every placement comes with a replacement guarantee. The terms are set out in full on our <a href="/guarantee-terms/">guarantee terms page</a>. And there is no agency fee until a chef is placed and working — no upfront charge to start the process.</p>
+<p>Every placement comes with a replacement guarantee. The terms are set out in full on our <a href="/guarantee-terms/">guarantee terms page</a>. Our recruitment fee is agreed upfront and is separate from the government permit costs.</p>
 
 <p>CA Recruitment works with hospitality operators across Ireland who had been advertising for chefs locally for months with no result. The overseas route is what finally filled the kitchen.</p>
 
@@ -149,6 +149,6 @@ faq:
 
 <div class="callout callout-navy">
 <h3>Struggling to Fill a Chef Role? Talk to Monette</h3>
-<p>If you run a restaurant, hotel, or pub and you've been advertising for a chef with no luck, CA Recruitment can help. Monette will confirm whether your role qualifies for the General Employment Permit, check the salary threshold against the hours you're offering, and walk you through the overseas route — start to finish. Free initial consultation, no upfront fees.</p>
+<p>If you run a restaurant, hotel, or pub and you've been advertising for a chef with no luck, CA Recruitment can help. Monette will confirm whether your role qualifies for the General Employment Permit, check the salary threshold against the hours you're offering, and walk you through the overseas route — start to finish. Free initial consultation.</p>
 <p><a href="https://wa.me/353894166124?text=Hi%20Monette%2C%20I%27m%20struggling%20to%20hire%20chefs%20and%20want%20to%20know%20about%20the%20overseas%20route.">Message Monette on WhatsApp: +353 89 416 6124</a></p>
 </div>

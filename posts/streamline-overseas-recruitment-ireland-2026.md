@@ -7,7 +7,7 @@ readTime: "10 min"
 slug: streamline-overseas-recruitment-ireland-2026
 breadcrumb: Streamline Overseas Recruitment
 waText: "Hi Monette, I'd like to streamline overseas hiring for my business. Can you help?"
-sidebarCta: "We run the permit and the candidate search in parallel. No fee until your worker starts."
+sidebarCta: "We run the permit and the candidate search in parallel"
 image: /images/social/how-to-hire-overseas-workers-ireland-post.png
 imageAlt: "How to streamline overseas recruitment for Ireland in 2026, from permit eligibility checks to parallel candidate sourcing and a realistic six-month timeline"
 layout: blog-post.njk
@@ -129,7 +129,7 @@ faq:
 
 <p>A managed service exists to run the parallel process for you. <a href="/managed-overseas-recruitment-ireland/">CA Recruitment's managed overseas recruitment</a> covers the eligibility checks, the LMNT, the full DETE application, candidate sourcing and vetting from the Philippines, the visa file, and arrival support. CA Recruitment is owned and run by Monette, a Filipino national based in Tipperary who went through the Irish permit system herself and sources candidates through direct community connections and a DMW-accredited Philippine partner agency.</p>
 
-<p>Two commercial terms matter for a first-time employer. There is no fee until your worker is placed and has started work, with a fixed quote given at the free consultation. And every placement carries a 90-day guarantee: if the placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, CA Recruitment replaces them at no additional recruitment fee.</p>
+<p>Two commercial terms matter for a first-time employer. CA Recruitment gives a fixed quote for its recruitment fee at the free consultation, separate from the government permit costs. And every placement carries a 90-day guarantee: if the placed worker leaves within 90 days of starting, or has to be dismissed for gross misconduct, CA Recruitment replaces them at no additional recruitment fee.</p>
 
 <h2 id="faq">Frequently asked questions</h2>
 

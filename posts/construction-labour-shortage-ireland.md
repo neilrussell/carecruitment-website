@@ -159,7 +159,7 @@ faq:
 <li><strong>Compliance.</strong> The SEO pay rate, the supporting evidence, and WRC-standard terms.</li>
 </ul>
 
-<p>Every placement comes with a replacement guarantee. The terms are set out in full on our <a href="/guarantee-terms/">guarantee terms page</a>. And there is no agency fee until a worker is placed and on site, so there is no upfront charge to start the process.</p>
+<p>Every placement comes with a replacement guarantee. The terms are set out in full on our <a href="/guarantee-terms/">guarantee terms page</a>. Our recruitment fee is agreed upfront and is separate from the government permit costs.</p>
 
 <p>Joe Colville at Ecoville Construction has used CA Recruitment for skilled placements. Ireland's updated Construction Action Plan also names the Philippines as a priority source market for construction labour, so the government has already assessed Filipino workers as a viable fit for Irish sites.</p>
 
@@ -192,6 +192,6 @@ faq:
 
 <div class="callout callout-navy">
 <h3>Can't Staff Your Site Locally? Talk to Monette</h3>
-<p>If you are a contractor who has been advertising for skilled trades with no luck, CA Recruitment can help. Monette will confirm whether your role qualifies for the General Employment Permit, run the Labour Market Needs Test, check the SEO pay rate for the trade, and manage the overseas route start to finish. Free initial consultation, no upfront fees.</p>
+<p>If you are a contractor who has been advertising for skilled trades with no luck, CA Recruitment can help. Monette will confirm whether your role qualifies for the General Employment Permit, run the Labour Market Needs Test, check the SEO pay rate for the trade, and manage the overseas route start to finish. Free initial consultation.</p>
 <p><a href="https://wa.me/353894166124?text=Hi%20Monette%2C%20I%20can%27t%20find%20skilled%20tradespeople%20locally%20and%20want%20to%20know%20about%20the%20overseas%20route.%20Can%20you%20help%3F" target="_blank" rel="noopener">Message Monette on WhatsApp</a></p>
 </div>

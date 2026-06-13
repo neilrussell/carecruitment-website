@@ -109,7 +109,7 @@ faq:
 
 <p>And that empty seat has its own cost. An unfilled role means lost output, overtime piled onto the team you already have, agency temps at a premium, and the slow burn of staff leaving because they are stretched. Set against that, a committed, vetted, English-speaking worker who is here to stay is usually the cheaper option, not the dearer one.</p>
 
-<p>The salary is also only part of the picture, and the part you would pay regardless of how you hire. CA Recruitment charges no agency fee until your worker actually starts, and we manage the entire DETE permit process for you. The full cost breakdown — permit fee, what you don't pay, and where the agency fee sits — is set out in our companion guide on <a href="/blog/cost-overseas-worker-ireland/">what it costs to hire an overseas worker in Ireland</a>.</p>
+<p>The salary is also only part of the picture, and the part you would pay regardless of how you hire. CA Recruitment's recruitment fee is agreed upfront and is separate from the government permit cost, and we manage the entire DETE permit process for you. The full cost breakdown — permit fee, what you don't pay, and where the agency fee sits — is set out in our companion guide on <a href="/blog/cost-overseas-worker-ireland/">what it costs to hire an overseas worker in Ireland</a>.</p>
 
 <h2 id="confirm">Confirm the exact figure for your role — free</h2>
 

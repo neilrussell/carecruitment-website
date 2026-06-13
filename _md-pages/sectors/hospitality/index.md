@@ -1,6 +1,6 @@
 # Filipino Chefs and Hospitality Workers for Ireland — CA Recruitment
 
-CA Recruitment places vetted Filipino chefs with Irish hotels, restaurants, and hospitality businesses. Permit type: General Employment Permit. Timeline: 6 to 8 months. No fee until placement.
+CA Recruitment places vetted Filipino chefs with Irish hotels, restaurants, and hospitality businesses. Permit type: General Employment Permit. Timeline: 6 to 8 months.
 
 ## Chef Grades Eligible for an Employment Permit
 
@@ -49,7 +49,7 @@ From initial consultation to the chef starting: 6 to 8 months. This includes the
 CA Recruitment provides a replacement at no additional recruitment fee if the chef leaves within the first 90 days.
 
 **How much does it cost to hire through CA Recruitment?**
-No recruitment fee until the chef arrives and starts. The main external cost is the €1,000 employer-paid DETE permit fee.
+CA Recruitment's recruitment fee is agreed upfront and separate from government costs. The main external cost is the €1,000 employer-paid DETE permit fee.
 
 ---
 

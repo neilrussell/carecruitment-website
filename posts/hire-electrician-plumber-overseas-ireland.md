@@ -7,7 +7,7 @@ readTime: "7 min"
 slug: hire-electrician-plumber-overseas-ireland
 breadcrumb: Hire Electrician or Plumber Overseas Ireland
 waText: "Hi, I'm looking to hire a tradesperson from overseas. Can you help with the permit process?"
-sidebarCta: "Looking to hire an electrician, plumber, or other tradesperson from outside the EU? We manage the full permit process — no fee until placement."
+sidebarCta: "Looking to hire an electrician, plumber, or other tradesperson from outside the EU? We manage the full permit process."
 layout: blog-post.njk
 permalink: /blog/hire-electrician-plumber-overseas-ireland/index.html
 image: /images/blog/hire-electrician-plumber-overseas-ireland/featured.jpg
@@ -42,7 +42,7 @@ faq:
   - q: "Does the 50/50 rule apply to construction employers hiring overseas tradespeople?"
     a: "Yes. At least 50% of your total workforce must be EEA nationals when you submit the GEP application. The only exemptions are businesses registered with Revenue in the last two years that hold a formal letter of support from Enterprise Ireland or IDA Ireland, and situations where the overseas worker will be the sole employee. Most established construction firms do not qualify for an exemption. Check your headcount before starting the process."
   - q: "Can CA Recruitment source and place Filipino electricians or plumbers in Ireland?"
-    a: "Yes. CA Recruitment places skilled Filipino workers with Irish construction and engineering employers. We manage the end-to-end process: role eligibility check, candidate sourcing in the Philippines, Labour Market Needs Test, DETE GEP application, and D-visa coordination. No fee until the worker starts. 90-day replacement guarantee if the worker leaves."
+    a: "Yes. CA Recruitment places skilled Filipino workers with Irish construction and engineering employers. We manage the end-to-end process: role eligibility check, candidate sourcing in the Philippines, Labour Market Needs Test, DETE GEP application, and D-visa coordination. 90-day replacement guarantee if the worker leaves."
 ---
 
 <h2 id="short-answer">The short answer</h2>
@@ -157,13 +157,13 @@ faq:
   <li>Arrival support and first 90 days</li>
 </ul>
 
-<p><strong>No fee until the worker starts.</strong> If they leave within 90 days, we replace at no additional recruitment fee.</p>
+<p><strong>The recruitment fee is agreed upfront and separate from government costs.</strong> If a worker placed by us leaves within 90 days, we source a replacement and waive our recruitment fee.</p>
 
 <p>If you have a trades vacancy you cannot fill locally and want a straight conversation about whether an overseas hire is feasible, <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20looking%20to%20hire%20a%20tradesperson%20from%20overseas.%20Can%20you%20help%20with%20the%20permit%20process%3F" target="_blank" rel="noopener">WhatsApp Monette</a>. She will give you an honest answer about what is achievable for your role and your business.</p>
 
 <div class="inline-cta">
   <h3>Hiring a tradesperson from overseas? <span>Start with a free call.</span></h3>
-  <p>We check your role eligibility, run your 50/50 ratio, and tell you exactly what the process involves for your specific situation. No obligation. No fee until placement.</p>
+  <p>We check your role eligibility, run your 50/50 ratio, and tell you exactly what the process involves for your specific situation. No obligation.</p>
   <div class="inline-cta-btns">
     <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20looking%20to%20hire%20a%20tradesperson%20from%20overseas.%20Can%20you%20help%20with%20the%20permit%20process%3F" target="_blank" rel="noopener" class="btn-whatsapp">
       <svg viewBox="0 0 24 24" aria-hidden="true" style="width:18px;height:18px;fill:white;"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.012.527 3.903 1.438 5.543L0 24l6.644-1.398A11.933 11.933 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.66-.49-5.196-1.347l-.372-.214-3.846.81.818-3.755-.234-.387A9.974 9.974 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
@@ -212,7 +212,7 @@ faq:
 
 <div class="faq-block">
   <h3>Can CA Recruitment place Filipino electricians or plumbers with my business?</h3>
-  <p>Yes. CA Recruitment places skilled Filipino tradespeople with Irish construction and engineering employers. We manage the full process from role eligibility check to first day on site. No fee until the worker starts. 90-day replacement guarantee. <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20looking%20to%20hire%20a%20tradesperson%20from%20overseas.%20Can%20you%20help%20with%20the%20permit%20process%3F" target="_blank" rel="noopener">WhatsApp Monette</a> to start the conversation.</p>
+  <p>Yes. CA Recruitment places skilled Filipino tradespeople with Irish construction and engineering employers. We manage the full process from role eligibility check to first day on site. 90-day replacement guarantee. <a href="https://wa.me/353894166124?text=Hi%2C%20I%27m%20looking%20to%20hire%20a%20tradesperson%20from%20overseas.%20Can%20you%20help%20with%20the%20permit%20process%3F" target="_blank" rel="noopener">WhatsApp Monette</a> to start the conversation.</p>
 </div>
 
 <div class="callout callout-gold" style="margin-top:40px;">

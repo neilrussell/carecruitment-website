@@ -1,6 +1,6 @@
 # Filipino Retail Workers for Ireland — CA Recruitment
 
-CA Recruitment places vetted Filipino workers in retail roles with Irish employers. Permit type: General Employment Permit. No fee until placement.
+CA Recruitment places vetted Filipino workers in retail roles with Irish employers. Permit type: General Employment Permit.
 
 ## Roles Filled
 

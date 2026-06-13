@@ -7,7 +7,7 @@ readTime: "6 min"
 slug: is-ireland-recruiting-care-workers-overseas
 breadcrumb: "Care Workers Overseas"
 waText: "Hi, I run a care home and I'm interested in hiring overseas care workers. Can you help?"
-sidebarCta: "Hiring care workers from overseas? We manage the full permit process — no fee until placement."
+sidebarCta: "Hiring care workers from overseas? We manage the full permit process."
 image: /images/social/care-workers-overseas-approved.png
 imageAlt: "Irish recruitment infographic confirming Ireland is still recruiting overseas care workers in 2026 — 1,000 GEP permits allocated, reduced salary threshold, five to six month placement timeline"
 layout: blog-post.njk
@@ -40,7 +40,7 @@ The DETE General Employment Permit quota for care workers is open. DETE allocate
 Here is what you need to know as an employer.
 
 <div class="callout callout-gold">
-<p><strong>CA Recruitment is Filipino-owned and manages the full GEP process for care employers.</strong> We handle the Labour Market Needs Test, skills assessment, and DETE submission. No fee until placement. <a href="/contact/">Talk to us about your care staffing needs.</a></p>
+<p><strong>CA Recruitment is Filipino-owned and manages the full GEP process for care employers.</strong> We handle the Labour Market Needs Test, skills assessment, and DETE submission. <a href="/contact/">Talk to us about your care staffing needs.</a></p>
 </div>
 
 <h2 id="why-private">Why Private Care Homes Are Driving the Demand</h2>
@@ -111,7 +111,7 @@ The process is manageable when handled by someone who knows it. The volume of pe
 
 <div class="inline-cta">
 <h3>Need care workers for your nursing home or homecare service? <span>We can help.</span></h3>
-<p>CA Recruitment is Filipino-owned with a team on the ground in Manila. We manage the full permit process: Labour Market Needs Test, skills assessment, DETE application, and employer compliance documentation. No fee until placement. 90-day replacement guarantee.</p>
+<p>CA Recruitment is Filipino-owned with a team on the ground in Manila. We manage the full permit process: Labour Market Needs Test, skills assessment, DETE application, and employer compliance documentation. 90-day replacement guarantee.</p>
 <div class="inline-cta-btns">
 <a href="https://wa.me/353894166124?text=Hi%2C%20I%20run%20a%20care%20home%20and%20I%27m%20interested%20in%20hiring%20overseas%20care%20workers.%20Can%20you%20help%3F" target="_blank" rel="noopener" class="btn-whatsapp"><svg viewBox="0 0 24 24" aria-hidden="true" style="width:18px;height:18px;fill:white;"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.012.527 3.903 1.438 5.543L0 24l6.644-1.398A11.933 11.933 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.66-.49-5.196-1.347l-.372-.214-3.846.81.818-3.755-.234-.387A9.974 9.974 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>WhatsApp Us</a>
 <a href="/contact/" class="btn-call">Book a Free Call</a>

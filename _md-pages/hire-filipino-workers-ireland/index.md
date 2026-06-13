@@ -1,6 +1,6 @@
 # Hire Filipino Workers in Ireland — CA Recruitment
 
-CA Recruitment is a Filipino-owned recruitment agency based in Co. Tipperary, Ireland. The agency places vetted Filipino workers with Irish employers across care, agriculture, construction, and hospitality. Full DETE General Employment Permit management is included. No agency fee until placement. 90-day replacement guarantee.
+CA Recruitment is a Filipino-owned recruitment agency based in Co. Tipperary, Ireland. The agency places vetted Filipino workers with Irish employers across care, agriculture, construction, and hospitality. Full DETE General Employment Permit management is included. 90-day replacement guarantee.
 
 ## The Service
 
@@ -38,7 +38,7 @@ Full permit process details: [Work Permit Guide for Irish Employers](https://car
 - **Filipino-owned, Ireland-based** — founded by Monette, a Filipino national living in Ballyporeen, Co. Tipperary
 - **DMW-accredited** — accredited by the Philippines Department of Migrant Workers for Ireland placements
 - **End-to-end permit management** — employer signs documents; CA Recruitment manages the rest
-- **No fee until placement** — no retainers, no upfront agency charges
+- **Transparent, fixed fees** — government permit, visa and travel costs billed to you at cost
 - **90-day replacement guarantee** — replacement at no additional recruitment fee if the worker leaves within 90 days
 - **Care worker tier expertise** — one of the few agencies in Ireland actively working the GEP care tier at the €16.12/hr threshold (€32,691/yr at 39 hours)
 

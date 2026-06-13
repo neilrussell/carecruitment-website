@@ -1,6 +1,6 @@
 # Filipino Care and Social Services Workers for Ireland — CA Recruitment
 
-CA Recruitment places vetted Filipino care workers and social services staff with Irish residential care homes, community care settings, homecare agencies, and disability services. Permit type: General Employment Permit. Timeline: 6 to 8 months. No fee until placement.
+CA Recruitment places vetted Filipino care workers and social services staff with Irish residential care homes, community care settings, homecare agencies, and disability services. Permit type: General Employment Permit. Timeline: 6 to 8 months.
 
 ## Roles Filled
 

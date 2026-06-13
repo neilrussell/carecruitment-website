@@ -7,11 +7,11 @@ readTime: "7 min"
 slug: hire-overseas-care-assistants-ireland
 breadcrumb: "Hire Overseas Care Assistants"
 waText: "Hi, I'd like to know about hiring care workers from overseas in Ireland. Can you help?"
-sidebarCta: "Need care workers? We manage the full DETE permit process — no fee until placement."
+sidebarCta: "Need care workers? We manage the full DETE permit process."
 layout: blog-post.njk
 permalink: /blog/hire-overseas-care-assistants-ireland/index.html
 image: /images/social/hire-overseas-care-assistants-ireland-post.png
-imageAlt: "Infographic for Irish care homes on hiring overseas care assistants — 28-day Labour Market Needs Test, DETE GEP permit fee and no agency fee until placement"
+imageAlt: "Infographic for Irish care homes on hiring overseas care assistants — 28-day Labour Market Needs Test, DETE GEP permit fee"
 toc:
   - { id: "which-roles", label: "Which roles qualify" }
   - { id: "lmnt", label: "The Labour Market Needs Test" }
@@ -40,7 +40,7 @@ faq:
   - q: "Do I need HIQA approval before I can recruit overseas?"
     a: "No. HIQA regulates your registered nursing home service, not your recruitment activity. You can run the LMNT, identify a candidate, and submit a permit application regardless of your current HIQA registration status. Staff must pass qualification verification and Garda vetting before their first day."
   - q: "How much does it cost in total to hire a care worker from overseas in Ireland?"
-    a: "The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €16.12 per hour (€32,691 per year on a 39-hour week). CA Recruitment charges no fee until placement is confirmed."
+    a: "The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €16.12 per hour (€32,691 per year on a 39-hour week). CA Recruitment's recruitment fee is agreed with you upfront and is separate from these government costs."
 ---
 
 <p>Yes, you can hire care assistants from overseas in Ireland. Irish nursing homes, home care operators, and disability services can apply for a General Employment Permit (GEP) through DETE (Ireland's Department of Enterprise, Trade and Employment) for non-EU care workers. Under SI 64/2025, there are <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/" target="_blank" rel="noopener">1,134 permits allocated for healthcare support workers</a>, with a pay threshold of €16.12 per hour — €32,691 per year on a 39-hour week. Once you submit the application, DETE currently takes 8 to 12 weeks to process it. The full timeline from first contact to a worker's first day is 5 to 6 months. <a href="/">CA Recruitment</a> manages the full permit process — you do not touch a form.</p>
@@ -124,7 +124,7 @@ faq:
     </tr>
     <tr>
       <td>CA Recruitment agency fee</td>
-      <td>No fee until placement is confirmed</td>
+      <td>Recruitment fee agreed upfront</td>
     </tr>
   </tbody>
 </table>
@@ -196,7 +196,7 @@ faq:
 <p>No. HIQA regulates your registered nursing home service, not your recruitment activity. You can run the LMNT, identify a candidate, and submit a permit application regardless of your current HIQA registration status. Staff must pass qualification verification and Garda vetting before their first day — this does not affect the permit timeline.</p>
 
 <h3>How much does it cost in total to hire a care worker from overseas in Ireland?</h3>
-<p>The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €16.12 per hour (€32,691 per year on a 39-hour week). CA Recruitment charges no fee until placement is confirmed — the consultation is free.</p>
+<p>The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €16.12 per hour (€32,691 per year on a 39-hour week). CA Recruitment's recruitment fee is agreed with you upfront and is separate from these government costs — the consultation is free.</p>
 
 <div class="callout callout-gold">
 <h2>Talk to CA Recruitment about hiring care workers from overseas</h2>
@@ -308,7 +308,7 @@ faq:
           "name": "How much does it cost in total to hire a care worker from overseas in Ireland?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €16.12 per hour (€32,691 per year on a 39-hour week). CA Recruitment charges no fee until placement is confirmed."
+            "text": "The DETE permit fee is €1,000. LMNT advertising typically adds €200 to €500. The minimum salary is €16.12 per hour (€32,691 per year on a 39-hour week). CA Recruitment's recruitment fee is agreed with you upfront and is separate from these government costs."
           }
         }
       ]

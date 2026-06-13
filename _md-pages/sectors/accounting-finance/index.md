@@ -1,6 +1,6 @@
 # Filipino Accounting and Finance Workers for Ireland — CA Recruitment
 
-CA Recruitment places vetted Filipino accounting and finance professionals with Irish employers. Permit type: General Employment Permit or Critical Skills Employment Permit depending on the role. No fee until placement.
+CA Recruitment places vetted Filipino accounting and finance professionals with Irish employers. Permit type: General Employment Permit or Critical Skills Employment Permit depending on the role.
 
 ## Roles Filled
 
