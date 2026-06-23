@@ -1,6 +1,6 @@
 ---
-title: "How to Hire Filipino Workers for Ireland in 2026: The Employer's Guide"
-description: "Step-by-step guide for Irish employers hiring Filipino workers. Covers DMW accreditation, Labour Market Needs Test, GEP permit, D-visa, and care qualifications. 6–8 months start to finish."
+title: "Hire Filipino Workers in Ireland (2026): Employer's Guide"
+description: "The complete guide for Irish employers hiring Filipino workers from the Philippines. Covers DMW accreditation, the Labour Market Needs Test, GEP permit, D-visa and the 6–8 month timeline."
 date: 2026-05-25
 category: Employer Guide
 readTime: "13 min"
