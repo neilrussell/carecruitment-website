@@ -109,7 +109,7 @@ There are exactly two exceptions: a genuine sole-employee situation (the worker 
   <p>The 50:50 ratio is the single most common preventable reason a permit gets refused. Our full <a href="/blog/50-50-rule-irish-employment-permits/">50:50 rule explainer</a> shows exactly how it's counted and where employers get caught. We check it free, before anything else moves.</p>
 </div>
 
-<h2 id="dete">DETE — Department of Enterprise, Trade and Employment</h2>
+<h2 id="dete">DETE — Department of Enterprise, Tourism and Employment</h2>
 
 DETE is the Irish government department that runs the employment permit system. It's the body that receives your application, assesses it against the rules above, and issues or refuses the permit. You'll see it written as DETE, sometimes still as DBEI (its older name), and its permit pages live at enterprise.gov.ie.
 

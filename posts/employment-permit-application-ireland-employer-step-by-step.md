@@ -30,7 +30,7 @@ related:
   - { url: "/blog/labour-market-needs-test-ireland-employer-guide/", label: "The Labour Market Needs Test explained" }
 faq:
   - q: "How does an Irish employer submit an employment permit application?"
-    a: "Applications are filed online through EPOS, the Employment Permits Online System run by the Department of Enterprise, Trade and Employment at epos.enterprise.gov.ie. You register an employer account, verify it with your Revenue and CRO details, complete the employer sections of the form, attach the document pack including the signed contract of employment, and pay the fee. The worker enters their own personal details in the same application, and all parties sign electronically before it is submitted."
+    a: "Applications are filed online through EPOS, the Employment Permits Online System run by the Department of Enterprise, Tourism and Employment at epos.enterprise.gov.ie. You register an employer account, verify it with your Revenue and CRO details, complete the employer sections of the form, attach the document pack including the signed contract of employment, and pay the fee. The worker enters their own personal details in the same application, and all parties sign electronically before it is submitted."
   - q: "Who can apply for an employment permit in Ireland — the employer or the worker?"
     a: "Either can. For both the General Employment Permit and the Critical Skills Employment Permit, the application can be made by the prospective employer or by the foreign national, and an appointed agent can file it on behalf of either party. In practice most applications are employer-led, because the employer holds the contract, the Revenue and CRO details and, where needed, the Labour Market Needs Test record."
   - q: "How early do I need to submit an employment permit application?"
@@ -49,7 +49,7 @@ faq:
 
 <h2 id="where">Where applications are filed: EPOS</h2>
 
-<p>Every employment permit application is filed online through <strong>EPOS — the Employment Permits Online System</strong> — at epos.enterprise.gov.ie, run by the Department of Enterprise, Trade and Employment. The current system launched on 28 April 2025 and replaced the older online forms.</p>
+<p>Every employment permit application is filed online through <strong>EPOS — the Employment Permits Online System</strong> — at epos.enterprise.gov.ie, run by the Department of Enterprise, Tourism and Employment. The current system launched on 28 April 2025 and replaced the older online forms.</p>
 
 <p>EPOS works on separate accounts for each party. There is an employer account, an employee (worker) account, and an agent account. A single application is built collaboratively: you fill in the employer sections, the worker enters their own personal information from their own account, and if an agent is appointed they complete the parts for whoever they represent. Everyone signs electronically before it goes in.</p>
 

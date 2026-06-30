@@ -45,7 +45,7 @@ faq:
 
 <h2 id="is-it-legal">Is It Legal? What Permit Route Applies?</h2>
 
-<p>Yes. Irish law provides a clear legal route for employers to hire non-EEA workers when a role cannot be filled locally. The main route is the <strong>General Employment Permit (GEP)</strong>, managed by DETE (Ireland's Department of Enterprise, Trade and Employment).</p>
+<p>Yes. Irish law provides a clear legal route for employers to hire non-EEA workers when a role cannot be filled locally. The main route is the <strong>General Employment Permit (GEP)</strong>, managed by DETE (Ireland's Department of Enterprise, Tourism and Employment).</p>
 
 <p>The GEP covers most sectors and most occupations. There are two salary thresholds:</p>
 

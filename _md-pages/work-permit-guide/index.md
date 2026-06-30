@@ -4,7 +4,7 @@ CA Recruitment manages the full DETE employment permit process for Irish and UK 
 
 ## What Is an Irish Employment Permit?
 
-An Irish employment permit is a legal authorisation that allows a non-EEA national to work in Ireland in a specific job with a specific employer. Permits are issued by the Department of Enterprise, Trade and Employment (DETE). Without a valid permit, it is illegal to employ a non-EEA national in Ireland.
+An Irish employment permit is a legal authorisation that allows a non-EEA national to work in Ireland in a specific job with a specific employer. Permits are issued by the Department of Enterprise, Tourism and Employment (DETE). Without a valid permit, it is illegal to employ a non-EEA national in Ireland.
 
 ## The Two Main Permit Types
 

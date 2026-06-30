@@ -70,7 +70,7 @@ faq:
 
 <h2 id="eligible">Chefs Are Eligible for the General Employment Permit</h2>
 
-<p>This is the part many employers don't realise: there is no blanket ban on hiring a non-EU chef in Ireland. Chef roles are eligible for the <strong>General Employment Permit (GEP)</strong> — the standard permit issued by DETE (Ireland's Department of Enterprise, Trade and Employment) for hospitality and most other sectors.</p>
+<p>This is the part many employers don't realise: there is no blanket ban on hiring a non-EU chef in Ireland. Chef roles are eligible for the <strong>General Employment Permit (GEP)</strong> — the standard permit issued by DETE (Ireland's Department of Enterprise, Tourism and Employment) for hospitality and most other sectors.</p>
 
 <p>That means a restaurant, hotel, or pub can lawfully recruit a chef from outside the EEA, sponsor them on a GEP, and bring them into the kitchen. The worker has the same employment rights as any Irish or EEA employee — a legal requirement under the Employment Permits Acts, enforced by the WRC (Workplace Relations Commission).</p>
 

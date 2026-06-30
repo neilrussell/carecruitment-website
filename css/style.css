@@ -1824,3 +1824,29 @@ footer {
   .whatsapp-float { display: none; }
   body { padding-bottom: 72px; }
 }
+
+
+/* ── MEGA-MENU DROPDOWNS ── */
+.nav-links .has-dropdown { position: relative; }
+.nav-links .has-dropdown > a::after { content: "\25BE"; font-size: 0.7em; margin-left: 5px; opacity: 0.65; }
+.nav-links .dropdown {
+  position: absolute; top: 100%; left: 0; min-width: 252px;
+  background: #fff; border: 1px solid #e3e8ee; border-radius: 10px;
+  box-shadow: 0 14px 34px rgba(15,42,67,0.16);
+  padding: 8px; margin: 0; list-style: none;
+  opacity: 0; visibility: hidden; transform: translateY(6px);
+  transition: opacity 0.14s, transform 0.14s; z-index: 250;
+}
+.nav-links .has-dropdown:hover .dropdown,
+.nav-links .has-dropdown:focus-within .dropdown { opacity: 1; visibility: visible; transform: translateY(0); }
+.nav-links .dropdown li { display: block; }
+.nav-links .dropdown a { display: block; padding: 9px 12px; border-radius: 7px; white-space: nowrap; color: #1c2530; font-weight: 500; }
+.nav-links .dropdown a:hover { background: #f4f6f8; color: #0f2a43; }
+.mobile-menu .mm-label { padding: 14px 24px 4px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--gold-light); font-weight: 700; }
+.mobile-menu ul li.mm-label { border: none; }
+.mobile-menu ul li.mm-label + li a,
+.mobile-menu .dropdown { }
+
+/* ── NAV STACKING FIX (breadcrumb is also a <nav>, was inheriting sticky+z-index:200 and covering dropdowns) ── */
+.site-nav { z-index: 1000; }
+nav.breadcrumb { position: static; z-index: auto; }

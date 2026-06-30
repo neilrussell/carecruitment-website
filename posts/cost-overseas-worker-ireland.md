@@ -96,7 +96,7 @@ faq:
 
 <h2 id="dete-permit-fee">The DETE Employment Permit Fee</h2>
 
-<p>The General Employment Permit (GEP) is the standard permit type for employers hiring in agriculture, construction, hospitality, and care. The application fee is <strong>€1,000</strong>, paid to DETE (Ireland's Department of Enterprise, Trade and Employment) at the time of submission.</p>
+<p>The General Employment Permit (GEP) is the standard permit type for employers hiring in agriculture, construction, hospitality, and care. The application fee is <strong>€1,000</strong>, paid to DETE (Ireland's Department of Enterprise, Tourism and Employment) at the time of submission.</p>
 
 <p>If an application is refused, DETE refunds 90% of the fee — €900 back on a €1,000 application. The remaining 10% (€100) is retained to cover processing costs. No refund applies if the employer withdraws a completed application.</p>
 

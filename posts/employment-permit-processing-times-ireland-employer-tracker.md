@@ -29,7 +29,7 @@ related:
   - { url: "/blog/critical-skills-list-ireland-employer-check-2026/", label: "Critical Skills list — employer check" }
 faq:
   - q: "How long does a work permit take to process in Ireland right now?"
-    a: "As of 23 June 2026, the Department of Enterprise, Trade and Employment (DETE) is deciding New General Employment Permit applications received on 14 May 2026 — roughly a six-week queue — and Critical Skills Employment Permit applications received on 10 June 2026, around a two-week queue. These are the decision-stage waits only. The full journey from starting the process to the worker's first day is longer, because the Labour Market Needs Test, the entry visa and travel sit either side of the permit decision."
+    a: "As of 23 June 2026, the Department of Enterprise, Tourism and Employment (DETE) is deciding New General Employment Permit applications received on 14 May 2026 — roughly a six-week queue — and Critical Skills Employment Permit applications received on 10 June 2026, around a two-week queue. These are the decision-stage waits only. The full journey from starting the process to the worker's first day is longer, because the Labour Market Needs Test, the entry visa and travel sit either side of the permit decision."
   - q: "What is the difference between the DETE processing date and the total hiring timeline?"
     a: "The DETE processing date tells you which day's applications the department is currently deciding — it measures only the time your application sits in the decision queue. The total hiring timeline also includes the 28-day Labour Market Needs Test beforehand (for most General Employment Permits), then the entry visa, travel and immigration registration afterwards. For a General Employment Permit hire, around six months from start to first day is realistic."
   - q: "Is a Critical Skills Employment Permit faster than a General Employment Permit?"
@@ -40,7 +40,7 @@ faq:
     a: "We can't change DETE's decision queue, but we remove the delays that are inside your control. We run the Labour Market Needs Test correctly the first time, prepare the application so it isn't returned for corrections, and manage the visa and travel steps in parallel. Most lost time comes from avoidable errors, not the department — that is the part we fix."
 ---
 
-<p class="lead">Before you offer the job, you need a real answer to one question: when can this person actually start? This page tracks the current Department of Enterprise, Trade and Employment (DETE) processing dates and sets them inside the full hire-to-start timeline — so you can plan a start date you can stand over, not a guess.</p>
+<p class="lead">Before you offer the job, you need a real answer to one question: when can this person actually start? This page tracks the current Department of Enterprise, Tourism and Employment (DETE) processing dates and sets them inside the full hire-to-start timeline — so you can plan a start date you can stand over, not a guess.</p>
 
 The headline processing date is only one stage of the journey. Quote it on its own and you will promise a start date you can't hit. Below are the current decision-queue dates, what they mean in practice, and the steps that sit either side of them.
 

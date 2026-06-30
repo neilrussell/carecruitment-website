@@ -87,7 +87,7 @@ faq:
 
 <h2 id="the-route">The Overseas Route: The General Employment Permit</h2>
 
-<p>Construction trades sit <strong>outside the Critical Skills list</strong>. That has one important consequence for employers: skilled construction roles are filled through the <a href="/work-permit-guide/">General Employment Permit (GEP)</a>, the standard permit issued by DETE (Ireland's Department of Enterprise, Trade and Employment), and the GEP route requires a Labour Market Needs Test first.</p>
+<p>Construction trades sit <strong>outside the Critical Skills list</strong>. That has one important consequence for employers: skilled construction roles are filled through the <a href="/work-permit-guide/">General Employment Permit (GEP)</a>, the standard permit issued by DETE (Ireland's Department of Enterprise, Tourism and Employment), and the GEP route requires a Labour Market Needs Test first.</p>
 
 <p>That single point, the LMNT requirement, is where most contractors get stuck or get it wrong. It is also exactly what CA Recruitment manages for you. We cover the LMNT in plain English below.</p>
 

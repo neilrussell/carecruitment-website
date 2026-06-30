@@ -47,7 +47,7 @@ faq:
 
 <h2 id="short-answer">The short answer</h2>
 
-<p>Yes. Irish employers can hire electricians, plumbers, and other qualified tradespeople from outside the EU. The route is a <a href="/work-permit-guide/">General Employment Permit (GEP)</a> issued by DETE (Ireland's Department of Enterprise, Trade and Employment).</p>
+<p>Yes. Irish employers can hire electricians, plumbers, and other qualified tradespeople from outside the EU. The route is a <a href="/work-permit-guide/">General Employment Permit (GEP)</a> issued by DETE (Ireland's Department of Enterprise, Tourism and Employment).</p>
 
 <p>It is not a shortcut around local hiring. Before DETE will consider a permit application, you must advertise the role for 28 days and show that no suitable EEA candidate applied.</p>
 

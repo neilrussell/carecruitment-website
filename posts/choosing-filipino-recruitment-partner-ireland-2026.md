@@ -70,7 +70,7 @@ faq:
 
 <h2 id="criterion-2-dete">2. DETE permit expertise — GEP process, LMNT, fee structures</h2>
 
-<p>The Irish side of the process is managed through DETE (Ireland's Department of Enterprise, Trade and Employment) via the EPOS portal. It requires specific knowledge that general recruitment agencies typically do not have.</p>
+<p>The Irish side of the process is managed through DETE (Ireland's Department of Enterprise, Tourism and Employment) via the EPOS portal. It requires specific knowledge that general recruitment agencies typically do not have.</p>
 
 <p>The General Employment Permit (GEP) is the permit type used for most Filipino worker placements in Ireland. Before it can be applied for, the employer must complete a Labour Market Needs Test: 28 days of mandatory advertising on Jobs Ireland (which is the DSP Employment Services/EURES portal) and at least one additional commercial platform, with full documentation of every application received and reasons for not progressing Irish or EU candidates. DETE can audit this documentation after the permit is issued.</p>
 

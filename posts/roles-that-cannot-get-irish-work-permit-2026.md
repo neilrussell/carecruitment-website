@@ -27,7 +27,7 @@ related:
   - { url: "/blog/hiring-non-eu-workers-ireland-guide/", label: "Hiring non-EU workers in Ireland: the full guide" }
 faq:
   - q: "What is the Ineligible List of Occupations for employment permits in Ireland?"
-    a: "It's the official list of jobs that cannot be filled on an Irish employment permit. It is set out in Schedule 4 of the Employment Permits Regulations and maintained by the Department of Enterprise, Trade and Employment (DETE). If an occupation is on this list, you cannot sponsor a non-EEA worker for it under a General Employment Permit or a Critical Skills Employment Permit — regardless of the salary you offer. The list is built on Standard Occupational Classification (SOC) codes, and some broad categories include narrow exceptions for specific roles, so the occupation code matters more than your internal job title."
+    a: "It's the official list of jobs that cannot be filled on an Irish employment permit. It is set out in Schedule 4 of the Employment Permits Regulations and maintained by the Department of Enterprise, Tourism and Employment (DETE). If an occupation is on this list, you cannot sponsor a non-EEA worker for it under a General Employment Permit or a Critical Skills Employment Permit — regardless of the salary you offer. The list is built on Standard Occupational Classification (SOC) codes, and some broad categories include narrow exceptions for specific roles, so the occupation code matters more than your internal job title."
   - q: "Can a high salary get around the ineligible list?"
     a: "No. This is the point employers most often get wrong. The €68,911 high-salary route on the Critical Skills Employment Permit lets you hire for occupations that aren't on the Critical Skills list — but it explicitly excludes anything on the Ineligible List of Occupations. If your role is ineligible, no salary makes it eligible. The only way through is if a specific exception or quota applies to your exact role, or the occupation is removed from the list in a future amendment."
   - q: "Which roles were removed from Ireland's ineligible list in 2026?"
@@ -46,7 +46,7 @@ faq:
 
 ## The short answer {#short-answer}
 
-The Ineligible List of Occupations is the Irish State's list of jobs that are closed to employment permits. It's set out in Schedule 4 of the Employment Permits Regulations and maintained by <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/employment-permit-eligibility/ineligible-categories-of-employment/" target="_blank" rel="noopener">DETE — Ireland's Department of Enterprise, Trade and Employment</a>.
+The Ineligible List of Occupations is the Irish State's list of jobs that are closed to employment permits. It's set out in Schedule 4 of the Employment Permits Regulations and maintained by <a href="https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/employment-permit-eligibility/ineligible-categories-of-employment/" target="_blank" rel="noopener">DETE — Ireland's Department of Enterprise, Tourism and Employment</a>.
 
 <p>One fact drives everything else on this page: <strong>if an occupation is on the ineligible list, no salary makes it eligible.</strong> A General Employment Permit won't be granted. A Critical Skills permit won't be granted. Even the high-salary route that lets you hire for unlisted occupations at €68,911 or above explicitly excludes anything on the ineligible list. The door is closed unless a specific exception applies.</p>
 

@@ -41,7 +41,7 @@ faq:
     a: "Yes. Filipino chefs are well-suited to professional kitchen roles — strong formal culinary training, English proficiency, and a structured departure process through the Philippines' Department of Migrant Workers. The permit route is the same General Employment Permit used across all sectors. CA Recruitment is DMW-accredited for Ireland and manages the full process on both sides of the placement."
 ---
 
-<p>If you run a hotel, restaurant, or food service operation in Ireland and you cannot fill a chef role locally, you are not alone — and you are not out of options. Chef de Partie, Sous Chef, and Head Chef are all eligible for a General Employment Permit (GEP) from DETE, Ireland's Department of Enterprise, Trade and Employment. The process exists, it works, and Irish hospitality businesses use it regularly.</p>
+<p>If you run a hotel, restaurant, or food service operation in Ireland and you cannot fill a chef role locally, you are not alone — and you are not out of options. Chef de Partie, Sous Chef, and Head Chef are all eligible for a General Employment Permit (GEP) from DETE, Ireland's Department of Enterprise, Tourism and Employment. The process exists, it works, and Irish hospitality businesses use it regularly.</p>
 
 <p>This guide explains how hiring a chef from overseas in Ireland actually works — the permit route, the timeline, what it costs, and where most employers get stuck. By the end, you will know whether it makes sense for your situation and what to do next.</p>
 

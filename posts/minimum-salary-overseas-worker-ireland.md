@@ -39,7 +39,7 @@ faq:
 
 <p>It is the first question almost every employer asks us: <em>what do I actually have to pay?</em> There is no single number. The minimum an employment permit requires depends on the role, and the gap between the bands is wide — the figure for a care assistant is a long way off the figure for a carpenter.</p>
 
-<p>Here are the 2026 thresholds set by the Department of Enterprise, Trade and Employment (DETE) and the relevant Sectoral Employment Orders, by role — and, just as importantly, why that number is not the overseas premium it can look like at first glance.</p>
+<p>Here are the 2026 thresholds set by the Department of Enterprise, Tourism and Employment (DETE) and the relevant Sectoral Employment Orders, by role — and, just as importantly, why that number is not the overseas premium it can look like at first glance.</p>
 
 <h2 id="short-answer">The short answer, by role</h2>
 

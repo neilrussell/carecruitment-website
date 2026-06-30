@@ -23,7 +23,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=DM+Sans:wght@400;500;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet"></noscript>
-  <link rel="stylesheet" href="/css/style.css?v=18">
+  <link rel="stylesheet" href="/css/style.css?v=19">
   <!-- Google Consent Mode v2 — must precede GTM -->
   <script>
   window.dataLayer = window.dataLayer || [];
@@ -131,7 +131,7 @@
         "name": "What is an Irish employment permit?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "An Irish employment permit is a legal authorisation that allows a non-EEA national to work in Ireland in a specific job with a specific employer. Employment permits are issued by the Department of Enterprise, Trade and Employment (DETE). Without a valid permit, it is illegal to employ a non-EEA national in Ireland."
+          "text": "An Irish employment permit is a legal authorisation that allows a non-EEA national to work in Ireland in a specific job with a specific employer. Employment permits are issued by the Department of Enterprise, Tourism and Employment (DETE). Without a valid permit, it is illegal to employ a non-EEA national in Ireland."
         }
       },
       {
@@ -232,10 +232,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </a>
     <ul class="nav-links" role="list">
-      <li><a href="/#services">Sectors</a></li>
-      <li><a href="/work-permit-guide/" class="active">Work Permit Guide</a></li>
-      <li><a href="/#how">How It Works</a></li>
-      <li><a href="/faq/">FAQ</a></li>
+      <li class="has-dropdown"><a href="/sectors/">Sectors</a>
+        <ul class="dropdown" role="list">
+          <li><a href="/sectors/agriculture/">Agriculture &amp; Farming</a></li>
+          <li><a href="/sectors/construction/">Construction</a></li>
+          <li><a href="/sectors/healthcare/">Healthcare</a></li>
+          <li><a href="/sectors/care-social-services/">Care &amp; Social Services</a></li>
+          <li><a href="/sectors/hospitality/">Hospitality</a></li>
+          <li><a href="/sectors/logistics-warehousing/">Logistics &amp; Warehousing</a></li>
+          <li><a href="/sectors/manufacturing/">Manufacturing</a></li>
+          <li><a href="/sectors/accounting-finance/">Accounting &amp; Finance</a></li>
+          <li><a href="/sectors/retail/">Retail</a></li>
+          <li><a href="/sectors/">View all sectors &rarr;</a></li>
+        </ul>
+      </li>
+      <li class="has-dropdown"><a href="/employment-permits/">Employment Permits</a>
+        <ul class="dropdown" role="list">
+          <li><a href="/employment-permits/general-employment-permit/">General Employment Permit</a></li>
+          <li><a href="/employment-permits/critical-skills-employment-permit/">Critical Skills Permit</a></li>
+          <li><a href="/work-permit-guide/">Work Permit Guide</a></li>
+          <li><a href="/blog/labour-market-needs-test-ireland-employer-guide/">Labour Market Needs Test</a></li>
+        </ul>
+      </li>
+      <li class="has-dropdown"><a href="/locations/">Locations</a>
+        <ul class="dropdown" role="list">
+          <li><a href="/locations/dublin/">Dublin</a></li>
+          <li><a href="/locations/cork/">Cork</a></li>
+          <li><a href="/locations/galway/">Galway</a></li>
+          <li><a href="/locations/limerick/">Limerick</a></li>
+          <li><a href="/locations/waterford/">Waterford</a></li>
+          <li><a href="/locations/">All service areas &rarr;</a></li>
+        </ul>
+      </li>
+      <li><a href="/reviews/">Reviews</a></li>
       <li><a href="/about/">About</a></li>
       <li><a href="/blog/">Blog</a></li>
       <li><a href="/contact/">Contact Us</a></li>
@@ -261,10 +290,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- Mobile Menu -->
 <div class="mobile-menu" id="mobile-menu" role="navigation" aria-label="Mobile navigation">
   <ul role="list">
-    <li><a href="/#services">Sectors</a></li>
+    <li class="mm-label">Sectors</li>
+    <li><a href="/sectors/">All sectors</a></li>
+    <li><a href="/sectors/agriculture/">Agriculture &amp; Farming</a></li>
+    <li><a href="/sectors/construction/">Construction</a></li>
+    <li><a href="/sectors/healthcare/">Healthcare</a></li>
+    <li><a href="/sectors/care-social-services/">Care &amp; Social Services</a></li>
+    <li><a href="/sectors/hospitality/">Hospitality</a></li>
+    <li><a href="/sectors/logistics-warehousing/">Logistics &amp; Warehousing</a></li>
+    <li><a href="/sectors/manufacturing/">Manufacturing</a></li>
+    <li><a href="/sectors/accounting-finance/">Accounting &amp; Finance</a></li>
+    <li><a href="/sectors/retail/">Retail</a></li>
+    <li class="mm-label">Employment Permits</li>
+    <li><a href="/employment-permits/">All permits</a></li>
+    <li><a href="/employment-permits/general-employment-permit/">General Employment Permit</a></li>
+    <li><a href="/employment-permits/critical-skills-employment-permit/">Critical Skills Permit</a></li>
     <li><a href="/work-permit-guide/">Work Permit Guide</a></li>
-    <li><a href="/#how">How It Works</a></li>
-    <li><a href="/faq/">FAQ</a></li>
+    <li class="mm-label">Locations</li>
+    <li><a href="/locations/">All service areas</a></li>
+    <li><a href="/locations/dublin/">Dublin</a></li>
+    <li><a href="/locations/cork/">Cork</a></li>
+    <li><a href="/locations/galway/">Galway</a></li>
+    <li><a href="/locations/limerick/">Limerick</a></li>
+    <li><a href="/locations/waterford/">Waterford</a></li>
+    <li class="mm-label">More</li>
+    <li><a href="/reviews/">Reviews</a></li>
     <li><a href="/about/">About</a></li>
     <li><a href="/blog/">Blog</a></li>
     <li><a href="/contact/">Contact Us</a></li>
@@ -327,7 +377,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <h2 id="what-is">What is an Irish Employment Permit?</h2>
     <p>An Irish employment permit is a legal authorisation that allows a non-EEA national (including citizens of countries outside the EU, EEA, and Switzerland) to work in Ireland in a specific job with a specific employer.</p>
-    <p>Employment permits are issued by the Department of Enterprise, Trade and Employment (DETE). Without a valid permit, it is illegal to employ a non-EEA national in Ireland — and both the employer and the worker can face serious consequences if this rule is breached.</p>
+    <p>Employment permits are issued by the Department of Enterprise, Tourism and Employment (DETE). Without a valid permit, it is illegal to employ a non-EEA national in Ireland — and both the employer and the worker can face serious consequences if this rule is breached.</p>
     <p>Filipino nationals require an employment permit to work in Ireland. As Irish employers face a significant and ongoing labour shortage in many sectors, the employment permit system is the main legal route for hiring overseas workers from the Philippines.</p>
 
     <div class="callout callout-gold">
@@ -747,9 +797,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <span class="footer-logo-text">CA Recruitment</span>
     </div>
     <ul class="footer-links">
-      <li><a href="/#services">Sectors</a></li>
+      <li><a href="/sectors/">Sectors</a></li>
+      <li><a href="/employment-permits/">Employment Permits</a></li>
+      <li><a href="/locations/">Locations</a></li>
       <li><a href="/work-permit-guide/">Work Permit Guide</a></li>
-      <li><a href="/#how">How It Works</a></li>
+      <li><a href="/reviews/">Reviews</a></li>
       <li><a href="/faq/">FAQ</a></li>
       <li><a href="/about/">About</a></li>
       <li><a href="/blog/">Blog</a></li>

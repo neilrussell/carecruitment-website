@@ -21,7 +21,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=DM+Sans:wght@400;500;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet"></noscript>
-  <link rel="stylesheet" href="/css/style.css?v=18">
+  <link rel="stylesheet" href="/css/style.css?v=19">
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -108,10 +108,39 @@
       <div class="nav-logo-text">CA Recruitment</div>
     </a>
     <ul class="nav-links" role="list">
-      <li><a href="/#services">Sectors</a></li>
-      <li><a href="/work-permit-guide/">Work Permit Guide</a></li>
-      <li><a href="/#how">How It Works</a></li>
-      <li><a href="/faq/">FAQ</a></li>
+      <li class="has-dropdown"><a href="/sectors/">Sectors</a>
+        <ul class="dropdown" role="list">
+          <li><a href="/sectors/agriculture/">Agriculture &amp; Farming</a></li>
+          <li><a href="/sectors/construction/">Construction</a></li>
+          <li><a href="/sectors/healthcare/">Healthcare</a></li>
+          <li><a href="/sectors/care-social-services/">Care &amp; Social Services</a></li>
+          <li><a href="/sectors/hospitality/">Hospitality</a></li>
+          <li><a href="/sectors/logistics-warehousing/">Logistics &amp; Warehousing</a></li>
+          <li><a href="/sectors/manufacturing/">Manufacturing</a></li>
+          <li><a href="/sectors/accounting-finance/">Accounting &amp; Finance</a></li>
+          <li><a href="/sectors/retail/">Retail</a></li>
+          <li><a href="/sectors/">View all sectors &rarr;</a></li>
+        </ul>
+      </li>
+      <li class="has-dropdown"><a href="/employment-permits/">Employment Permits</a>
+        <ul class="dropdown" role="list">
+          <li><a href="/employment-permits/general-employment-permit/">General Employment Permit</a></li>
+          <li><a href="/employment-permits/critical-skills-employment-permit/">Critical Skills Permit</a></li>
+          <li><a href="/work-permit-guide/">Work Permit Guide</a></li>
+          <li><a href="/blog/labour-market-needs-test-ireland-employer-guide/">Labour Market Needs Test</a></li>
+        </ul>
+      </li>
+      <li class="has-dropdown"><a href="/locations/">Locations</a>
+        <ul class="dropdown" role="list">
+          <li><a href="/locations/dublin/">Dublin</a></li>
+          <li><a href="/locations/cork/">Cork</a></li>
+          <li><a href="/locations/galway/">Galway</a></li>
+          <li><a href="/locations/limerick/">Limerick</a></li>
+          <li><a href="/locations/waterford/">Waterford</a></li>
+          <li><a href="/locations/">All service areas &rarr;</a></li>
+        </ul>
+      </li>
+      <li><a href="/reviews/">Reviews</a></li>
       <li><a href="/about/">About</a></li>
       <li><a href="/blog/" class="active">Blog</a></li>
       <li><a href="/contact/">Contact Us</a></li>
@@ -126,7 +155,35 @@
 </nav>
 <div class="mobile-menu" id="mobile-menu" role="navigation" aria-label="Mobile navigation">
   <ul role="list">
-    <li><a href="/#services">Sectors</a></li><li><a href="/work-permit-guide/">Work Permit Guide</a></li><li><a href="/#how">How It Works</a></li><li><a href="/faq/">FAQ</a></li><li><a href="/about/">About</a></li><li><a href="/blog/">Blog</a></li><li><a href="/contact/">Contact Us</a></li><li><a href="https://wa.me/353894166124" target="_blank" rel="noopener">WhatsApp</a></li>
+    <li class="mm-label">Sectors</li>
+    <li><a href="/sectors/">All sectors</a></li>
+    <li><a href="/sectors/agriculture/">Agriculture &amp; Farming</a></li>
+    <li><a href="/sectors/construction/">Construction</a></li>
+    <li><a href="/sectors/healthcare/">Healthcare</a></li>
+    <li><a href="/sectors/care-social-services/">Care &amp; Social Services</a></li>
+    <li><a href="/sectors/hospitality/">Hospitality</a></li>
+    <li><a href="/sectors/logistics-warehousing/">Logistics &amp; Warehousing</a></li>
+    <li><a href="/sectors/manufacturing/">Manufacturing</a></li>
+    <li><a href="/sectors/accounting-finance/">Accounting &amp; Finance</a></li>
+    <li><a href="/sectors/retail/">Retail</a></li>
+    <li class="mm-label">Employment Permits</li>
+    <li><a href="/employment-permits/">All permits</a></li>
+    <li><a href="/employment-permits/general-employment-permit/">General Employment Permit</a></li>
+    <li><a href="/employment-permits/critical-skills-employment-permit/">Critical Skills Permit</a></li>
+    <li><a href="/work-permit-guide/">Work Permit Guide</a></li>
+    <li class="mm-label">Locations</li>
+    <li><a href="/locations/">All service areas</a></li>
+    <li><a href="/locations/dublin/">Dublin</a></li>
+    <li><a href="/locations/cork/">Cork</a></li>
+    <li><a href="/locations/galway/">Galway</a></li>
+    <li><a href="/locations/limerick/">Limerick</a></li>
+    <li><a href="/locations/waterford/">Waterford</a></li>
+    <li class="mm-label">More</li>
+    <li><a href="/reviews/">Reviews</a></li>
+    <li><a href="/about/">About</a></li>
+    <li><a href="/blog/">Blog</a></li>
+    <li><a href="/contact/">Contact Us</a></li>
+    <li><a href="https://wa.me/353894166124" target="_blank" rel="noopener">WhatsApp</a></li>
   </ul>
 </div>
 
@@ -191,7 +248,7 @@
     <p>You have 90 days from the initial advertisement date to submit the permit application. Running candidate sourcing in parallel — screening Filipino applicants while the 28-day clock runs — keeps the overall timeline tight.</p>
 
     <h3>Step 3 — DETE GEP application</h3>
-    <p>After the LMNT closes, the permit application goes to DETE (Ireland's Department of Enterprise, Trade and Employment) through the Employment Permits Online system. This is the employer's application. You provide the signed job offer, LMNT records, tax registration details, and workforce headcount for the 50/50 check.</p>
+    <p>After the LMNT closes, the permit application goes to DETE (Ireland's Department of Enterprise, Tourism and Employment) through the Employment Permits Online system. This is the employer's application. You provide the signed job offer, LMNT records, tax registration details, and workforce headcount for the 50/50 check.</p>
     <p>Key numbers for the application:</p>
     <ul>
       <li>Minimum pay: <strong>€16.12/hour</strong> — €32,691/year on a 39-hour week, €33,529.60 on a 40-hour week (basic pay only; bonuses, shift allowances, and overtime do not count)</li>
@@ -393,7 +450,18 @@
 <footer>
   <div class="footer-inner">
     <div class="footer-logo"><div class="footer-logo-mark"><img src="/images/ca-logo-88.webp" alt="CA Recruitment" width="88" height="88"></div><span class="footer-logo-text">CA Recruitment</span></div>
-    <ul class="footer-links"><li><a href="/#services">Sectors</a></li><li><a href="/work-permit-guide/">Work Permit Guide</a></li><li><a href="/#how">How It Works</a></li><li><a href="/faq/">FAQ</a></li><li><a href="/about/">About</a></li><li><a href="/blog/">Blog</a></li><li><a href="/contact/">Contact Us</a></li><li><a href="https://wa.me/353894166124" target="_blank" rel="noopener">WhatsApp</a></li></ul>
+    <ul class="footer-links">
+      <li><a href="/sectors/">Sectors</a></li>
+      <li><a href="/employment-permits/">Employment Permits</a></li>
+      <li><a href="/locations/">Locations</a></li>
+      <li><a href="/work-permit-guide/">Work Permit Guide</a></li>
+      <li><a href="/reviews/">Reviews</a></li>
+      <li><a href="/faq/">FAQ</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/blog/">Blog</a></li>
+      <li><a href="/contact/">Contact Us</a></li>
+      <li><a href="https://wa.me/353894166124" target="_blank" rel="noopener">WhatsApp</a></li>
+    </ul>
     <p class="footer-legal">&copy; 2026 CA Recruitment. All rights reserved. Filipino-owned. Ireland-based. Licensed employment agency (WRC Licence No. EA 5444). Employment permit process support for Irish and UK employers.<br>14 The Meadows, Ballyporeen, Co. Tipperary, E21 E260, Ireland &nbsp;&middot;&nbsp; Tel: <a href="tel:+353894166124">+353 89 416 6124</a> &nbsp;&middot;&nbsp; <a href="/privacy/">Privacy</a> &nbsp;&middot;&nbsp; <a href="/terms/">Terms</a></p>
   </div>
 </footer>

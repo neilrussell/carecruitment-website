@@ -52,7 +52,7 @@ faq:
 
 <p>Yes — for skilled and professional roles. The Irish employment permit system distinguishes between skilled occupations and elementary labour, and that distinction matters for construction employers.</p>
 
-<p>Roles that qualify for a <a href="/work-permit-guide/">General Employment Permit (GEP)</a> from DETE (Ireland's Department of Enterprise, Trade and Employment) include:</p>
+<p>Roles that qualify for a <a href="/work-permit-guide/">General Employment Permit (GEP)</a> from DETE (Ireland's Department of Enterprise, Tourism and Employment) include:</p>
 
 <ul>
   <li>Mechanical engineer</li>

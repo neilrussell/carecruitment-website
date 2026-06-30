@@ -28,7 +28,7 @@ faq:
   - q: "How do I know if a role is on Ireland's Critical Skills Occupations List?"
     a: "Check the official Critical Skills Occupations List on enterprise.gov.ie against the role's Standard Occupational Classification (SOC) code, not just its job title. The list is built around occupation codes, so a role can qualify under a category that sounds different from your internal job title. If the occupation appears and you are paying at least €40,904 a year (or €36,848 where the qualification was obtained in the 12 months before applying), the Critical Skills Employment Permit route is open. If the occupation isn't listed, you can still qualify for that permit by paying €68,911 or more — otherwise the role goes via the General Employment Permit."
   - q: "What is the minimum salary for a Critical Skills Employment Permit in Ireland in 2026?"
-    a: "€40,904 a year for occupations on the Critical Skills Occupations List that require a relevant degree. A reduced floor of €36,848 applies where the worker obtained the qualification within the 12 months before the application. For any occupation not on the list, the threshold is €68,911. These are basic-pay figures set by the Department of Enterprise, Trade and Employment and they are reviewed periodically, so confirm the current figure before you advertise a salary."
+    a: "€40,904 a year for occupations on the Critical Skills Occupations List that require a relevant degree. A reduced floor of €36,848 applies where the worker obtained the qualification within the 12 months before the application. For any occupation not on the list, the threshold is €68,911. These are basic-pay figures set by the Department of Enterprise, Tourism and Employment and they are reviewed periodically, so confirm the current figure before you advertise a salary."
   - q: "Is a registered nurse on the Critical Skills list but a healthcare assistant is not?"
     a: "Yes. Registered nurses and registered midwives sit on the Critical Skills Occupations List, so they qualify for the Critical Skills Employment Permit with no Labour Market Needs Test. Healthcare assistants and home support workers are not on that list — they are hired through the General Employment Permit, which has a lower salary floor (€16.12 an hour, €32,691 a year at 39 hours) and does require the 28-day Labour Market Needs Test. The two routes look similar but run differently, which is why it pays to confirm the route before you advertise."
   - q: "What's the advantage of a role being on the Critical Skills list?"
@@ -55,7 +55,7 @@ Three questions decide it. Work through them in order.
 
 ## What's actually on the list {#on-the-list}
 
-The Critical Skills Occupations List exists to fill roles Ireland has identified as genuine skills shortages. It is reviewed by the Expert Group on Future Skills Needs and published by the Department of Enterprise, Trade and Employment. Rather than reproduce every SOC code, here are the broad categories an employer is most likely to be hiring within:
+The Critical Skills Occupations List exists to fill roles Ireland has identified as genuine skills shortages. It is reviewed by the Expert Group on Future Skills Needs and published by the Department of Enterprise, Tourism and Employment. Rather than reproduce every SOC code, here are the broad categories an employer is most likely to be hiring within:
 
 <ul>
 <li><strong>Healthcare:</strong> medical practitioners, registered nurses, registered midwives, physiotherapists, radiographers and other allied health professionals.</li>
@@ -74,7 +74,7 @@ The Critical Skills Occupations List exists to fill roles Ireland has identified
 
 ## The salary floor that decides it {#salary-floor}
 
-Even when an occupation is on the list, the salary you offer has to clear a threshold. As set by the Department of Enterprise, Trade and Employment, the current Critical Skills floors are:
+Even when an occupation is on the list, the salary you offer has to clear a threshold. As set by the Department of Enterprise, Tourism and Employment, the current Critical Skills floors are:
 
 <div class="table-scroll">
 <table class="guide-table">
