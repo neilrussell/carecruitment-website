@@ -1,8 +1,8 @@
 ---
 title: "Employment Permit Processing Times in Ireland (2026): When Can Your New Hire Actually Start?"
-description: "Live DETE employment permit processing dates for Irish employers, plus the full hire-to-start timeline — LMNT, decision queue, visa and travel. Updated June 2026."
+description: "Live DETE employment permit processing dates for Irish employers, plus the full hire-to-start timeline — LMNT, decision queue, visa and travel. Updated July 2026."
 date: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-01
 category: Employment Permits
 readTime: "10 min"
 slug: employment-permit-processing-times-ireland-employer-tracker
@@ -29,7 +29,7 @@ related:
   - { url: "/blog/critical-skills-list-ireland-employer-check-2026/", label: "Critical Skills list — employer check" }
 faq:
   - q: "How long does a work permit take to process in Ireland right now?"
-    a: "As of 23 June 2026, the Department of Enterprise, Tourism and Employment (DETE) is deciding New General Employment Permit applications received on 14 May 2026 — roughly a six-week queue — and Critical Skills Employment Permit applications received on 10 June 2026, around a two-week queue. These are the decision-stage waits only. The full journey from starting the process to the worker's first day is longer, because the Labour Market Needs Test, the entry visa and travel sit either side of the permit decision."
+    a: "As of 30 June 2026, the Department of Enterprise, Tourism and Employment (DETE) is deciding New General Employment Permit applications received on 21 May 2026 — roughly a six-week queue — and Critical Skills Employment Permit applications received on 15 June 2026, around a two-week queue. These are the decision-stage waits only. The full journey from starting the process to the worker's first day is longer, because the Labour Market Needs Test, the entry visa and travel sit either side of the permit decision."
   - q: "What is the difference between the DETE processing date and the total hiring timeline?"
     a: "The DETE processing date tells you which day's applications the department is currently deciding — it measures only the time your application sits in the decision queue. The total hiring timeline also includes the 28-day Labour Market Needs Test beforehand (for most General Employment Permits), then the entry visa, travel and immigration registration afterwards. For a General Employment Permit hire, around six months from start to first day is realistic."
   - q: "Is a Critical Skills Employment Permit faster than a General Employment Permit?"
@@ -44,28 +44,28 @@ faq:
 
 The headline processing date is only one stage of the journey. Quote it on its own and you will promise a start date you can't hit. Below are the current decision-queue dates, what they mean in practice, and the steps that sit either side of them.
 
-<h2 id="current-dates">Current DETE processing dates (June 2026)</h2>
+<h2 id="current-dates">Current DETE processing dates (July 2026)</h2>
 
 DETE processes employment permit applications in date order of receipt of the fully completed form and fee. The "processing date" is the day's applications the department is currently deciding — so the gap between that date and today is roughly how long a freshly submitted application waits for a decision.
 
-As of 23 June 2026, these are the dates being processed, taken directly from the DETE current processing dates page:
+As of 30 June 2026, these are the dates being processed, taken directly from the DETE current processing dates page:
 
 <table>
   <thead>
     <tr><th>Application type</th><th>Now deciding applications received on</th><th>Approx. decision wait</th></tr>
   </thead>
   <tbody>
-    <tr><td>Critical Skills Employment Permit (new)</td><td>10 June 2026</td><td>~2 weeks</td></tr>
-    <tr><td>New General Employment Permit</td><td>14 May 2026</td><td>~6 weeks</td></tr>
-    <tr><td>All other new applications (excl. CSEP, GEP, ICT)</td><td>28 April 2026</td><td>~8 weeks</td></tr>
-    <tr><td>Intra-Company Transfer (new)</td><td>12 May 2026</td><td>~6 weeks</td></tr>
-    <tr><td>Intra-Company Transfer (renewal)</td><td>19 March 2026</td><td>~14 weeks</td></tr>
-    <tr><td>All renewal applications</td><td>19 March 2026</td><td>~14 weeks</td></tr>
-    <tr><td>Reviews / appeals</td><td>12 December 2025</td><td>~6 months</td></tr>
+    <tr><td>Critical Skills Employment Permit (new)</td><td>15 June 2026</td><td>~2 weeks</td></tr>
+    <tr><td>New General Employment Permit</td><td>21 May 2026</td><td>~6 weeks</td></tr>
+    <tr><td>All other new applications (excl. CSEP, GEP, ICT)</td><td>15 May 2026</td><td>~7 weeks</td></tr>
+    <tr><td>Intra-Company Transfer (new)</td><td>15 May 2026</td><td>~7 weeks</td></tr>
+    <tr><td>Intra-Company Transfer (renewal)</td><td>26 March 2026</td><td>~14 weeks</td></tr>
+    <tr><td>All renewal applications</td><td>25 March 2026</td><td>~14 weeks</td></tr>
+    <tr><td>Reviews / appeals</td><td>16 December 2025</td><td>~6.5 months</td></tr>
   </tbody>
 </table>
 
-<p><em>Source: DETE, current processing dates for employment permits, as of 23 June 2026. The "approx. decision wait" is the calendar gap from that date and is a guide only — DETE updates these figures regularly, so check the live page before you commit to a start date. We keep this tracker current.</em></p>
+<p><em>Source: DETE, current processing dates for employment permits, as of 30 June 2026. The "approx. decision wait" is the calendar gap from that date and is a guide only — DETE updates these figures regularly, so check the live page before you commit to a start date. We keep this tracker current.</em></p>
 
 Two things stand out this month. First, the Critical Skills queue is currently shorter than the General Employment Permit queue — the faster permit is living up to its name. Second, renewals are sitting at around three months, so if you have a worker whose permit is due to expire, start the renewal early. You can apply to renew a General Employment Permit up to four months before expiry, and at the current pace you should.
 
